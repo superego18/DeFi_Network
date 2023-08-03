@@ -10,8 +10,7 @@ SNU 핀테크데이터사이언스 전문가 과정 중 파이썬 프로그래�
 DefiLlama API(https://defillama.com/docs/api)
 
 ### 활동내용
-목적: 디파이 네트워크 시각화
+목적: 코인 및 디파이 네트워크 시각화
 
 ### 역할
-
-### 결과
+streamlit 페이지 구상
