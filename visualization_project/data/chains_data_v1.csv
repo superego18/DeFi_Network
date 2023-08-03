@@ -1,0 +1,1319 @@
+,chain,protocol,protocol_category,protocol_chains,protocol_mcaptvl,protocol_tvl,protocol_mcap,protocol_strikeTvl
+0,Ethereum,Lido,Liquid Staking,"['Ethereum', 'Solana', 'Moonbeam', 'Moonriver', 'Terra Classic']",0.19811188078408387,10522896041.214918,2084710726.020478,True
+1,Ethereum,MakerDAO,CDP,['Ethereum'],0.08107939754263249,7759449173.041165,629131464.2128556,False
+2,Ethereum,AAVE,,"['Ethereum', 'Polygon', 'Avalanche', 'Optimism', 'Arbitrum', 'Fantom', 'Harmony']",,4834210246.3912525,,False
+3,Ethereum,Curve,Dexes,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Fantom', 'Gnosis', 'Celo', 'Avalanche', 'Kava', 'Moonbeam', 'Aurora', 'Harmony']",0.18609570260599984,4164487225.4857874,774993176.2204884,False
+4,Ethereum,Convex Finance,Yield,"['Ethereum', 'Polygon', 'Arbitrum']",0.11768096977786761,3667508168.952726,431595917.99060833,True
+5,Ethereum,Uniswap,,"['Ethereum', 'Arbitrum', 'Polygon', 'Optimism', 'BSC', 'Celo']",1.4177157795011355,3445241872.8983912,4884373767.406095,False
+6,Ethereum,Instadapp,Services,['Ethereum'],0.012403353122071508,2139112401.5888393,26532166.484708812,True
+7,Ethereum,Coinbase Wrapped Staked ETH,Liquid Staking,['Ethereum'],,2108817483.5236566,0.0,True
+8,Ethereum,Compound Finance,,"['Ethereum', 'Polygon']",,1858170087.7345686,,False
+9,Ethereum,Frax Finance,,"['Ethereum', 'Fantom', 'Dogechain', 'Polygon', 'BSC', 'Arbitrum', 'Avalanche', 'Moonbeam']",,1372258359.45057,,True
+10,Ethereum,Balancer,,"['Ethereum', 'Polygon', 'Arbitrum', 'Gnosis']",,1170529005.4117532,,False
+11,Ethereum,Rocket Pool,Liquid Staking,['Ethereum'],0.7243564627883083,1133988239.9919949,821411710.3641406,True
+12,Ethereum,Liquity,CDP,['Ethereum'],0.30075016726940484,712842779.5243689,214387585.17874143,False
+13,Ethereum,Aura,Yield,['Ethereum'],0.10468746209926416,704259077.412388,73727095.47467211,True
+14,Ethereum,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,411067775.0750496,,True
+15,Ethereum,Yearn Finance,Yield Aggregator,"['Ethereum', 'Fantom', 'Optimism', 'Arbitrum']",0.7266423101700471,402124430.7155767,292200625.3109817,True
+16,Ethereum,dYdX,Derivatives,['Ethereum'],1.2126077915500946,340441373.91868913,412821862.5798216,False
+17,Ethereum,Synthetix,Synthetics,"['Ethereum', 'Optimism']",3.007821755531491,310067090.1238391,932626539.3488268,False
+18,Ethereum,Arrakis Finance,,"['Ethereum', 'Polygon', 'Optimism']",,273801174.86894876,,True
+19,Ethereum,Nexus Mutual,Insurance,['Ethereum'],1.3228669764523007,262532857.084741,347296046.8710753,False
+20,Ethereum,Morpho,,['Ethereum'],,256208962.71649998,,False
+21,Ethereum,Olympus DAO,Reserve Currency,['Ethereum'],1.2101416928905349,237808614.85495204,287782119.7645249,False
+22,Ethereum,Tornado Cash,Privacy,"['Ethereum', 'BSC', 'Polygon', 'Arbitrum', 'Avalanche', 'Gnosis', 'Optimism']",0.05446389518695357,224959542.75268698,12252172.957787344,False
+23,Ethereum,Abracadabra,CDP,"['Ethereum', 'Arbitrum', 'Avalanche', 'Fantom']",0.41530538095663005,206376287.901914,85709182.86751956,False
+24,Ethereum,BendDAO,,['Ethereum'],,205749136.25990197,,False
+25,Ethereum,DefiSaver,Services,['Ethereum'],,161088160.2963485,,True
+26,Ethereum,StakeWise,Liquid Staking,"['Ethereum', 'Gnosis']",0.24002596337537124,155907344.95982295,37421810.671277836,True
+27,Ethereum,ParaSpace,,['Ethereum'],,143404443.94485041,,False
+28,Ethereum,Blur,NFT Marketplace,['Ethereum'],1.7136607838430833,136847820.95408553,234510744.12339613,False
+29,Ethereum,UniCrypt,Launchpad,"['Ethereum', 'BSC', 'Polygon', 'Avalanche', 'Gnosis']",0.1370661783446388,121124514.306248,16602074.279807942,False
+30,Tron,JustLend,Lending,['Tron'],0.06684147148481126,3683764607.298039,246228246.9554688,False
+31,Tron,JustStables,CDP,['Tron'],,1163036243.902335,0.0,False
+32,Tron,SUN,,['Tron'],0.13111743933341002,480291008.1572064,62974527.12443485,False
+33,Tron,SocialSwap,Dexes,['Tron'],,4979820.186328103,0.0,False
+34,Tron,UniFi,Dexes,"['IoTeX', 'Tron', 'Icon', 'Ontology', 'Harmony', 'BSC', 'Ethereum', 'Polygon', 'Avalanche', 'Fantom', 'OntologyEVM', 'Bittorrent']",24.189292866083253,1372402.169209088,33197438.001046576,False
+35,Tron,NEOPIN Staking,Liquid Staking,"['Klaytn', 'Tron']",,645269.1297249999,,True
+36,Tron,JustMoney,Dexes,"['Tron', 'BSC', 'Polygon', 'Bittorrent']",,253413.1522074139,0.0,False
+37,Tron,STRX Finance,Liquid Staking,['Tron'],,38004.608296303384,,True
+38,Tron,Garble.Money,Privacy,['Tron'],,8266.608,,False
+39,Tron,OneSwap,Dexes,"['CSC', 'Ethereum', 'Tron', 'BSC']",268.5069047607727,6560.914414252,1761650.8217711425,False
+40,Tron,RAIDSHIFT Marketplace,Dexes,['Tron'],,222.465958466,,False
+41,Tron,FlatCoin DEX,Farm,['Tron'],,125.795645872,,False
+42,Tron,Luminous Finance,Dexes,['Tron'],,0.0,0.0,False
+43,BSC,PancakeSwap,,"['BSC', 'Aptos', 'Ethereum']",,2284025868.961642,,False
+44,BSC,Venus,Lending,['BSC'],0.0821409809922291,915484735.2230347,75198814.2346312,False
+45,BSC,Alpaca Finance,,"['BSC', 'Fantom']",,209400543.86395016,,False
+46,BSC,PinkSale,Launchpad,"['BSC', 'Ethereum', 'Avalanche', 'Polygon', 'Cronos', 'Fantom']",0.10647402948489261,182062678.9207762,19384947.04350926,False
+47,BSC,Coinwind,Yield,"['BSC', 'Ethereum', 'Heco']",,175921722.9020543,0.0,True
+48,BSC,BiSwap,Dexes,['BSC'],0.42587592636510885,168069673.89106292,71576828.06223817,False
+49,BSC,UniCrypt,Launchpad,"['Ethereum', 'BSC', 'Polygon', 'Avalanche', 'Gnosis']",0.15378820613914593,107954144.8372612,16602074.279807942,False
+50,BSC,Thena,Dexes,['BSC'],0.06873321736800753,99441186.2448172,6834912.669497541,False
+51,BSC,Ankr,Liquid Staking,"['Ethereum', 'BSC', 'Avalanche', 'Fantom', 'Polkadot', 'Gnosis', 'Kusama']",3.8631192588038212,75632131.535756,292175943.92016286,True
+52,BSC,Helio Protocol,CDP,['BSC'],0.6097359998156369,67516639.1266685,41167325.46209076,False
+53,BSC,DxSale,Launchpad,"['BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Polygon', 'Avalanche', 'CORE', 'Cronos', 'Heco', 'OKExChain', 'KCC', 'Celo', 'Harmony', 'Milkomeda C1', 'Bitgert', 'Dexit', 'Moonriver', 'Dogechain', 'Gnosis', 'smartBCH']",0.02164601692489942,65246879.80886487,1412335.0646395674,False
+54,BSC,Tranchess,Yield,"['BSC', 'Ethereum']",0.5426641682707851,60619174.39909523,32895853.85654668,True
+55,BSC,Team Finance,Launchpad,"['Ethereum', 'BSC', 'Avalanche', 'Polygon', 'Kava']",0.5347608880477315,52885080.12544923,28280872.41236067,False
+56,BSC,Wombat Exchange,Dexes,['BSC'],0.1584935055663393,46356387.41425374,7347186.346676406,False
+57,BSC,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",0.9151045978835377,42942593.34325,39296964.61345107,True
+58,BSC,BabyDogeSwap,Dexes,['BSC'],8.741474368478743,41645756.4134747,364045312.24429834,False
+59,BSC,ApeSwap,,"['BSC', 'Polygon', 'Telos', 'Ethereum']",,41371985.61994653,,False
+60,BSC,MDEX,Dexes,"['BSC', 'Heco']",2.3448800118967856,34826136.75462023,81663111.96749297,False
+61,BSC,ApolloX,Derivatives,"['BSC', 'Ethereum', 'Arbitrum']",0.8464473655389462,32531604.362389218,27536290.809299644,False
+62,BSC,Tornado Cash,Privacy,"['Ethereum', 'BSC', 'Polygon', 'Arbitrum', 'Avalanche', 'Gnosis', 'Optimism']",0.3952239914256742,31000579.984,12252172.957787344,False
+63,BSC,W3swap,Dexes,['BSC'],,28739132.837060712,,False
+64,BSC,Level Finance,Derivatives,['BSC'],,26360090.439205766,,False
+65,BSC,Wombex Finance,Yield,['BSC'],0.10476317113889337,25590815.94309915,2680975.030230817,True
+66,BSC,Liqee,Lending,"['BSC', 'Ethereum']",,24952784.694437012,,False
+67,BSC,iZUMI Finance,,"['BSC', 'Ethereum', 'Polygon', 'Arbitrum', 'Cronos', 'Aurora']",,23980542.83640833,,True
+68,BSC,Stargate,Cross Chain,"['Ethereum', 'Arbitrum', 'Optimism', 'Avalanche', 'BSC', 'Polygon', 'Fantom', 'Metis', 'Goerli']",5.608626051922833,22127365.80630915,124104120.32169199,False
+69,BSC,Ellipsis Finance,Dexes,['BSC'],1.231951157687807,22095641.62515327,27220751.27996247,False
+70,BSC,Planet,,['BSC'],,20119812.515525773,,True
+71,BSC,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",1.1481852833593917,16817311.03348484,19309389.034324814,True
+72,BSC,ACryptoS,Yield Aggregator,"['BSC', 'Optimism', 'Kava', 'Fantom', 'Ethereum', 'Arbitrum', 'Cronos', 'Moonbeam', 'Astar', 'Polygon', 'Avalanche', 'Gnosis', 'Moonriver', 'Harmony']",0.15814377994470888,15360176.89388,2429116.434617561,True
+73,Arbitrum,GMX,Derivatives,"['Arbitrum', 'Avalanche']",1.4296257748357095,494620504.61357826,707122222.1578164,False
+74,Arbitrum,Uniswap V3,Dexes,"['Ethereum', 'Arbitrum', 'Polygon', 'Optimism', 'BSC', 'Celo']",,183421495.32766074,,False
+75,Arbitrum,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,127594973.00703566,,True
+76,Arbitrum,Camelot,Dexes,['Arbitrum'],,99099728.44547443,,False
+77,Arbitrum,AAVE V3,Lending,"['Ethereum', 'Avalanche', 'Polygon', 'Optimism', 'Arbitrum', 'Fantom', 'Harmony']",,91820376.28716439,,False
+78,Arbitrum,Stargate,Cross Chain,"['Ethereum', 'Arbitrum', 'Optimism', 'Avalanche', 'BSC', 'Polygon', 'Fantom', 'Metis', 'Goerli']",1.6401570001131163,75666000.45796405,124104120.32169199,False
+79,Arbitrum,Curve,Dexes,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Fantom', 'Gnosis', 'Celo', 'Avalanche', 'Kava', 'Moonbeam', 'Aurora', 'Harmony']",10.491808048746394,73866503.52539454,774993176.2204884,False
+80,Arbitrum,Balancer V2,Dexes,"['Ethereum', 'Polygon', 'Arbitrum', 'Gnosis']",,70102317.33918114,,False
+81,Arbitrum,Ramses Exchange,Dexes,['Arbitrum'],,58032362.514029466,0.0,False
+82,Arbitrum,ZyberSwap,,['Arbitrum'],,49670670.814749554,,False
+83,Arbitrum,Vela Exchange,Derivatives,['Arbitrum'],0.9631683019374597,48304352.357342556,46525221.03621036,False
+84,Arbitrum,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",1.0130234589170166,38791761.69865,39296964.61345107,True
+85,Arbitrum,SolidLizard,Dexes,['Arbitrum'],,38610463.2738486,0.0,False
+86,Arbitrum,Gains Network,Derivatives,"['Arbitrum', 'Polygon']",7.370669797191238,34867377.86488612,256995928.93597043,False
+87,Arbitrum,Dopex,Options,"['Arbitrum', 'BSC', 'Avalanche', 'Ethereum']",2.83740904177674,31197145.503272183,88519062.72860906,False
+88,Arbitrum,Abracadabra,CDP,"['Ethereum', 'Arbitrum', 'Avalanche', 'Fantom']",2.7704281546797507,30937161.363575287,85709182.86751956,False
+89,Arbitrum,Jones DAO,Options Vault,['Arbitrum'],0.5380871660616731,30112339.34321707,16203063.340679096,False
+90,Arbitrum,Arbitrum Exchange,Dexes,['Arbitrum'],,29446740.190808963,,False
+91,Arbitrum,Radiant,Lending,['Arbitrum'],6.946975715719739,21469913.666768774,149150968.861642,False
+92,Arbitrum,Lyra,Options,"['Arbitrum', 'Optimism', 'Ethereum']",2.3747335892977564,20359273.24045621,48347850.017802335,False
+93,Arbitrum,PlutusDAO,Yield,['Arbitrum'],0.5586908411640841,17673631.08475684,9874095.817166502,True
+94,Arbitrum,Vesta Finance,CDP,['Arbitrum'],0.36350052452600484,17498330.606377218,6360652.353747563,False
+95,Arbitrum,Rage Trade,Yield,['Arbitrum'],,14807161.073269684,,True
+96,Arbitrum,Hop Protocol,Cross Chain,"['Ethereum', 'Arbitrum', 'Optimism', 'Polygon', 'Gnosis']",1.3000432541896685,13651695.915349104,17747795.182998255,False
+97,Arbitrum,dForce,Lending,"['BSC', 'Arbitrum', 'Optimism', 'Ethereum', 'Polygon', 'Kava', 'Avalanche']",2.4818676162129156,13239603.264808772,32858942.59443568,False
+98,Arbitrum,MUX Protocol,,"['Arbitrum', 'BSC', 'Optimism', 'Avalanche', 'Fantom', 'Ethereum']",,12191930.149255555,,False
+99,Arbitrum,Shell Protocol,Dexes,['Arbitrum'],,10889614.598104348,,False
+100,Arbitrum,KyberSwap,,"['Ethereum', 'Polygon', 'Avalanche', 'Arbitrum', 'Optimism', 'BSC', 'Fantom', 'Cronos', 'Bittorrent', 'Oasis', 'Velas', 'Aurora']",,10150641.538479796,,False
+101,Arbitrum,Hegic,Options,"['Arbitrum', 'Ethereum']",2.2871164498027574,9978401.654581983,22821766.566933505,False
+102,Arbitrum,GMD Protocol,Yield Aggregator,['Arbitrum'],,8025843.072220395,0.0,True
+103,Polygon,AAVE,,"['Ethereum', 'Polygon', 'Avalanche', 'Optimism', 'Arbitrum', 'Fantom', 'Harmony']",,319522767.77884793,,False
+104,Polygon,Quickswap,,"['Polygon', 'Dogechain']",,157920049.29569528,,False
+105,Polygon,Balancer V2,Dexes,"['Ethereum', 'Polygon', 'Arbitrum', 'Gnosis']",,122869741.04988392,,False
+106,Polygon,Uniswap V3,Dexes,"['Ethereum', 'Arbitrum', 'Polygon', 'Optimism', 'BSC', 'Celo']",,92257055.49666573,,False
+107,Polygon,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",0.5088286423231769,77230252.67215998,39296964.61345107,True
+108,Polygon,Tetu,,"['Polygon', 'Ethereum', 'Fantom', 'BSC']",,62724853.825386904,,True
+109,Polygon,Klima DAO,Reserve Currency,['Polygon'],0.5692911794713738,45258690.9195258,25765373.5349072,False
+110,Polygon,Curve,Dexes,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Fantom', 'Gnosis', 'Celo', 'Avalanche', 'Kava', 'Moonbeam', 'Aurora', 'Harmony']",17.135149336199316,45228270.90763989,774993176.2204884,False
+111,Polygon,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,36865885.59579733,,True
+112,Polygon,Toucan Protocol,RWA,"['Polygon', 'Celo']",,34753288.43,,True
+113,Polygon,Gamma,Yield,"['Polygon', 'Arbitrum', 'Ethereum', 'Optimism', 'Celo']",0.28974970287343293,31897099.827626076,9242175.197578885,True
+114,Polygon,QiDao,CDP,"['Polygon', 'Fantom', 'Optimism', 'Ethereum', 'Metis', 'Arbitrum', 'Avalanche', 'BSC', 'Moonbeam', 'Gnosis', 'Harmony', 'Moonriver']",0.2427951506574619,27132300.07237132,6587590.883754859,False
+115,Polygon,Meshswap,Dexes,['Polygon'],,22261210.474244915,0.0,False
+116,Polygon,Stargate,Cross Chain,"['Ethereum', 'Arbitrum', 'Optimism', 'Avalanche', 'BSC', 'Polygon', 'Fantom', 'Metis', 'Goerli']",5.70725277514636,21744984.007390384,124104120.32169199,False
+117,Polygon,KyberSwap,,"['Ethereum', 'Polygon', 'Avalanche', 'Arbitrum', 'Optimism', 'BSC', 'Fantom', 'Cronos', 'Bittorrent', 'Oasis', 'Velas', 'Aurora']",,20461611.786750443,,False
+118,Polygon,Dfyn Network,Dexes,"['Polygon', 'Fantom', 'OKExChain']",0.48496167794302686,19073196.11073022,9249769.18959614,False
+119,Polygon,Gains Network,Derivatives,"['Arbitrum', 'Polygon']",14.999512592888783,17133618.665569928,256995928.93597043,False
+120,Polygon,Convex Finance,Yield,"['Ethereum', 'Polygon', 'Arbitrum']",28.313488761794606,15243473.583269302,431595917.99060833,True
+121,Polygon,Tangible,RWA,['Polygon'],,11994513.448385922,0.0,True
+122,Polygon,SPHERE,,"['Polygon', 'Arbitrum', 'Optimism']",,11991930.748014059,,True
+123,Polygon,ApeSwap AMM,Dexes,"['BSC', 'Polygon', 'Telos', 'Ethereum']",,9621758.644222554,,False
+124,Polygon,Compound V3,Lending,"['Ethereum', 'Polygon']",,8963445.393141085,,False
+125,Polygon,Proxy,Yield,"['Polygon', 'Ethereum']",,8033514.998810351,0.0,True
+126,Polygon,Metavault,,"['Polygon', 'Ethereum']",,7269264.65954227,,False
+127,Polygon,CIAN,Services,"['Avalanche', 'Polygon', 'Ethereum']",,6420991.45928,,True
+128,Polygon,Hop Protocol,Cross Chain,"['Ethereum', 'Arbitrum', 'Optimism', 'Polygon', 'Gnosis']",2.8469470308298255,6233974.496471452,17747795.182998255,False
+129,Polygon,Polymarket,Prediction Market,['Polygon'],,5666259.748221756,,False
+130,Polygon,0vix,Lending,['Polygon'],,5607328.690707379,,False
+131,Polygon,MM Finance,,"['Cronos', 'Polygon']",,4850606.503298335,,True
+132,Polygon,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",3.9816767578141854,4849562.184180179,19309389.034324814,True
+133,Optimism,Velodrome,Dexes,['Optimism'],0.102634064705698,301642364.0446732,30958781.909340702,False
+134,Optimism,Synthetix,Synthetics,"['Ethereum', 'Optimism']",5.960473296261412,156468537.4790284,932626539.3488268,False
+135,Optimism,AAVE V3,Lending,"['Ethereum', 'Avalanche', 'Polygon', 'Optimism', 'Arbitrum', 'Fantom', 'Harmony']",,92221370.10612316,,False
+136,Optimism,Curve,Dexes,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Fantom', 'Gnosis', 'Celo', 'Avalanche', 'Kava', 'Moonbeam', 'Aurora', 'Harmony']",9.342677142441087,82951938.12273765,774993176.2204884,False
+137,Optimism,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",0.5079593894584343,77362414.06098999,39296964.61345107,True
+138,Optimism,Uniswap V3,Dexes,"['Ethereum', 'Arbitrum', 'Polygon', 'Optimism', 'BSC', 'Celo']",,51037893.60606908,,False
+139,Optimism,Stargate,Cross Chain,"['Ethereum', 'Arbitrum', 'Optimism', 'Avalanche', 'BSC', 'Polygon', 'Fantom', 'Metis', 'Goerli']",2.5046303894250377,49549874.04356349,124104120.32169199,False
+140,Optimism,Sonne Finance,Lending,['Optimism'],0.20150482934631428,49062539.11661522,9886338.57199042,False
+141,Optimism,Beethoven X,Dexes,"['Fantom', 'Optimism']",0.21371094710171218,41968058.87539903,8969033.610281944,False
+142,Optimism,PoolTogether,Services,"['Optimism', 'Ethereum', 'Polygon', 'Avalanche', 'Celo', 'BSC']",0.10335705168412403,33114641.36832471,3422631.6994071687,True
+143,Optimism,dHEDGE,Indexes,"['Optimism', 'Polygon', 'Ethereum']",0.28031122987195156,21154255.174902886,5929775.285102124,False
+144,Optimism,Toros,Indexes,"['Optimism', 'Polygon']",,18067645.846344914,,False
+145,Optimism,Perpetual Protocol,Derivatives,"['Optimism', 'Ethereum']",3.5942394317807427,17003334.613681406,61114055.740256086,False
+146,Optimism,Pika Protocol,Derivatives,['Optimism'],,13403324.713135332,,False
+147,Optimism,Hop Protocol,Cross Chain,"['Ethereum', 'Arbitrum', 'Optimism', 'Polygon', 'Gnosis']",1.4675173394541903,12093755.014573894,17747795.182998255,False
+148,Optimism,USD+,Yield,"['Optimism', 'BSC', 'Polygon', 'Avalanche']",1.5171115463223344,11989885.111745853,18189993.142107885,True
+149,Optimism,Lyra,Options,"['Arbitrum', 'Optimism', 'Ethereum']",4.056491235679513,11918637.859377371,48347850.017802335,False
+150,Optimism,Reaper Farm,Yield Aggregator,"['Optimism', 'Fantom', 'BSC', 'Arbitrum']",3.052359083549128,11318350.074355083,34547668.660246685,True
+151,Optimism,ACryptoS,Yield Aggregator,"['BSC', 'Optimism', 'Kava', 'Fantom', 'Ethereum', 'Arbitrum', 'Cronos', 'Moonbeam', 'Astar', 'Polygon', 'Avalanche', 'Gnosis', 'Moonriver', 'Harmony']",0.21653831953026415,11217951.815119999,2429116.434617561,True
+152,Optimism,QiDao,CDP,"['Polygon', 'Fantom', 'Optimism', 'Ethereum', 'Metis', 'Arbitrum', 'Avalanche', 'BSC', 'Moonbeam', 'Gnosis', 'Harmony', 'Moonriver']",0.7298669321943948,9025742.355457613,6587590.883754859,False
+153,Optimism,KyberSwap,,"['Ethereum', 'Polygon', 'Avalanche', 'Arbitrum', 'Optimism', 'BSC', 'Fantom', 'Cronos', 'Bittorrent', 'Oasis', 'Velas', 'Aurora']",,8640307.08994162,,False
+154,Optimism,dForce,Lending,"['BSC', 'Arbitrum', 'Optimism', 'Ethereum', 'Polygon', 'Kava', 'Avalanche']",4.079132238645865,8055375.671111791,32858942.59443568,False
+155,Optimism,Hundred Finance,Lending,"['Optimism', 'Fantom', 'Arbitrum', 'Moonriver', 'Gnosis', 'Polygon', 'Harmony', 'Ethereum']",0.18306543464323244,6555656.172117898,1200114.0465203524,False
+156,Optimism,Pickle,Yield Aggregator,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Aurora', 'Metis', 'Moonbeam', 'Moonriver', 'OKExChain', 'Cronos', 'Kava', 'Harmony']",0.28938603866966656,5865161.129856,1697295.7455283336,True
+157,Optimism,Mummy Finance,Derivatives,"['Fantom', 'Optimism']",2.1828133787840995,4416146.2230375055,9639623.058313137,False
+158,Optimism,Tarot,Lending,"['Fantom', 'Optimism', 'BSC', 'Arbitrum', 'Kava', 'Ethereum']",1.2747943407344104,4330781.716197856,5520856.022765084,False
+159,Optimism,Arrakis V1,Yield,"['Ethereum', 'Polygon', 'Optimism']",,4215110.7312413845,,True
+160,Optimism,xToken,Services,"['Optimism', 'Ethereum', 'Arbitrum', 'Polygon']",0.5397140382397171,2875776.34730411,1552096.8654777643,True
+161,Optimism,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,2719553.9684970444,,True
+162,Optimism,Granary Finance,Lending,"['Fantom', 'Optimism', 'Metis', 'Arbitrum', 'Avalanche', 'BSC', 'Ethereum']",,2672921.6252052346,,False
+163,Avalanche,AAVE,,"['Ethereum', 'Polygon', 'Avalanche', 'Optimism', 'Arbitrum', 'Fantom', 'Harmony']",3.577930295265121,318442645.04179883,1139365586.9994094,False
+164,Avalanche,Benqi,,['Avalanche'],0.5720820659664754,236048633.92606977,135039190.16499025,True
+165,Avalanche,Trader Joe,,"['Avalanche', 'Arbitrum']",,98435558.25733344,,False
+166,Avalanche,GMX,Derivatives,"['Arbitrum', 'Avalanche']",7.550889761403341,93647536.1847154,707122222.1578164,False
+167,Avalanche,Stargate,Cross Chain,"['Ethereum', 'Arbitrum', 'Optimism', 'Avalanche', 'BSC', 'Polygon', 'Fantom', 'Metis', 'Goerli']",2.9859244274086083,41563048.00701139,124104120.32169199,False
+168,Avalanche,Yield Yak,,['Avalanche'],,36863170.29601039,,True
+169,Avalanche,Vector Finance,Yield,['Avalanche'],0.05961902080433518,35827005.212410584,2135970.9691157313,True
+170,Avalanche,Platypus Finance,Dexes,['Avalanche'],0.1050825921516587,35382700.33802019,3718105.868844532,False
+171,Avalanche,CIAN,Services,"['Avalanche', 'Polygon', 'Ethereum']",,29971114.67136,,True
+172,Avalanche,Pangolin,Dexes,"['Avalanche', 'Hedera', 'Flare', 'Songbird']",0.2787704255923043,27521661.86916067,7672225.392273414,False
+173,Avalanche,Curve,Dexes,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Fantom', 'Gnosis', 'Celo', 'Avalanche', 'Kava', 'Moonbeam', 'Aurora', 'Harmony']",41.58857892473412,18634759.740722325,774993176.2204884,False
+174,Avalanche,Yeti Finance,CDP,['Avalanche'],0.06470903837297091,16990240.074975774,1099422.0969775955,False
+175,Avalanche,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",2.8213791932757615,13928281.851339998,39296964.61345107,True
+176,Avalanche,KyberSwap,,"['Ethereum', 'Polygon', 'Avalanche', 'Arbitrum', 'Optimism', 'BSC', 'Fantom', 'Cronos', 'Bittorrent', 'Oasis', 'Velas', 'Aurora']",,11845968.294773377,,False
+177,Avalanche,DeltaPrime,Leveraged Farming,['Avalanche'],,11532121.132342748,,False
+178,Avalanche,Echidna Finance,Yield,['Avalanche'],0.0057394507833393536,8944448.240026798,51336.22045776011,True
+179,Avalanche,WOO Network,,"['BSC', 'Avalanche', 'Arbitrum', 'Polygon', 'Fantom', 'Optimism']",,5767158.042369717,,True
+180,Avalanche,Hubble Exchange,Derivatives,['Avalanche'],,3348280.614372716,,False
+181,Avalanche,Homora V2,Yield,"['Ethereum', 'Avalanche', 'BSC', 'Optimism', 'Fantom']",27.485345631935985,3329476.498841097,91511812.34405567,True
+182,Avalanche,MarginSwap,Dexes,"['Avalanche', 'Ethereum', 'Polygon', 'BSC']",0.08041575942525907,2494892.9784631,200628.7135478567,False
+183,Avalanche,InsurAce,Insurance,"['Ethereum', 'Avalanche', 'Polygon', 'BSC']",2.0199600634643216,2449914.662031617,4948729.776199557,False
+184,Avalanche,Waterfall DeFi,Yield Aggregator,"['Avalanche', 'BSC']",0.01656913554871792,2397169.5427824305,39719.027087620256,True
+185,Avalanche,Axial,Dexes,['Avalanche'],0.013338391453774384,2256525.2147142305,30098.4166391707,False
+186,Avalanche,Nereus Finance,Lending,['Avalanche'],6.285645920337979,1435394.1414733622,9022379.329429075,False
+187,Avalanche,StakeDAO,Yield,"['Ethereum', 'Polygon', 'Avalanche', 'BSC']",12.841881114405032,1416062.4247227681,18184905.308865912,True
+188,Avalanche,Iron Bank,Lending,"['Ethereum', 'Avalanche', 'Optimism', 'Fantom']",0.20656256533047163,1343484.3558035514,277513.5750161377,False
+189,Avalanche,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,1222527.870174071,,True
+190,Avalanche,Abracadabra,CDP,"['Ethereum', 'Arbitrum', 'Avalanche', 'Fantom']",73.51153363817305,1165928.373762189,85709182.86751956,False
+191,Avalanche,Team Finance,Launchpad,"['Ethereum', 'BSC', 'Avalanche', 'Polygon', 'Kava']",26.827673413378264,1054167.9100006388,28280872.41236067,False
+192,Avalanche,Zookeeper,Yield,"['Wanchain', 'Avalanche']",3.1658183913440823,982910.3790769107,3111715.7551246677,False
+193,Fantom,SpookySwap,Dexes,['Fantom'],0.19400267105100005,98300008.30725431,19070464.17594283,False
+194,Fantom,Beethoven X,Dexes,"['Fantom', 'Optimism']",0.18943944976028781,47345120.67909375,8969033.610281944,False
+195,Fantom,Geist Finance,Lending,['Fantom'],0.20356340982168383,46490690.23621612,9463803.429447817,False
+196,Fantom,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",1.0615718053936423,37017716.949329995,39296964.61345107,True
+197,Fantom,Equalizer Exchange,Dexes,['Fantom'],0.06467914612255868,33955808.04243171,2196232.670085994,False
+198,Fantom,Curve,Dexes,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Fantom', 'Gnosis', 'Celo', 'Avalanche', 'Kava', 'Moonbeam', 'Aurora', 'Harmony']",31.788060344780863,24380008.336926762,774993176.2204884,False
+199,Fantom,Spartacus,Reserve Currency,['Fantom'],,23273594.425996494,0.0,False
+200,Fantom,Stargate,Cross Chain,"['Ethereum', 'Arbitrum', 'Optimism', 'Avalanche', 'BSC', 'Polygon', 'Fantom', 'Metis', 'Goerli']",5.741418688435918,21615584.414990734,124104120.32169199,False
+201,Fantom,Hector Network,Dexes,"['Fantom', 'Ethereum', 'BSC']",0.34359323495055455,19617839.36771564,6740556.891093759,False
+202,Fantom,Tarot,Lending,"['Fantom', 'Optimism', 'BSC', 'Arbitrum', 'Kava', 'Ethereum']",0.29602343536553716,18650064.026004538,5520856.022765084,False
+203,Fantom,Yearn Finance,Yield Aggregator,"['Ethereum', 'Fantom', 'Optimism', 'Arbitrum']",16.24117968466773,17991342.4384332,292200625.3109817,True
+204,Fantom,Fantohm,Reserve Currency,"['Fantom', 'Ethereum', 'Moonriver', 'BSC', 'Boba']",0.09180998615277476,16997852.691702005,1560572.6202520663,False
+205,Fantom,Mummy Finance,Derivatives,"['Fantom', 'Optimism']",0.6789623328714941,14197581.502857257,9639623.058313137,False
+206,Fantom,Scream,Lending,['Fantom'],0.07805771036853447,11961762.07691298,933707.7596969927,False
+207,Fantom,Stader,Liquid Staking,"['Ethereum', 'Hedera', 'BSC', 'Fantom', 'Near', 'Terra2']",2.1847968548647603,11794724.068369098,25769076.048570495,True
+208,Fantom,SpiritSwap,,['Fantom'],,11455358.704487897,,False
+209,Fantom,Liquid Driver,Yield,"['Fantom', 'BSC']",0.7028932953417375,10175698.998929966,7152430.601763504,True
+210,Fantom,Reaper Farm,Yield Aggregator,"['Optimism', 'Fantom', 'BSC', 'Arbitrum']",3.4085127628042846,10135701.716376526,34547668.660246685,True
+211,Fantom,QiDao,CDP,"['Polygon', 'Fantom', 'Optimism', 'Ethereum', 'Metis', 'Arbitrum', 'Avalanche', 'BSC', 'Moonbeam', 'Gnosis', 'Harmony', 'Moonriver']",0.7290244139089623,9036173.21734508,6587590.883754859,False
+212,Fantom,Tomb Finance,,['Fantom'],,7959136.91794554,,False
+213,Fantom,Yoshi Exchange,Dexes,"['Fantom', 'BSC']",2.036938423676082,7774885.734368315,15836963.492025852,False
+214,Fantom,Granary Finance,Lending,"['Fantom', 'Optimism', 'Metis', 'Arbitrum', 'Avalanche', 'BSC', 'Ethereum']",,6875511.927133072,,False
+215,Fantom,WigoSwap,Dexes,['Fantom'],1.322798654537739,5391123.586636565,7131371.026849518,False
+216,Fantom,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,4811358.876863754,,True
+217,Fantom,Alpaca Finance,,"['BSC', 'Fantom']",,4248157.426408025,,False
+218,Fantom,Hundred Finance,Lending,"['Optimism', 'Fantom', 'Arbitrum', 'Moonriver', 'Gnosis', 'Polygon', 'Harmony', 'Ethereum']",0.39581594369869166,3032000.2658455805,1200114.0465203524,False
+219,Fantom,Spartacus Exchange,Dexes,['Fantom'],,2600913.493457541,,False
+220,Fantom,Morphex,Derivatives,['Fantom'],,2514575.6506403135,,False
+221,Fantom,DEUS Finance,CDP,"['Fantom', 'Ethereum', 'Polygon']",8.701896347691953,2097170.365863768,18249359.14719772,False
+222,Fantom,0xDAO,Yield,['Fantom'],,1885469.7778788293,0.0,True
+223,Mixin,Bwatch,Services,['Mixin'],,281111522.97,0.0,False
+224,Mixin,Pando,,['Mixin'],,141154742.87472582,,False
+225,Mixin,ExinPool,Liquid Staking,['Mixin'],,15117923.98,,True
+226,Mixin,Hodl Fox,Staking,['Mixin'],,1900504.38,,False
+227,Mixin,Option Dance,Options,['Mixin'],,1076327.21,,False
+228,Mixin,Ocean One,Dexes,['Mixin'],,839085.97,,False
+229,Mixin,ExinSwap,Dexes,['Mixin'],,541141.54,,False
+230,Cronos,VVS Finance,Dexes,['Cronos'],0.6518219081609359,197654934.4210782,128835816.51177184,False
+231,Cronos,Tectonic,Lending,['Cronos'],0.2657894888957956,126353154.91848011,33583340.46615411,False
+232,Cronos,Ferro,Dexes,['Cronos'],0.7877533554066383,36796993.34438171,28986954.97591243,False
+233,Cronos,MM Finance,,"['Cronos', 'Polygon']",0.07849003638677716,17116419.985900063,1343468.427504656,True
+234,Cronos,Veno Finance,Liquid Staking,['Cronos'],1.0901585336659851,4685742.603695026,5108202.285980404,True
+235,Cronos,Single Finance,Yield,"['Cronos', 'Fantom']",,4451864.508506371,0.0,True
+236,Cronos,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",9.573745665206927,4104659.3452199996,39296964.61345107,True
+237,Cronos,Fulcrom,Derivatives,['Cronos'],,2143316.0183983953,,False
+238,Cronos,Mimas Finance,Lending,['Cronos'],0.9381007706101945,1944179.355073009,1823836.1511984207,False
+239,Cronos,Argo Finance,Liquid Staking,['Cronos'],,1656878.7661521202,0.0,True
+240,Cronos,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",11.727750856746972,1646469.921657325,19309389.034324814,True
+241,Cronos,Crodex,Dexes,['Cronos'],0.1975688803640112,1182733.7982485262,233671.39228863563,False
+242,Cronos,CronaSwap,Dexes,['Cronos'],,862075.6746047534,0.0,False
+243,Cronos,Annex,Lending,"['BSC', 'Cronos', 'Kava']",1.1780870964574646,785622.2578379682,925531.4446486895,False
+244,Cronos,ACryptoS,Yield Aggregator,"['BSC', 'Optimism', 'Kava', 'Fantom', 'Ethereum', 'Arbitrum', 'Cronos', 'Moonbeam', 'Astar', 'Polygon', 'Avalanche', 'Gnosis', 'Moonriver', 'Harmony']",4.742714646744308,512178.49176,2429116.434617561,True
+245,Cronos,Bored Candy City,Dexes,['Cronos'],,481170.24100745417,,False
+246,Cronos,EmpireDEX,Dexes,"['BSC', 'Cronos', 'Empire', 'Fantom', 'Polygon', 'Ethereum', 'Avalanche', 'Gnosis', 'Kava']",,411773.5082441639,,False
+247,Cronos,DexPad,Launchpad,"['Cronos', 'Polygon', 'Kava', 'Avalanche']",,327540.03215257346,0.0,False
+248,Cronos,DarkCrypto,Algo-Stables,['Cronos'],0.8549453338926032,304910.3041639711,260681.64180076146,True
+249,Cronos,DarkAuto,Yield Aggregator,"['Cronos', 'Dogechain']",,304565.2981916832,,True
+250,Cronos,PhotonSwap Finance,Dexes,"['Cronos', 'Kava', 'Evmos']",,233296.26991199804,0.0,False
+251,Cronos,RadioShack,Dexes,"['BSC', 'Ethereum', 'Avalanche', 'Polygon', 'Cronos', 'Optimism', 'Fantom', 'Dogechain']",18.685340315612944,127397.24210695982,2380460.8240390792,False
+252,Cronos,Crow Finance,Dexes,['Cronos'],,102894.65257245702,,False
+253,Cronos,Elk,Dexes,"['Polygon', 'Kava', 'Avalanche', 'BSC', 'Fantom', 'Elastos', 'Gnosis', 'Ethereum', 'Cronos', 'Arbitrum', 'Optimism', 'IoTeX', 'Telos', 'Fuse', 'KCC', 'Heco', 'Bittorrent', 'OKExChain', 'Moonriver', 'Harmony', 'Hoo']",20.085561906773968,95646.92535539455,1921122.240418366,False
+254,Cronos,Darkness,Dexes,['Cronos'],0.4949008308924368,88822.43504146009,43958.29690390809,False
+255,Cronos,DxSale,Launchpad,"['BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Polygon', 'Avalanche', 'CORE', 'Cronos', 'Heco', 'OKExChain', 'KCC', 'Celo', 'Harmony', 'Milkomeda C1', 'Bitgert', 'Dexit', 'Moonriver', 'Dogechain', 'Gnosis', 'smartBCH']",16.484458571083014,85676.76387728508,1412335.0646395674,False
+256,Cronos,CGX Finance,Dexes,['Cronos'],,74961.89591024333,,False
+257,Cronos,CGO Finance,Yield Aggregator,['Cronos'],,71317.1680066301,,True
+258,Cronos,PinkSale,Launchpad,"['BSC', 'Ethereum', 'Avalanche', 'Polygon', 'Cronos', 'Fantom']",279.54378422861123,69344.94035344469,19384947.04350926,False
+259,Cronos,Crystl Finance,Yield,"['Cronos', 'Polygon', 'BSC']",0.16041703323486547,68545.80025374333,10995.913917415195,True
+260,DefiChain,DefiChain DEX,Dexes,['DefiChain'],1.6246379336321752,247613620.18521053,402282480.2368827,False
+261,DefiChain,DefiChain Loans,Synthetics,['DefiChain'],,95202424.41214915,,False
+262,Solana,Marinade Finance,Liquid Staking,['Solana'],0.06273237438544929,147002950.3408202,9221844.116545944,True
+263,Solana,Lido,Liquid Staking,"['Ethereum', 'Solana', 'Moonbeam', 'Moonriver', 'Terra Classic']",36.44199240175601,57206277.39113472,2084710726.020478,True
+264,Solana,Orca,Dexes,['Solana'],0.40474954991964135,47509669.230678335,19229517.23794809,False
+265,Solana,Raydium,Dexes,['Solana'],1.264675843466065,38890366.86460692,49183707.51720146,False
+266,Solana,Solend,Lending,['Solana'],0.5280715737298697,23098580.529627297,12197703.771206412,False
+267,Solana,Atrix,Dexes,['Solana'],,18476608.418102354,,False
+268,Solana,Quarry,Yield,['Solana'],,15829069.228496322,,True
+269,Solana,Francium,Yield,['Solana'],,15683732.986628668,,True
+270,Solana,Meteora,,['Solana'],,14924030.373770976,,True
+271,Solana,Tulip Protocol,Yield,['Solana'],0.17302678740572197,13326402.617835036,2305824.6326391995,True
+272,Solana,Cega,Exotic Options,['Solana'],,13201993.449329464,,False
+273,Solana,01,Dexes,['Solana'],,12838755.098327907,,False
+274,Solana,JPool,Liquid Staking,['Solana'],,12705806.549599342,0.0,True
+275,Solana,Jito,Liquid Staking,['Solana'],,12115268.097606134,0.0,True
+276,Solana,Saber,Dexes,['Solana'],0.1211583652864159,9942206.782083178,1204581.5210567152,False
+277,Solana,Parrot Protocol,CDP,['Solana'],,9134207.027995294,0.0,False
+278,Solana,Port Finance,Lending,['Solana'],0.16401283791120727,7395210.673756993,1212909.4895541356,False
+279,Solana,Larix,Lending,['Solana'],,6927674.898622963,0.0,False
+280,Solana,Kamino,Yield,['Solana'],,6715675.517118408,,True
+281,Solana,DOOAR,Dexes,"['Solana', 'BSC']",,6404785.559382377,,False
+282,Solana,FRAKT,NFT Lending,['Solana'],0.12792216409419102,5533921.895431682,707911.2647918481,False
+283,Solana,Drift,Derivatives,['Solana'],,5346706.240944943,,False
+284,Solana,OpenBook,Dexes,['Solana'],,4959666.279840522,,False
+285,Solana,UXD,Algo-Stables,['Solana'],6.394742042809801,4552419.715905252,29111549.753815565,False
+286,Solana,Lifinity,Dexes,['Solana'],,4204586.810257367,0.0,False
+287,Solana,Hubble,CDP,['Solana'],0.9104596257874901,3396520.3663485353,3092394.661725276,False
+288,Solana,Sunny,Yield,['Solana'],0.19810621595413522,2492682.5115368394,493815.89993561327,True
+289,Solana,PsyOptions,Options,['Solana'],0.5514005144325064,2424094.2071909546,1336646.7928779512,False
+290,Solana,Katana,Options Vault,['Solana'],,2360152.7312125596,,False
+291,Solana,Zeta,Options,['Solana'],,2210689.856457076,,True
+292,Kava,Kava Lend,Lending,['Kava'],0.29883762606374703,86887642.13734567,25965296.710600775,False
+293,Kava,Kava Mint,CDP,['Kava'],,81789133.5708149,,False
+294,Kava,Kava Earn,Yield Aggregator,['Kava'],,42768674.33820977,,True
+295,Kava,Kava Liquid,Liquid Staking,['Kava'],,42740989.01222242,,True
+296,Kava,Equilibre,Dexes,['Kava'],,24538901.800024156,,False
+297,Kava,Mare Finance,Lending,['Kava'],,24493806.78006625,,False
+298,Kava,Curve,Dexes,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Fantom', 'Gnosis', 'Celo', 'Avalanche', 'Kava', 'Moonbeam', 'Aurora', 'Harmony']",71.52503956162138,10835270.850186724,774993176.2204884,False
+299,Kava,ACryptoS,Yield Aggregator,"['BSC', 'Optimism', 'Kava', 'Fantom', 'Ethereum', 'Arbitrum', 'Cronos', 'Moonbeam', 'Astar', 'Polygon', 'Avalanche', 'Gnosis', 'Moonriver', 'Harmony']",0.2347727439177393,10346671.3984,2429116.434617561,True
+300,Kava,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",6.758536727739422,5814419.03721,39296964.61345107,True
+301,Kava,Kava Swap,Dexes,['Kava'],1.0245219978568854,4668469.999970929,4782950.21130515,False
+302,Kava,Tarot,Lending,"['Fantom', 'Optimism', 'BSC', 'Arbitrum', 'Kava', 'Ethereum']",5.269657676274824,1047668.816823,5520856.022765084,False
+303,Kava,Sushi Trident,Dexes,"['Bittorrent', 'Optimism', 'Polygon', 'Arbitrum', 'Kava', 'Metis', 'Avalanche', 'BSC']",,879414.7566390618,,False
+304,Kava,Elk,Dexes,"['Polygon', 'Kava', 'Avalanche', 'BSC', 'Fantom', 'Elastos', 'Gnosis', 'Ethereum', 'Cronos', 'Arbitrum', 'Optimism', 'IoTeX', 'Telos', 'Fuse', 'KCC', 'Heco', 'Bittorrent', 'OKExChain', 'Moonriver', 'Harmony', 'Hoo']",4.997359470814601,384427.4664726512,1921122.240418366,False
+305,Kava,Weld Finance,Farm,['Kava'],,321559.7242866251,,False
+306,Kava,Kava Boost,Farm,['Kava'],,279540.65950945776,,False
+307,Kava,Team Finance,Launchpad,"['Ethereum', 'BSC', 'Avalanche', 'Polygon', 'Kava']",200.0144825657311,141394.12331337895,28280872.41236067,False
+308,Kava,FunDex,Dexes,"['Arbitrum', 'Kava', 'Optimism']",,120264.94156371738,,False
+309,Kava,Blueshift,Dexes,"['Milkomeda C1', 'Milkomeda A1', 'Kava']",,103343.46599304,0.0,False
+310,Kava,Surfswap,,['Kava'],,84273.92329992769,,False
+311,Kava,Annex,Lending,"['BSC', 'Cronos', 'Kava']",11.109654757575553,83308.74944764414,925531.4446486895,False
+312,Kava,KSwap,Dexes,['Kava'],,61025.69103644545,,False
+313,Kava,Archly Finance,Dexes,"['Telos', 'Arbitrum', 'Optimism', 'BSC', 'Fantom', 'Polygon', 'Arbitrum Nova', 'Kava']",,21038.968553055645,,False
+314,Kava,Lockless Protocol,Liquid Staking,"['Kava', 'Echelon']",,18232.003371257302,,True
+315,Kava,Symbiosis Finance,Cross Chain,"['Ethereum', 'Boba', 'Avalanche', 'Boba_Bnb', 'BSC', 'Telos', 'Polygon', 'Kava', 'Boba_Avax', 'Aurora']",276.15937014100393,12989.771038852,3587246.988365223,False
+316,Kava,Gamut Exchange,Dexes,['Kava'],,12672.530144885699,,False
+317,Kava,ABcDeFX,Dexes,"['Kava', 'KCC', 'MultiVAC', 'Fantom', 'Echelon']",,12022.218311832332,,False
+318,Kava,Router Protocol,Cross Chain,"['Polygon', 'Ethereum', 'BSC', 'Fantom', 'Avalanche', 'Arbitrum', 'Optimism', 'Kava', 'Aurora', 'Cronos', 'Harmony']",3642.521038512874,7517.22905474,27381664.983210694,False
+319,Kava,Grim Finance,Yield,"['Fantom', 'Arbitrum', 'Kava', 'Avalanche', 'Polygon']",20.561515045093618,6135.157569999999,126148.13467957499,True
+320,Kava,Kanvas,NFT Marketplace,['Kava'],,2836.5046041132778,,False
+321,Kava,Jupiter Swap,Dexes,['Kava'],,1664.784875666516,,False
+322,Klaytn,KlaySwap,Dexes,['Klaytn'],,117569274.86667885,0.0,False
+323,Klaytn,Kleva Protocol,,['Klaytn'],,38979989.33498664,,True
+324,Klaytn,KLAYstation,Liquid Staking,['Klaytn'],,31724295.81,,True
+325,Klaytn,Stake.ly,Liquid Staking,['Klaytn'],,21761013.696837373,,True
+326,Klaytn,NEOPIN,,"['Klaytn', 'Tron', 'Polygon']",,13008424.840467831,,True
+327,Klaytn,Pangea Swap,Dexes,['Klaytn'],,10190039.095412174,,False
+328,Klaytn,KlayBank,Lending,['Klaytn'],,7437564.274990244,,False
+329,Klaytn,Kokonut Swap,Dexes,['Klaytn'],,4972262.693290208,,False
+330,Klaytn,Kokoa Finance,CDP,['Klaytn'],,4702087.693159999,0.0,False
+331,Klaytn,Klayportal,Staking,['Klaytn'],,4248950.602906967,,False
+332,Klaytn,Klap,Lending,['Klaytn'],0.0035444891949260866,3795812.0958397184,13454.214959673625,False
+333,Klaytn,Defi Kingdoms,Dexes,"['Klaytn', 'Harmony']",7.362850041682527,3584254.1222756817,26390325.613598272,False
+334,Klaytn,ClaimSwap,Dexes,['Klaytn'],,3239146.97804,0.0,False
+335,Klaytn,Eklipse Finance,Dexes,['Klaytn'],,1847041.9224310238,,False
+336,Klaytn,BiFi,Lending,"['Bitcoin', 'BSC', 'Ethereum', 'Klaytn', 'Avalanche']",1.7675576622817886,1422714.1462678136,2514729.2904723673,False
+337,Klaytn,Definix,Dexes,"['BSC', 'Klaytn']",,1168810.4911064324,0.0,False
+338,Klaytn,Pala,Dexes,['Klaytn'],,627320.984926536,,False
+339,Klaytn,Belt Finance,Yield,"['BSC', 'Heco', 'Klaytn']",5.108928848023922,532389.2727999999,2719938.914186397,True
+340,Klaytn,Shoebill Finance,Lending,['Klaytn'],,470549.53475765494,,True
+341,Klaytn,Mesher,Lending,"['Ethereum', 'Klaytn']",,347134.506208507,0.0,False
+342,Klaytn,KLEX Finance,Dexes,['Klaytn'],,331172.810935284,,False
+343,Klaytn,Electrik Finance,Yield Aggregator,['Klaytn'],,28326.86314346,,True
+344,Klaytn,Qubit,Lending,"['BSC', 'Klaytn']",,17172.721735612038,0.0,False
+345,Klaytn,Neuronswap,Dexes,['Klaytn'],,13672.755245035227,,False
+346,Klaytn,Kumu Finance,Yield,['Klaytn'],,0.5260745125338064,0.0,True
+347,Klaytn,Kronos DAO,Reserve Currency,['Klaytn'],,0.03293486156427203,,False
+348,Klaytn,RHEA DAO,Reserve Currency,['Klaytn'],,0.0,,False
+349,Klaytn,Swapscanner,Dexes,['Klaytn'],,0.0,,False
+350,Klaytn,Ignite Finance,Reserve Currency,['Klaytn'],,0.0,,False
+351,Klaytn,Zombie Network,Yield,['Klaytn'],,0.0,,True
+352,Osmosis,Osmosis DEX,Dexes,['Osmosis'],2.7110240841820166,172100606.36023182,466568888.7449172,False
+353,Osmosis,Mars Protocol,Lending,"['Osmosis', 'Terra Classic']",,6319826.266900837,0.0,False
+354,Osmosis,ION DAO,Synthetics,['Osmosis'],10.747290387675815,1735294.64453184,18649715.452962365,False
+355,Bitcoin,Lightning Network,Payments,['Bitcoin'],,154052651.12494782,,False
+356,Bitcoin,BiFi,Lending,"['Bitcoin', 'BSC', 'Ethereum', 'Klaytn', 'Avalanche']",0.23647389499577612,10634278.640005,2514729.2904723673,False
+357,Bitcoin,Mento,Algo-Stables,"['Celo', 'Ethereum', 'Bitcoin']",36.71035053255231,9025393.627917798,331325363.7751264,False
+358,Bitcoin,BoringDAO,Cross Chain,"['Bitcoin', 'Litecoin', 'Ethereum', 'Metis', 'Doge', 'IoTeX', 'BSC', 'Aurora', 'Optimism', 'Arbitrum', 'Polygon', 'Avalanche', 'Fantom', 'Heco', 'OKExChain', 'KCC', 'Gnosis', 'Harmony', 'Oasis', 'Boba']",3.0413479052578136,1194144.9449608,3631810.226930736,False
+359,Bitcoin,Bisq,Dexes,['Bitcoin'],,0.0,,False
+360,Fusion,Chainge Finance,Dexes,['Fusion'],0.2086916178497536,167298196.19890964,34913731.22809595,False
+361,Algorand,Algofi,,['Algorand'],,102158943.56782429,,False
+362,Algorand,Folks Finance,,['Algorand'],,54736293.26933354,,True
+363,Algorand,Lofty,RWA,['Algorand'],,26826334.385759998,,True
+364,Algorand,Pact,Dexes,['Algorand'],,11617626.694868488,,False
+365,Algorand,Tinyman,Dexes,['Algorand'],,10174639.31080985,,False
+366,Algorand,GARD,CDP,['Algorand'],,4619282.127234933,,False
+367,Algorand,Humble Defi,Dexes,['Algorand'],,3917125.480259596,,False
+368,Algorand,AlgoRai Finance,Options Vault,['Algorand'],,943688.7646223095,,False
+369,Algorand,Cometa,Yield,['Algorand'],,181208.18222135998,,True
+370,Algorand,Yieldly,Yield,['Algorand'],,92262.02390798401,0.0,True
+371,Algorand,Deflex,Dexes,['Algorand'],,65768.78831689869,,False
+372,Algorand,pNetwork,Cross Chain,"['BSC', 'Ultra', 'Ethereum', 'Polygon', 'EOS', 'LBRY', 'Telos', 'Algorand', 'Arbitrum']",310.12990854030267,59043.343374288,18311106.68058162,False
+373,Algorand,MessinaOne,Cross Chain,"['Ethereum', 'Algorand', 'Cronos']",,33541.4437676184,,False
+374,Algorand,Algodex,Dexes,['Algorand'],,32153.3977102749,0.0,False
+375,Algorand,xBacked,CDP,['Algorand'],,23573.310595807878,,False
+376,Algorand,Deridex,Derivatives,['Algorand'],,325.98503516,,True
+377,Algorand,Silo Protocol,Options Vault,['Algorand'],,99.113692717944,,False
+378,Algorand,Algomint,Algo-Stables,['Algorand'],,63.063970803002,,False
+379,Algorand,Opulous,Lending,['Algorand'],,0.0,43815881.14984783,False
+380,Algorand,Notiboy,Services,['Algorand'],,0.0,,False
+381,Celo,Mento,Algo-Stables,"['Celo', 'Ethereum', 'Bitcoin']",3.8489234038124005,86082607.78765954,331325363.7751264,False
+382,Celo,Curve,Dexes,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Fantom', 'Gnosis', 'Celo', 'Avalanche', 'Kava', 'Moonbeam', 'Aurora', 'Harmony']",35.07241928910001,22096940.899122544,774993176.2204884,False
+383,Celo,Moola Market,Lending,['Celo'],0.07262541155063187,5328619.675047095,386993.19689708954,False
+384,Celo,Wrapped,Cross Chain,"['Ethereum', 'Celo']",,3680205.924611679,,False
+385,Celo,Ubeswap,Dexes,['Celo'],0.41863003759393824,3230674.346020257,1352457.3229282321,False
+386,Celo,Mobius Money,Dexes,['Celo'],,3189690.8783840425,0.0,False
+387,Celo,Uniswap V3,Dexes,"['Ethereum', 'Arbitrum', 'Polygon', 'Optimism', 'BSC', 'Celo']",,1727390.1653716257,,False
+388,Celo,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,1286783.2415219946,,True
+389,Celo,stCELO,Liquid Staking,['Celo'],,733229.0354825639,,True
+390,Celo,Toucan Protocol,RWA,"['Polygon', 'Celo']",,521313.13999999996,,True
+391,Celo,Poof Cash,Lending,['Celo'],,192327.59567494318,0.0,False
+392,Celo,HaloFi,Services,"['Polygon', 'Celo']",,175184.897422004,,False
+393,Celo,Immortal,Reserve Currency,['Celo'],,100501.44740714836,0.0,False
+394,Celo,PoolTogether,Services,"['Optimism', 'Ethereum', 'Polygon', 'Avalanche', 'Celo', 'BSC']",41.238637280941866,82995.75168040078,3422631.6994071687,True
+395,Celo,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",515.1454527427803,76283.24079,39296964.61345107,True
+396,Celo,Chee Finance,Lending,"['Meter', 'Celo', 'BSC']",,44980.5151862671,,False
+397,Celo,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",564.4884406231074,34206.8812126786,19309389.034324814,True
+398,Celo,O3 Swap,Cross Chain,"['BSC', 'Ethereum', 'Polygon', 'Arbitrum', 'Optimism', 'Avalanche', 'Fantom', 'Cube', 'Bitgert', 'KCC', 'Metis', 'Gnosis', 'Celo', 'Astar']",159.09731722223893,16574.1,2636894.84537311,False
+399,Celo,Symmetric,Dexes,"['Gnosis', 'Celo', 'Kava']",,15642.030174470836,0.0,False
+400,Celo,DxSale,Launchpad,"['BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Polygon', 'Avalanche', 'CORE', 'Cronos', 'Heco', 'OKExChain', 'KCC', 'Celo', 'Harmony', 'Milkomeda C1', 'Bitgert', 'Dexit', 'Moonriver', 'Dogechain', 'Gnosis', 'smartBCH']",129.0585655336522,10943.365586000558,1412335.0646395674,False
+401,Celo,Infinity Pad,Launchpad,"['BSC', 'Celo', 'Fuse']",6.5421564513954245,2394.2920058399422,15663.83289253027,False
+402,Celo,YieldWolf,Yield,"['Fantom', 'Avalanche', 'Cronos', 'BSC', 'Polygon', 'Celo', 'Harmony']",,1135.5209704709107,,True
+403,Celo,Numoen,Derivatives,"['Arbitrum', 'Celo']",,619.037233157892,,False
+404,Celo,Gamma,Yield,"['Polygon', 'Arbitrum', 'Ethereum', 'Optimism', 'Celo']",76480.99219013538,120.84277325537825,9242175.197578885,True
+405,Celo,Crypto Lottery,Prediction Market,"['BSC', 'Polygon', 'KCC', 'Avalanche', 'Celo', 'CSC']",,0.673308,,False
+406,Celo,Talent Protocol,Services,['Celo'],,0.008367684654381126,,False
+407,Celo,Swap Cat,Dexes,"['Gnosis', 'Heco', 'OKExChain', 'Songbird', 'Harmony', 'KCC', 'Fantom', 'BSC', 'EthereumClassic', 'Celo', 'TomoChain', 'GoChain', 'Ethereum', 'EnergyWeb', 'Rootstock', 'Moonriver', 'HPB', 'Avalanche', 'Polygon', 'smartBCH', 'Arbitrum']",,0.0,,False
+408,Celo,DAO Maker Vesting,Services,"['Celo', 'Fantom', 'Step', 'Polygon', 'BSC', 'Ethereum']",,0.0,255386443.99232692,False
+409,Celo,ImpactMarket,Yield,['Celo'],,0.0,2043146.6723236085,True
+410,Celo,EthicHub,Lending,"['Celo', 'Ethereum']",,0.0,1285592.8325208074,False
+411,Cardano,Minswap,Dexes,['Cardano'],,48188708.9280637,0.0,False
+412,Cardano,Indigo,CDP,['Cardano'],0.3144859322845658,18971755.07915179,5966350.083141497,False
+413,Cardano,WingRiders,Dexes,['Cardano'],,16629670.188299809,0.0,False
+414,Cardano,Djed Stablecoin,CDP,['Cardano'],,11446248.534239076,,False
+415,Cardano,MuesliSwap,Dexes,"['Cardano', 'Milkomeda C1', 'smartBCH']",,7710595.34739169,0.0,False
+416,Cardano,Liqwid,Lending,['Cardano'],,7478167.278315514,0.0,False
+417,Cardano,SundaeSwap,Dexes,['Cardano'],,7228203.683541199,0.0,False
+418,Cardano,Optim Finance,Lending,['Cardano'],,3077807.5289078,,False
+419,Cardano,Aada,Lending,['Cardano'],,1791191.7547631857,0.0,False
+420,Cardano,Lending Pond,Lending,['Cardano'],,765782.816049,,False
+421,Cardano,ADAX Pro,Dexes,['Cardano'],2.827096646978309,154604.0,437080.45000943454,False
+422,Cardano,FluidTokens,Lending,['Cardano'],,82879.50919499999,,False
+423,Cardano,MeowSwapFi,Dexes,['Cardano'],,37067.32034818445,0.0,False
+424,Cardano,VyFinance,Staking,['Cardano'],,0.0,0.0,False
+425,Cardano,Meld,Lending,['Cardano'],,0.0,25286353.73749843,False
+426,Cardano,Revuto,Services,['Cardano'],,0.0,1964770.2424566392,False
+427,Cardano,Genius Yield,Dexes,['Cardano'],,0.0,0.0,False
+428,EOS,EOS REX,Lending,['EOS'],18.492870594358784,73300219.085928,1355531466.0942144,False
+429,EOS,DefiBox,Dexes,"['EOS', 'Wax', 'BSC']",0.13845921501450942,37272959.69766784,5160784.741006535,False
+430,EOS,PayCash,Dexes,['EOS'],,6090836.4507,0.0,False
+431,EOS,DeFis Network,Dexes,['EOS'],,3913699.836686686,0.0,False
+432,EOS,WhaleEx,Dexes,['EOS'],,3096664.1821470666,,False
+433,EOS,pNetwork,Cross Chain,"['BSC', 'Ultra', 'Ethereum', 'Polygon', 'EOS', 'LBRY', 'Telos', 'Algorand', 'Arbitrum']",6.2119673873608745,2947714.554625344,18311106.68058162,False
+434,EOS,Equilibrium,CDP,['EOS'],3.9839084510785434,849348.84992976,3383728.0611490123,False
+435,EOS,Vigor,Lending,['EOS'],0.24204278206826357,846202.5183344712,204817.2117308462,False
+436,EOS,NewDex,Dexes,['EOS'],3.090329517873201,327334.039682982,1011570.0450369971,False
+437,EOS,Pizza,Lending,['EOS'],,319400.5584,0.0,False
+438,EOS,DMD Finance,Staking,['EOS'],,191119.43548924022,0.0,False
+439,EOS,BetHash,Prediction Market,['EOS'],,130899.915465,,False
+440,EOS,SportBet,Prediction Market,['EOS'],,96596.57397547721,0.0,False
+441,EOS,OGX,Synthetics,['EOS'],,47855.30931595081,0.0,False
+442,EOS,Dapp Account DAO,Yield,['EOS'],,35376.09024223,,True
+443,EOS,AtomicHub,Dexes,"['Wax', 'EOS']",,17903.479077,,False
+444,EOS,DolphinSwap,Dexes,['EOS'],,12547.645159646834,,False
+445,EOS,Alcor Exchange,Dexes,"['Wax', 'EOS']",,4730.1972154000005,,False
+446,EOS,OBSwap,Dexes,['EOS'],,1989.1281830190974,,False
+447,EOS,Chintai,Lending,['EOS'],,1825.429816979739,0.0,False
+448,EOS,eCurve,Dexes,['EOS'],,0.0,,False
+449,Waves,Vires Finance,Lending,['Waves'],0.0516126657018803,98656513.01542434,5091925.625578299,False
+450,Waves,Swop,Dexes,['Waves'],0.0632460941984358,8365349.334289947,529075.6719993241,False
+451,Waves,Neutrino,Indexes,['Waves'],1.1693652802324728,6567696.063040111,7680035.747238608,False
+452,Waves,WX Network,Dexes,['Waves'],,2831210.197594748,0.0,False
+453,Waves,Pluto,Reserve Currency,['Waves'],,1452897.188749006,,False
+454,Waves,PepeTeam sWAVES,Liquid Staking,['Waves'],,610723.9526133438,,True
+455,Waves,Puzzle Swap,Dexes,['Waves'],,416814.660388224,0.0,False
+456,Canto,Canto Dex,Dexes,['Canto'],,64269717.61003011,,False
+457,Canto,Canto Lending,Lending,['Canto'],,35263805.323314205,,False
+458,Canto,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",2.5133331893359077,15635397.956859998,39296964.61345107,True
+459,Canto,Velocimeter,,['Canto'],,14166624.461194623,,False
+460,Canto,Y2R,Yield Aggregator,['Canto'],,272769.74975470704,,True
+461,Canto,Forteswap,Dexes,['Canto'],,170029.72709595744,,False
+462,Canto,CantoSwap,Dexes,['Canto'],,107274.77051659104,,False
+463,Canto,cantOHM,Reserve Currency,['Canto'],,782.9818563315218,,False
+464,Canto,Manifesto,Reserve Currency,['Canto'],,0.0,,False
+465,Ronin,Katana DEX,Dexes,['Ronin'],,83851822.87061615,,False
+466,MultiversX,xExchange,Dexes,['MultiversX'],0.46350749097899596,76229284.51969573,35332844.406848185,False
+467,MultiversX,Proteo Defi,Farm,['MultiversX'],,4522209.035185179,0.0,False
+468,MultiversX,Ashswap,Dexes,['MultiversX'],,2412307.744517764,0.0,False
+469,MultiversX,QuantumX Network,Services,['MultiversX'],,324372.46352112,,False
+470,MultiversX,Jexchange,Dexes,['MultiversX'],,65017.576917459686,,False
+471,MultiversX,EsdtMarket,Dexes,['MultiversX'],,9730.770991482788,,False
+472,Gnosis,RealT,,['Gnosis'],,79595224.46646081,,True
+473,Gnosis,Curve,Dexes,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Fantom', 'Gnosis', 'Celo', 'Avalanche', 'Kava', 'Moonbeam', 'Aurora', 'Harmony']",32.60683217284777,23767815.65631014,774993176.2204884,False
+474,Gnosis,Agave,Lending,['Gnosis'],0.07200071034065787,11497958.571528528,827861.18461751,False
+475,Gnosis,Swapr,Dexes,"['Gnosis', 'Ethereum', 'Arbitrum']",0.06641020285477046,10243751.00377693,680289.5821545845,False
+476,Gnosis,Honeyswap,Dexes,"['Gnosis', 'Polygon']",,6125530.5490616625,0.0,False
+477,Gnosis,StakeWise,Liquid Staking,"['Ethereum', 'Gnosis']",7.089592228366525,5278415.100031782,37421810.671277836,True
+478,Gnosis,Azuro,Prediction Market,"['Gnosis', 'Polygon']",,4517149.875627266,,False
+479,Gnosis,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,3646232.631719271,,True
+480,Gnosis,Balancer V2,Dexes,"['Ethereum', 'Polygon', 'Arbitrum', 'Gnosis']",,2872109.0377112203,,False
+481,Gnosis,Connext,Cross Chain,"['Gnosis', 'Fantom', 'BSC', 'Avalanche', 'Milkomeda C1', 'Polygon', 'Evmos', 'Boba', 'Optimism', 'Ethereum', 'Arbitrum', 'Moonriver', 'Fuse', 'Moonbeam', 'Cronos', 'Harmony']",,2584317.470780966,,False
+482,Gnosis,Gardens DAO,Services,['Gnosis'],,1854992.631437708,,False
+483,Gnosis,Hop Protocol,Cross Chain,"['Ethereum', 'Arbitrum', 'Optimism', 'Polygon', 'Gnosis']",13.446903045014034,1319842.5781450805,17747795.182998255,False
+484,Gnosis,Levinswap,Dexes,['Gnosis'],0.0006505445676722164,427840.55683081906,278.3293500761455,False
+485,Gnosis,BAO Finance,,"['Ethereum', 'Gnosis', 'BSC', 'Polygon']",7.781453863127937,383081.7412781799,2980932.89556287,False
+486,Gnosis,Elk,Dexes,"['Polygon', 'Kava', 'Avalanche', 'BSC', 'Fantom', 'Elastos', 'Gnosis', 'Ethereum', 'Cronos', 'Arbitrum', 'Optimism', 'IoTeX', 'Telos', 'Fuse', 'KCC', 'Heco', 'Bittorrent', 'OKExChain', 'Moonriver', 'Harmony', 'Hoo']",17.12543751249723,112179.45462803118,1921122.240418366,False
+487,Gnosis,Jarvis Network,Derivatives,"['Polygon', 'Arbitrum', 'Optimism', 'BSC', 'Gnosis', 'Avalanche']",47.223170171404945,104954.32223693997,4956275.819219487,False
+488,Gnosis,Superfluid,Payments,"['Polygon', 'Arbitrum', 'Gnosis', 'Optimism', 'Avalanche', 'BSC']",,83284.16649894124,,False
+489,Gnosis,ACryptoS,Yield Aggregator,"['BSC', 'Optimism', 'Kava', 'Fantom', 'Ethereum', 'Arbitrum', 'Cronos', 'Moonbeam', 'Astar', 'Polygon', 'Avalanche', 'Gnosis', 'Moonriver', 'Harmony']",29.76302861958378,81615.23028,2429116.434617561,True
+490,Gnosis,Hundred Finance,Lending,"['Optimism', 'Fantom', 'Arbitrum', 'Moonriver', 'Gnosis', 'Polygon', 'Harmony', 'Ethereum']",15.098230088969606,79487.06831518789,1200114.0465203524,False
+491,Gnosis,Ankr,Liquid Staking,"['Ethereum', 'BSC', 'Avalanche', 'Fantom', 'Polkadot', 'Gnosis', 'Kusama']",5204.416528681205,56140.0,292175943.92016286,True
+492,Gnosis,QiDao,CDP,"['Polygon', 'Fantom', 'Optimism', 'Ethereum', 'Metis', 'Arbitrum', 'Avalanche', 'BSC', 'Moonbeam', 'Gnosis', 'Harmony', 'Moonriver']",117.77478413644714,55933.797137109184,6587590.883754859,False
+493,Gnosis,Tornado Cash,Privacy,"['Ethereum', 'BSC', 'Polygon', 'Arbitrum', 'Avalanche', 'Gnosis', 'Optimism']",245.04443933350422,49999.8,12252172.957787344,False
+494,Gnosis,EmpireDEX,Dexes,"['BSC', 'Cronos', 'Empire', 'Fantom', 'Polygon', 'Ethereum', 'Avalanche', 'Gnosis', 'Kava']",,46249.137460882026,,False
+495,Gnosis,Symmetric,Dexes,"['Gnosis', 'Celo', 'Kava']",,36863.565755008596,0.0,False
+496,Gnosis,O3 Swap,Cross Chain,"['BSC', 'Ethereum', 'Polygon', 'Arbitrum', 'Optimism', 'Avalanche', 'Fantom', 'Cube', 'Bitgert', 'KCC', 'Metis', 'Gnosis', 'Celo', 'Astar']",75.79316079204885,34790.67,2636894.84537311,False
+497,Gnosis,Component,Dexes,"['Ethereum', 'BSC', 'Gnosis']",1.5328480092934957,32073.72619936447,49164.14735532047,False
+498,Gnosis,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",1360.7961104799533,14189.773828435169,19309389.034324814,True
+499,Gnosis,DeHive,Indexes,"['Ethereum', 'BSC', 'Gnosis', 'Polygon']",34.75689059658733,8983.454483314192,312236.94465597335,False
+500,Gnosis,BoringDAO,Cross Chain,"['Bitcoin', 'Litecoin', 'Ethereum', 'Metis', 'Doge', 'IoTeX', 'BSC', 'Aurora', 'Optimism', 'Arbitrum', 'Polygon', 'Avalanche', 'Fantom', 'Heco', 'OKExChain', 'KCC', 'Gnosis', 'Harmony', 'Oasis', 'Boba']",781.7035853421522,4646.019661456574,3631810.226930736,False
+501,Gnosis,UniCrypt,Launchpad,"['Ethereum', 'BSC', 'Polygon', 'Avalanche', 'Gnosis']",8837.096444245299,1878.6797659789245,16602074.279807942,False
+502,Rootstock,MoneyOnChain,Lending,['Rootstock'],,46152747.1676922,,False
+503,Rootstock,Sovryn,Dexes,['Rootstock'],0.9669984298538374,26430002.369999994,25557770.792823195,False
+504,Rootstock,BabelFish,Yield,['Rootstock'],,5068421.695382849,,True
+505,Rootstock,Tropykus Finance,Lending,['Rootstock'],,1228198.9263893,,False
+506,Rootstock,RskSwap,Dexes,['Rootstock'],,77237.41254974483,,False
+507,Rootstock,Blindex,Algo-Stables,['Rootstock'],,16402.255713000857,,False
+508,Rootstock,Swap Cat,Dexes,"['Gnosis', 'Heco', 'OKExChain', 'Songbird', 'Harmony', 'KCC', 'Fantom', 'BSC', 'EthereumClassic', 'Celo', 'TomoChain', 'GoChain', 'Ethereum', 'EnergyWeb', 'Rootstock', 'Moonriver', 'HPB', 'Avalanche', 'Polygon', 'smartBCH', 'Arbitrum']",,0.0,,False
+509,Aurora,Bastion,Lending,['Aurora'],0.025350206230321293,49448911.79722678,1253540.1119246664,False
+510,Aurora,Aurora Plus,Services,['Aurora'],4.510992460294398,8072716.48142171,36415963.181787655,False
+511,Aurora,Trisolaris,Dexes,['Aurora'],0.10025794552820914,6095374.264218109,611109.700956027,False
+512,Aurora,Aurigami,Lending,['Aurora'],0.4517659441433456,3793583.9877748517,1713812.051924184,False
+513,Aurora,Rift Finance,Yield,"['Aurora', 'Ethereum']",,640037.8072684587,,True
+514,Aurora,Polaris Finance,Dexes,['Aurora'],,477173.4475112225,0.0,False
+515,Aurora,Arctic,Dexes,['Aurora'],,442510.3824030943,,False
+516,Aurora,Nearpad,Dexes,['Aurora'],0.4037620035778418,402485.5826370064,162508.38525671273,False
+517,Aurora,AuroraSwap,Dexes,['Aurora'],,272563.21516739466,,False
+518,Aurora,WannaSwap,Dexes,['Aurora'],0.20823704480961705,230577.54188181905,48014.785920935705,False
+519,Aurora,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",230.7811241498773,170278.07087,39296964.61345107,True
+520,Aurora,PinkPea Finance,Yield Aggregator,['Aurora'],,158335.7734547346,0.0,True
+521,Aurora,Rose,Dexes,['Aurora'],,126404.10177922015,0.0,False
+522,Aurora,DODO,Dexes,"['Ethereum', 'BSC', 'Arbitrum', 'Polygon', 'Aurora']",888.7002958006442,104544.96942239715,92909145.25015365,False
+523,Aurora,Vaporwave,Yield Aggregator,['Aurora'],,90612.76999999999,0.0,True
+524,Aurora,BoringDAO,Cross Chain,"['Bitcoin', 'Litecoin', 'Ethereum', 'Metis', 'Doge', 'IoTeX', 'BSC', 'Aurora', 'Optimism', 'Arbitrum', 'Polygon', 'Avalanche', 'Fantom', 'Heco', 'OKExChain', 'KCC', 'Gnosis', 'Harmony', 'Oasis', 'Boba']",58.271614587082084,62325.54654038799,3631810.226930736,False
+525,Aurora,KillSwitch,Yield Aggregator,"['BSC', 'Aurora', 'KCC', 'CLV']",,58971.313484773396,0.0,True
+526,Aurora,BlueBit,Yield Aggregator,['Aurora'],,38331.277186961,0.0,True
+527,Aurora,Impossible Finance,Launchpad,"['BSC', 'Aurora', 'OKExChain', 'Avalanche', 'Kava', 'Boba', 'Moonbeam']",9.718804523455747,34860.06325875117,338798.14048710436,False
+528,Aurora,Thetanuts Finance,Options Vault,"['Ethereum', 'Fantom', 'Polygon', 'Boba', 'BSC', 'Avalanche', 'Aurora']",,32024.356689749722,,False
+529,Aurora,Pickle,Yield Aggregator,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Aurora', 'Metis', 'Moonbeam', 'Moonriver', 'OKExChain', 'Cronos', 'Kava', 'Harmony']",63.190747507584675,26859.877632000003,1697295.7455283336,True
+530,Aurora,Curve,Dexes,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Fantom', 'Gnosis', 'Celo', 'Avalanche', 'Kava', 'Moonbeam', 'Aurora', 'Harmony']",45049.44268000718,17203.169009778412,774993176.2204884,False
+531,Aurora,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",2175.2517596005514,8876.85250642926,19309389.034324814,True
+532,Aurora,Amaterasu Finance,Dexes,['Aurora'],,8729.257123778783,0.0,False
+533,Aurora,Crafting Finance,Synthetics,"['Aurora', 'Ethereum']",,7618.641507967326,0.0,False
+534,Aurora,WePiggy,Lending,"['Ethereum', 'OKExChain', 'Arbitrum', 'BSC', 'Optimism', 'Harmony', 'Polygon', 'Moonbeam', 'Moonriver', 'Oasis', 'Heco', 'Aurora']",,2457.1058104169997,0.0,False
+535,Aurora,Ante Finance,Insurance,"['Ethereum', 'Avalanche', 'BSC', 'Polygon', 'Optimism', 'Fantom', 'Aurora', 'Arbitrum']",,1795.61,,False
+536,Aurora,OpenBiSea,Dexes,"['Aurora', 'Kava', 'BSC', 'Polygon']",,685.220368498942,,False
+537,Aurora,UNO farm,Yield Aggregator,"['Polygon', 'BSC', 'Aurora', 'Avalanche']",,538.2644471485177,,True
+538,Aurora,Magik Farm,Yield Aggregator,"['Avalanche', 'BSC', 'Fantom', 'Cronos', 'Aurora']",,25.731455904,,True
+539,Near,Ref Finance,Dexes,['Near'],0.09054415702324682,36797302.106301144,3331780.6999447816,False
+540,Near,Meta Pool,Liquid Staking,['Near'],,18238915.566480003,0.0,True
+541,Near,LiNEAR Protocol,Liquid Staking,['Near'],,11728525.25046435,0.0,True
+542,Near,Burrow,Lending,['Near'],0.004555389172061575,10816737.655962385,49274.44959500175,False
+543,Near,Stader,Liquid Staking,"['Ethereum', 'Hedera', 'BSC', 'Fantom', 'Near', 'Terra2']",3.6053203198714785,7147513.608302384,25769076.048570495,True
+544,Near,Orderly Network,Dexes,['Near'],,6536012.021247953,,False
+545,Near,Phoenix Bonds,Yield Aggregator,['Near'],,2336979.4304576516,,True
+546,Near,PembRock Finance,Yield,['Near'],,1733079.376482993,0.0,True
+547,Near,Tonic,Dexes,['Near'],,288639.1354665073,,False
+548,Near,Jumbo Exchange,Dexes,['Near'],,270710.7967794057,0.0,False
+549,Near,Spin,,['Near'],,237508.62951975834,,False
+550,Near,Roketo,Payments,['Near'],,42187.61682137654,,False
+551,Near,Oin Finance,Algo-Stables,"['Ethereum', 'Near', 'Harmony']",7.838551555197168,17512.19863096546,137270.27181367602,False
+552,Near,LazyFi,Gaming,['Near'],,141.6997891861978,,False
+553,Moonbeam,Moonwell Artemis,Lending,['Moonbeam'],0.11545849952719842,33128123.15424125,3824923.3915409343,False
+554,Moonbeam,Lido,Liquid Staking,"['Ethereum', 'Solana', 'Moonbeam', 'Moonriver', 'Terra Classic']",92.70447926565731,22487702.23978558,2084710726.020478,True
+555,Moonbeam,StellaSwap,Dexes,['Moonbeam'],0.09047902886115353,16038582.874960683,1451155.4028355703,False
+556,Moonbeam,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",16.8542092373492,2331581.6280699996,39296964.61345107,True
+557,Moonbeam,Curve,Dexes,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Fantom', 'Gnosis', 'Celo', 'Avalanche', 'Kava', 'Moonbeam', 'Aurora', 'Harmony']",356.1854990713865,2175813.3844330497,774993176.2204884,False
+558,Moonbeam,BeamSwap Classic,Dexes,['Moonbeam'],0.2153317326783982,2017512.978290856,434434.5653165256,False
+559,Moonbeam,ACryptoS,Yield Aggregator,"['BSC', 'Optimism', 'Kava', 'Fantom', 'Ethereum', 'Arbitrum', 'Cronos', 'Moonbeam', 'Astar', 'Polygon', 'Avalanche', 'Gnosis', 'Moonriver', 'Harmony']",8.414892138131579,288668.75471999997,2429116.434617561,True
+560,Moonbeam,Zenlink,Dexes,"['Astar', 'Moonriver', 'Moonbeam']",6.565257062079113,194503.48991974513,1276965.4107946404,False
+561,Moonbeam,Solarflare,Dexes,['Moonbeam'],,184569.46445635823,0.0,False
+562,Moonbeam,BeamSwap Stable AMM,Dexes,['Moonbeam'],,156067.3537202955,,False
+563,Moonbeam,QiDao,CDP,"['Polygon', 'Fantom', 'Optimism', 'Ethereum', 'Metis', 'Arbitrum', 'Avalanche', 'BSC', 'Moonbeam', 'Gnosis', 'Harmony', 'Moonriver']",115.63072902515584,56970.936180136916,6587590.883754859,False
+564,Moonbeam,Manhattan,Yield,"['Polygon', 'Moonbeam']",,56970.936180136916,,True
+565,Moonbeam,Convergence,Dexes,"['Ethereum', 'Moonbeam']",34.09926422245012,42652.365315178096,1454414.2745947249,False
+566,Moonbeam,PadSwap,Dexes,"['BSC', 'Moonriver', 'Moonbeam']",,41021.935596939984,0.0,False
+567,Moonbeam,CougarSwap,Yield,"['Cronos', 'Moonbeam', 'BSC', 'Avalanche', 'Fantom', 'Polygon', 'Harmony', 'Arbitrum']",,28042.63332404191,0.0,True
+568,Moonbeam,Midas Capital,Lending,"['Polygon', 'BSC', 'Moonbeam', 'Arbitrum']",,27697.831813078203,,False
+569,Moonbeam,Clipper,Dexes,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Moonbeam']",,23681.796349459313,,False
+570,Moonbeam,WePiggy,Lending,"['Ethereum', 'OKExChain', 'Arbitrum', 'BSC', 'Optimism', 'Harmony', 'Polygon', 'Moonbeam', 'Moonriver', 'Oasis', 'Heco', 'Aurora']",,23121.028428994996,0.0,False
+571,Moonbeam,Pickle,Yield Aggregator,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Aurora', 'Metis', 'Moonbeam', 'Moonriver', 'OKExChain', 'Cronos', 'Kava', 'Harmony']",193.02437258825987,8793.168048,1697295.7455283336,True
+572,Moonbeam,Energyfi,Dexes,['Moonbeam'],31.354952122238313,5275.261918589236,165405.58488963253,False
+573,Moonbeam,1Beam,Dexes,['Moonbeam'],,3101.4533460527655,,False
+574,Moonbeam,ThorusFi,Dexes,"['Avalanche', 'Moonbeam']",248.4129226295238,2755.563289176352,684517.5301549212,False
+575,Moonbeam,Polkamarkets,Prediction Market,"['Ethereum', 'Moonriver', 'Moonbeam']",3091.5057507356923,1763.7893126853007,5452764.803252761,False
+576,Moonbeam,Demodyfi,Dexes,"['Moonbeam', 'BSC', 'Ethereum']",18.35220905276666,1578.815849830483,28974.75853191048,False
+577,Moonbeam,SunflowerSwap,Farm,['Moonbeam'],,379.088781032802,,False
+578,Moonbeam,MyTrade,Dexes,"['Polygon', 'Moonbeam']",,249.39211304566132,0.0,False
+579,Moonbeam,Connext,Cross Chain,"['Gnosis', 'Fantom', 'BSC', 'Avalanche', 'Milkomeda C1', 'Polygon', 'Evmos', 'Boba', 'Optimism', 'Ethereum', 'Arbitrum', 'Moonriver', 'Fuse', 'Moonbeam', 'Cronos', 'Harmony']",,169.62769326362,,False
+580,Moonbeam,Frax Swap,Dexes,"['Ethereum', 'Dogechain', 'Polygon', 'BSC', 'Arbitrum', 'Avalanche', 'Fantom', 'Moonbeam']",,18.00037406653725,,False
+581,Moonbeam,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,0.830349,,True
+582,Moonbeam,Impossible Finance,Launchpad,"['BSC', 'Aurora', 'OKExChain', 'Avalanche', 'Kava', 'Boba', 'Moonbeam']",1946057211.530168,0.0001740946455632259,338798.14048710436,False
+583,NEO,Flamingo Finance,Dexes,['NEO'],0.9067618061863,51196572.59192661,46423096.63400339,False
+584,NEO,NeoBurger,Liquid Staking,['NEO'],,27862577.27957964,,True
+585,NEO,Forthewin Network,Dexes,['NEO'],,1207331.805805996,,False
+586,NEO,NUDES,Liquid Staking,['NEO'],,0.0,3700881.2721970165,True
+587,NEO,GhostMarket,Liquid Staking,['NEO'],,0.0,594185.3526401204,True
+588,KCC,MojitoSwap,Dexes,['KCC'],,31869646.473290294,0.0,False
+589,KCC,Torches,Lending,['KCC'],,17537711.093709838,,False
+590,KCC,sKCS,Liquid Staking,['KCC'],,1931098.3279302332,,True
+591,KCC,KuSwap,Dexes,['KCC'],0.18038983428085226,1449522.6385261875,261479.14855008267,False
+592,KCC,KoffeeSwap,Dexes,['KCC'],,383366.0018812153,,False
+593,KCC,OpenLeverage,Dexes,"['BSC', 'KCC', 'Ethereum']",,84178.2488248971,0.0,False
+594,KCC,O3 Swap,Cross Chain,"['BSC', 'Ethereum', 'Polygon', 'Arbitrum', 'Optimism', 'Avalanche', 'Fantom', 'Cube', 'Bitgert', 'KCC', 'Metis', 'Gnosis', 'Celo', 'Astar']",63.73095145997727,41606.57,2651626.2930861465,False
+595,KCC,EmiSwap,Dexes,"['Shiden', 'Ethereum', 'KCC', 'Polygon', 'Astar', 'Avalanche', 'Aurora']",,33508.885877386,0.0,False
+596,KCC,Elk,Dexes,"['Polygon', 'Kava', 'Avalanche', 'BSC', 'Fantom', 'Elastos', 'Gnosis', 'Ethereum', 'Cronos', 'Arbitrum', 'Optimism', 'IoTeX', 'Telos', 'Fuse', 'KCC', 'Heco', 'Bittorrent', 'OKExChain', 'Moonriver', 'Harmony', 'Hoo']",70.26992882407274,27366.021553204326,1923008.3867417083,False
+597,KCC,DxSale,Launchpad,"['BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Polygon', 'Avalanche', 'CORE', 'Cronos', 'Heco', 'OKExChain', 'KCC', 'Celo', 'Harmony', 'Milkomeda C1', 'Bitgert', 'Dexit', 'Moonriver', 'Dogechain', 'Gnosis', 'smartBCH']",64.93538834353801,23098.08323459146,1499883.0048295609,False
+598,KCC,BoringDAO,Cross Chain,"['Bitcoin', 'Litecoin', 'Ethereum', 'Metis', 'Doge', 'IoTeX', 'BSC', 'Aurora', 'Optimism', 'Arbitrum', 'Polygon', 'Avalanche', 'Fantom', 'Heco', 'OKExChain', 'KCC', 'Gnosis', 'Harmony', 'Oasis', 'Boba']",397.99157938393887,9273.781604247612,3690886.9875362255,False
+599,KCC,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",4303.664308039857,4515.807629820059,19434520.118430655,True
+600,KCC,Shibance,Dexes,"['BSC', 'KCC']",,4144.116185183835,0.0,False
+601,KCC,ABcDeFX,Dexes,"['Kava', 'KCC', 'MultiVAC', 'Fantom', 'Echelon']",,2063.2692783673483,,False
+602,KCC,KillSwitch,Yield Aggregator,"['BSC', 'Aurora', 'KCC', 'CLV']",,1785.5736535402064,0.0,True
+603,KCC,0xLend,Lending,['KCC'],,850.3844761479999,,False
+604,KCC,Guru Network,Yield,"['MultiVAC', 'Echelon', 'Metis', 'BSC', 'Fantom', 'KCC']",,418.223960005865,0.0,True
+605,KCC,Crypto Lottery,Prediction Market,"['BSC', 'Polygon', 'KCC', 'Avalanche', 'Celo', 'CSC']",,2.832,,False
+606,KCC,FlokiFi Locker,Launchpad,"['Ethereum', 'BSC', 'Dogechain', 'Cronos', 'Arbitrum', 'Fantom', 'Optimism', 'Polygon', 'KCC', 'Avalanche', 'OKExChain', 'Evmos']",285258265.8578708,1.349670863871745,385004770.1069484,False
+607,KCC,Spherium,Cross Chain,"['Polygon', 'Ethereum', 'Fantom', 'Avalanche', 'BSC', 'Optimism', 'Arbitrum', 'Cronos', 'OKExChain', 'Moonriver', 'KCC', 'Moonbeam', 'Aurora']",,0.0,390380.9282015018,False
+608,KCC,Nest Protocol Staking,Oracle,"['Ethereum', 'KCC', 'BSC', 'Polygon']",,0.0,,False
+609,KCC,Swap Cat,Dexes,"['Gnosis', 'Heco', 'OKExChain', 'Songbird', 'Harmony', 'KCC', 'Fantom', 'BSC', 'EthereumClassic', 'Celo', 'TomoChain', 'GoChain', 'Ethereum', 'EnergyWeb', 'Rootstock', 'Moonriver', 'HPB', 'Avalanche', 'Polygon', 'smartBCH', 'Arbitrum']",,0.0,,False
+610,KCC,Paprprintr,Algo-Stables,"['Aurora', 'Fantom', 'KCC', 'Polygon', 'BSC']",,0.0,0.0,False
+611,Metis,Hermes Protocol,Dexes,['Metis'],0.27241728117511893,10521524.12589504,2866244.9961947463,False
+612,Metis,Hummus Exchange,Dexes,['Metis'],0.30865408810695316,8669632.896231268,2675917.6358083053,False
+613,Metis,Stargate,Cross Chain,"['Ethereum', 'Arbitrum', 'Optimism', 'Avalanche', 'BSC', 'Polygon', 'Fantom', 'Metis', 'Goerli']",19.493453726497705,6366451.120613667,124104120.32169199,False
+614,Metis,NetSwap,Dexes,['Metis'],0.24341611919684109,6322429.952544181,1538981.3629421727,False
+615,Metis,Maia DAO,Reserve Currency,['Metis'],,5428981.848511617,0.0,False
+616,Metis,QiDao,CDP,"['Polygon', 'Fantom', 'Optimism', 'Ethereum', 'Metis', 'Arbitrum', 'Avalanche', 'BSC', 'Moonbeam', 'Gnosis', 'Harmony', 'Moonriver']",2.4384160007078566,2701586.145203494,6587590.883754859,False
+617,Metis,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",16.56513452214495,2372269.5738399997,39296964.61345107,True
+618,Metis,Tethys Finance,,['Metis'],,1832299.7987564127,,False
+619,Metis,Granary Finance,Lending,"['Fantom', 'Optimism', 'Metis', 'Arbitrum', 'Avalanche', 'BSC', 'Ethereum']",,1041785.0276338451,,False
+620,Metis,Oh Finance,Yield,"['Metis', 'Moonriver', 'Avalanche', 'Ethereum']",0.16074608140630983,1014279.826535996,163041.50756513304,True
+621,Metis,BoringDAO,Cross Chain,"['Bitcoin', 'Litecoin', 'Ethereum', 'Metis', 'Doge', 'IoTeX', 'BSC', 'Aurora', 'Optimism', 'Arbitrum', 'Polygon', 'Avalanche', 'Fantom', 'Heco', 'OKExChain', 'KCC', 'Gnosis', 'Harmony', 'Oasis', 'Boba']",8.045652313651912,451400.3446020478,3631810.226930736,False
+622,Metis,Agora,Lending,['Metis'],0.13552436293725925,189760.7440022379,25717.20394140363,False
+623,Metis,Sushi Trident,Dexes,"['Bittorrent', 'Optimism', 'Polygon', 'Arbitrum', 'Kava', 'Metis', 'Avalanche', 'BSC']",,152556.90245534727,,False
+624,Metis,Guru Network,Yield,"['MultiVAC', 'Echelon', 'Metis', 'BSC', 'Fantom', 'KCC']",,106894.86613049176,0.0,True
+625,Metis,Standard Protocol,Dexes,"['Metis', 'Shiden', 'Ethereum']",7.577229079213611,103111.97389846794,781303.0470385861,False
+626,Metis,O3 Swap,Cross Chain,"['BSC', 'Ethereum', 'Polygon', 'Arbitrum', 'Optimism', 'Avalanche', 'Fantom', 'Cube', 'Bitgert', 'KCC', 'Metis', 'Gnosis', 'Celo', 'Astar']",70.80290379666135,37242.75,2636894.84537311,False
+627,Metis,UniDex,Derivatives,"['Fantom', 'Optimism', 'Metis', 'Boba', 'BSC']",772.6696563379004,30541.110095479147,23598189.041651852,False
+628,Metis,HyperJump,Dexes,"['Fantom', 'BSC', 'Metis']",,16648.077138931683,,False
+629,Metis,Pickle,Yield Aggregator,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Aurora', 'Metis', 'Moonbeam', 'Moonriver', 'OKExChain', 'Cronos', 'Kava', 'Harmony']",130.44560588347122,13011.52104,1697295.7455283336,True
+630,Metis,Drachma,Dexes,['Metis'],,8959.454514216,,False
+631,Metis,BencuFi,Lending,['Metis'],,158.62966156800002,,False
+632,Metis,LlamaPay,Payments,"['Ethereum', 'Polygon', 'Optimism', 'Arbitrum', 'Avalanche', 'BSC', 'Fantom', 'Meter', 'Gnosis', 'Metis']",,11.064628515159153,,False
+633,Metis,WOWswap,Dexes,"['Avalanche', 'BSC', 'IoTeX', 'Polygon', 'Ethereum', 'Heco', 'Kava', 'Metis']",,0.0,61955.25451722049,False
+634,Metis,Hades Money,Algo-Stables,['Metis'],,0.0,0.0,False
+635,Metis,Oceanus,Algo-Stables,['Metis'],,0.0,0.0,False
+636,Metis,Peak Finance,Algo-Stables,['Metis'],,0.0,0.0,False
+637,Metis,0x NODES,Yield Aggregator,"['Metis', 'Fantom', 'BSC', 'Ethereum', 'Avalanche', 'Polygon']",,0.0,134427.9292638563,True
+638,Metis,Hera Finance,Staking,['Metis'],,0.0,10350805.1901771,False
+639,Tezos,Youves,Synthetics,['Tezos'],0.10134530058657751,32771358.5000934,3321223.1778224576,False
+640,Tezos,Tezos Liquidity Baking,Yield,['Tezos'],,22103913.7145089,,True
+641,Tezos,Kolibri,CDP,['Tezos'],,5157657.481327428,,False
+642,Tezos,Plenty,Dexes,['Tezos'],,2532314.302142675,,False
+643,Tezos,QuipuSwap,Dexes,['Tezos'],,1559585.4938625705,0.0,False
+644,Tezos,KordFi,Yield,['Tezos'],,676412.63,,True
+645,Tezos,Crunchy Network,Services,['Tezos'],,260876.25,0.0,False
+646,Tezos,Vortex Protocol,Dexes,['Tezos'],,190244.01665123628,,False
+647,Tezos,SpicySwap,Dexes,['Tezos'],,168300.7571432318,,False
+648,Tezos,Yupana,Lending,['Tezos'],,139832.7360993332,,False
+649,Tezos,Matter Defi,Yield,['Tezos'],,63272.5,,True
+650,Tezos,Flame DeFi,Yield,['Tezos'],,51093.4859375,0.0,True
+651,Tezos,AliensFarm,Dexes,['Tezos'],,1739.669080498783,0.0,False
+652,Astar,Algem,Liquid Staking,['Astar'],,21108853.202868436,,True
+653,Astar,ArthSwap,Dexes,['Astar'],,17478456.777544998,0.0,False
+654,Astar,AstridDAO,CDP,['Astar'],0.10096202787660759,5476230.349273078,552891.321182033,False
+655,Astar,Avault,Yield Aggregator,['Astar'],,5301308.834664315,,True
+656,Astar,SiO2 Finance,Lending,['Astar'],,4970557.671457353,,False
+657,Astar,Starlay Finance,Lending,['Astar'],,3741645.7458837717,0.0,False
+658,Astar,Sirius Finance,Dexes,['Astar'],,2837831.0710416576,0.0,False
+659,Astar,AstarFarm,Gaming,['Astar'],,2491515.846791328,,False
+660,Astar,Kagla Finance,Dexes,['Astar'],,2346558.146406637,0.0,False
+661,Astar,Starfish Finance,Services,['Astar'],0.09519587122219574,1793851.6546832542,170767.2711109498,False
+662,Astar,Zenlink,Dexes,"['Astar', 'Moonriver', 'Moonbeam']",2.262512678077403,564401.4387931549,1276965.4107946404,False
+663,Astar,StarSwap,Dexes,['Astar'],,329284.6317315497,,False
+664,Astar,InsureDAO,Insurance,"['Arbitrum', 'Astar', 'Optimism', 'Ethereum']",,261775.81013491997,0.0,False
+665,Astar,ACryptoS,Yield Aggregator,"['BSC', 'Optimism', 'Kava', 'Fantom', 'Ethereum', 'Arbitrum', 'Cronos', 'Moonbeam', 'Astar', 'Polygon', 'Avalanche', 'Gnosis', 'Moonriver', 'Harmony']",11.577336822993797,209816.51236,2429116.434617561,True
+666,Astar,ADAO,Staking,['Astar'],,104579.7730711288,,False
+667,Astar,PolkaEx,Dexes,"['Astar', 'Shiden', 'BSC', 'Ethereum', 'Polygon']",0.19302520152459868,84039.92191609732,16221.822863966221,False
+668,Astar,Muuu Finance,Yield,['Astar'],,82289.15870972893,0.0,True
+669,Astar,Versa Finance,Dexes,['Astar'],,24133.74378234845,,False
+670,Astar,Astar Exchange,Dexes,['Astar'],,22412.705790807133,,False
+671,Astar,O3 Swap,Cross Chain,"['BSC', 'Ethereum', 'Polygon', 'Arbitrum', 'Optimism', 'Avalanche', 'Fantom', 'Cube', 'Bitgert', 'KCC', 'Metis', 'Gnosis', 'Celo', 'Astar']",206.85389471706168,12747.62,2636894.84537311,False
+672,Astar,Orcus Finance,Algo-Stables,['Astar'],,11041.379050971998,,False
+673,Astar,AGS Finance,Dexes,['Astar'],,3657.134610300912,,False
+674,Astar,FunBeast,Dexes,['Astar'],,2427.082504450466,,False
+675,Astar,Yumiswap,Dexes,['Astar'],,1838.6972881415622,,False
+676,Astar,Starbank,Dexes,['Astar'],,466.9606887604082,,False
+677,Astar,Pandora Swap,Dexes,['Astar'],,397.85083464386065,,False
+678,Astar,EmiSwap,Dexes,"['Shiden', 'Ethereum', 'KCC', 'Polygon', 'Astar', 'Avalanche', 'Aurora']",,132.60952058240264,0.0,False
+679,Astar,Astarnova,Dexes,['Astar'],,62.877204792,,False
+680,Astar,Valerian,Yield,['Astar'],,0.0,,True
+681,Parallel,Parallel DeFi Super App,,"['Parallel', 'Heiko']",,234548665.47558945,,True
+682,Heco,MDEX,Dexes,"['BSC', 'Heco']",2.9197930467169337,27968801.439306255,81663111.96749297,False
+683,Heco,Coinwind,Yield,"['BSC', 'Ethereum', 'Heco']",,14958949.197943289,0.0,True
+684,Heco,Solo Top,Yield,"['Heco', 'BSC', 'Polygon', 'OKExChain']",,9717743.672883218,,True
+685,Heco,Back Finance,Yield,['Heco'],,5691532.129293674,,True
+686,Heco,FilDA,Lending,"['IoTeX', 'Heco', 'Elastos', 'REI', 'Arbitrum', 'Polygon', 'BSC', 'Kava', 'Bittorrent']",0.10501782164021922,4010472.1464624996,421171.04857026594,False
+687,Heco,Channels Finance,Lending,"['Heco', 'BSC', 'Arbitrum']",0.04803004698648657,3514766.150307901,168814.38334580103,False
+688,Heco,Belt Finance,Yield,"['BSC', 'Heco', 'Klaytn']",1.1038190732844941,2464116.6111516994,2719938.914186397,True
+689,Heco,Depth,Dexes,"['Heco', 'BSC']",0.007516407681311735,1764818.2038154197,13265.093103276999,False
+690,Heco,Pilot Protocol,Lending,['Heco'],,664813.545721072,0.0,False
+691,Heco,MakiSwap,Dexes,['Heco'],1.9141298900892043,620703.20896532,1188106.5651548044,False
+692,Heco,Pippi,Dexes,['Heco'],,605632.4024896283,0.0,False
+693,Heco,SashimiSwap,Dexes,"['Ethereum', 'Heco', 'BSC']",2.2584280890603217,578244.7649388938,1305924.2194900808,False
+694,Heco,MetaTdex,Dexes,"['Heco', 'Polygon', 'BSC']",,544076.3610592254,,False
+695,Heco,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",42.66761714155822,452553.72406343,19309389.034324814,True
+696,Heco,BXH,Dexes,"['Heco', 'OKExChain', 'BSC', 'Ethereum', 'Avalanche']",,435298.89586654876,0.0,False
+697,Heco,HFIone,Yield,['Heco'],,164011.4811360243,0.0,True
+698,Heco,YouSwap,Dexes,"['Ethereum', 'Heco', 'BSC']",,69329.74834853804,0.0,False
+699,Heco,HSwap,Dexes,['Heco'],,44402.09865122267,,False
+700,Heco,Demeter,Lending,"['BSC', 'Heco']",,37780.97599036917,0.0,False
+701,Heco,DxSale,Launchpad,"['BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Polygon', 'Avalanche', 'CORE', 'Cronos', 'Heco', 'OKExChain', 'KCC', 'Celo', 'Harmony', 'Milkomeda C1', 'Bitgert', 'Dexit', 'Moonriver', 'Dogechain', 'Gnosis', 'smartBCH']",38.67834241396811,36514.88084788048,1412335.0646395674,False
+702,Heco,Elk,Dexes,"['Polygon', 'Kava', 'Avalanche', 'BSC', 'Fantom', 'Elastos', 'Gnosis', 'Ethereum', 'Cronos', 'Arbitrum', 'Optimism', 'IoTeX', 'Telos', 'Fuse', 'KCC', 'Heco', 'Bittorrent', 'OKExChain', 'Moonriver', 'Harmony', 'Hoo']",98.459205010122,19511.86016808552,1921122.240418366,False
+703,Heco,LendHub,Lending,['Heco'],,13296.189232094022,0.0,False
+704,Heco,Complus Network,Dexes,"['Avalanche', 'BSC', 'Heco', 'Polygon']",,12839.959650890334,0.0,False
+705,Heco,BoringDAO,Cross Chain,"['Bitcoin', 'Litecoin', 'Ethereum', 'Metis', 'Doge', 'IoTeX', 'BSC', 'Aurora', 'Optimism', 'Arbitrum', 'Polygon', 'Avalanche', 'Fantom', 'Heco', 'OKExChain', 'KCC', 'Gnosis', 'Harmony', 'Oasis', 'Boba']",286.2322021289875,12688.33555385253,3631810.226930736,False
+706,Heco,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",3113.778126781172,12620.348339999999,39296964.61345107,True
+707,Heco,ButterSwap,Dexes,"['BSC', 'Heco']",,12217.248598385873,0.0,False
+708,Heco,WePiggy,Lending,"['Ethereum', 'OKExChain', 'Arbitrum', 'BSC', 'Optimism', 'Harmony', 'Polygon', 'Moonbeam', 'Moonriver', 'Oasis', 'Heco', 'Aurora']",,9940.947750013056,0.0,False
+709,Heco,Newland,Yield,"['Ethereum', 'Heco']",,6555.06730567852,,True
+710,Heco,Vee Finance,Lending,"['Avalanche', 'Heco']",,5748.21459645225,0.0,False
+711,Heco,Golff Protocol,Yield,"['Ethereum', 'Heco', 'BSC']",109.50287516134001,2703.111350932,295998.46480830794,True
+712,Aptos,PancakeSwap AMM,Dexes,"['BSC', 'Aptos', 'Ethereum']",,25279577.409441527,,False
+713,Aptos,LiquidSwap,Dexes,['Aptos'],,8435675.05381959,,False
+714,Aptos,Tortuga,Liquid Staking,['Aptos'],,8343029.659810527,,True
+715,Aptos,Ditto,Liquid Staking,['Aptos'],,1522981.7594470559,,True
+716,Aptos,Aries Markets,Lending,['Aptos'],,797407.1228171875,,False
+717,Aptos,ABEL Finance,Lending,['Aptos'],,690402.0571293005,,False
+718,Aptos,Eternal Finance,Yield,['Aptos'],,354228.0435242189,0.0,True
+719,Aptos,Aptin Finance,Lending,['Aptos'],,333477.6850764986,,False
+720,Aptos,AnimeSwap,Dexes,['Aptos'],,240217.16192566548,,False
+721,Aptos,Argo,CDP,['Aptos'],,193903.3689170429,,False
+722,Aptos,HoustonSwap,Dexes,['Aptos'],,148263.005685777,,False
+723,Aptos,AUX Exchange,Dexes,['Aptos'],,112586.9944546004,,False
+724,Aptos,Cetus,Dexes,['Aptos'],,111373.33642242741,,False
+725,Aptos,Mole,Yield,['Aptos'],,110732.7941373099,,True
+726,Aptos,Aptoswap,Dexes,['Aptos'],,63598.2872282002,,False
+727,Aptos,AtoDEX,Dexes,['Aptos'],,40216.517319615996,,False
+728,Aptos,Obric,Dexes,['Aptos'],,8186.991533615001,,False
+729,Aptos,BlueMove,NFT Marketplace,['Aptos'],,0.0,1043479.4335900604,False
+730,Aptos,Mosquitos Finance,Yield,['Aptos'],,0.0,0.0,True
+731,Telos,REX Staking,Lending,['Telos'],,27974826.680395905,,False
+732,Telos,sTLOS Liquid Staking,Liquid Staking,['Telos'],,3901323.8000018606,,True
+733,Telos,ApeSwap AMM,Dexes,"['BSC', 'Polygon', 'Telos', 'Ethereum']",,3690597.2216323544,,False
+734,Telos,Omnidex,,['Telos'],,1729871.2720755318,,False
+735,Telos,Swapsicle,Dexes,"['Telos', 'Avalanche', 'Polygon', 'Fantom', 'Arbitrum', 'BSC', 'Optimism', 'Ethereum']",,1094631.3865124246,0.0,False
+736,Telos,Telos Swap,Dexes,['Telos'],,336758.21004716074,,False
+737,Telos,Archly Finance,Dexes,"['Telos', 'Arbitrum', 'Optimism', 'BSC', 'Fantom', 'Polygon', 'Arbitrum Nova', 'Kava']",,220790.67236184707,,False
+738,Telos,Zappy,Dexes,['Telos'],,216287.76720389136,0.0,False
+739,Telos,pNetwork,Cross Chain,"['BSC', 'Ultra', 'Ethereum', 'Polygon', 'EOS', 'LBRY', 'Telos', 'Algorand', 'Arbitrum']",150.92479381267148,121326.034099536,18311106.68058162,False
+740,Telos,SushiSwap,Dexes,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm']",2045.023007905891,116222.4535615853,237677591.5687159,False
+741,Telos,Symbiosis Finance,Cross Chain,"['Ethereum', 'Boba', 'Avalanche', 'Boba_Bnb', 'BSC', 'Telos', 'Polygon', 'Kava', 'Boba_Avax', 'Aurora']",37.2982399778799,96177.37969654001,3587246.988365223,False
+742,Telos,Elk,Dexes,"['Polygon', 'Kava', 'Avalanche', 'BSC', 'Fantom', 'Elastos', 'Gnosis', 'Ethereum', 'Cronos', 'Arbitrum', 'Optimism', 'IoTeX', 'Telos', 'Fuse', 'KCC', 'Heco', 'Bittorrent', 'OKExChain', 'Moonriver', 'Harmony', 'Hoo']",58.00857370174517,33117.90167943001,1921122.240418366,False
+743,Telos,YieldHub Finance,Yield Aggregator,['Telos'],,2966.93044,,True
+744,Stacks,ALEX,Dexes,['Stacks'],1.6143268029556765,31927081.678291887,51540743.6934217,False
+745,Stacks,Arkadiko,CDP,['Stacks'],,2428995.690374348,0.0,False
+746,Stacks,CityCoins,Yield,['Stacks'],,530239.04820787,,True
+747,Stacks,StackSwap,Dexes,['Stacks'],,259783.7067669469,,False
+748,Stacks,UWU Protocol,CDP,['Stacks'],,102.4,,False
+749,Hedera,Stader,Liquid Staking,"['Ethereum', 'Hedera', 'BSC', 'Fantom', 'Near', 'Terra2']",0.776462497001708,33648799.17067,26127030.625167433,True
+750,Hedera,SaucerSwap,Dexes,['Hedera'],0.38115864425365,19441015.8645,7410111.249826522,False
+751,Hedera,Pangolin,Dexes,"['Avalanche', 'Hedera', 'Flare', 'Songbird']",0.8563096708229992,9003870.773743952,7710101.618397507,False
+752,Hedera,HeliSwap,Dexes,['Hedera'],,5834637.099348541,,False
+753,Hedera,Bubbleswap,Dexes,['Hedera'],,154690.87696027817,,False
+754,Hedera,Tangent,Dexes,['Hedera'],,21715.86063428576,,False
+755,OKExChain,OKC Liquid Staking,Liquid Staking,['OKExChain'],,79909626.90388402,,True
+756,OKExChain,OKCSwap,Dexes,['OKExChain'],,27751647.89273521,,False
+757,OKExChain,CherrySwap,Dexes,['OKExChain'],1.5177564915866348,3107427.885528181,4716318.845397728,False
+758,OKExChain,WePiggy,Lending,"['Ethereum', 'OKExChain', 'Arbitrum', 'BSC', 'Optimism', 'Harmony', 'Polygon', 'Moonbeam', 'Moonriver', 'Oasis', 'Heco', 'Aurora']",,1260114.600602593,0.0,False
+759,OKExChain,JSwap,Dexes,['OKExChain'],,880902.8902797139,0.0,False
+760,OKExChain,KSwap Finance,Dexes,['OKExChain'],,618730.9881520314,,False
+761,OKExChain,Wing Finance,Lending,"['Ontology', 'BSC', 'OntologyEVM', 'Ethereum', 'OKExChain']",76.70886976985229,283906.53099999996,21778149.113289528,False
+762,OKExChain,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",136.67953505722693,142190.41724347053,19434520.118430655,True
+763,OKExChain,OakFarm,Yield,['OKExChain'],,99047.62894794757,,True
+764,OKExChain,BXH,Dexes,"['Heco', 'OKExChain', 'BSC', 'Ethereum', 'Avalanche']",,72841.35556767925,0.0,False
+765,OKExChain,KLend,Lending,"['BSC', 'OKExChain']",,37532.2869273755,0.0,False
+766,OKExChain,SushiSwap,Dexes,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm']",7968.424671827259,29775.185588172277,237261323.4490274,False
+767,OKExChain,DxSale,Launchpad,"['BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Polygon', 'Avalanche', 'CORE', 'Cronos', 'Heco', 'OKExChain', 'KCC', 'Celo', 'Harmony', 'Milkomeda C1', 'Bitgert', 'Dexit', 'Moonriver', 'Dogechain', 'Gnosis', 'smartBCH']",57.09980495555661,26267.74305090864,1499883.0048295609,False
+768,OKExChain,Solo Top,Yield,"['Heco', 'BSC', 'Polygon', 'OKExChain']",,22686.174850728403,,True
+769,OKExChain,Elk,Dexes,"['Polygon', 'Kava', 'Avalanche', 'BSC', 'Fantom', 'Elastos', 'Gnosis', 'Ethereum', 'Cronos', 'Arbitrum', 'Optimism', 'IoTeX', 'Telos', 'Fuse', 'KCC', 'Heco', 'Bittorrent', 'OKExChain', 'Moonriver', 'Harmony', 'Hoo']",164.86902797241132,11663.85469964376,1923008.3867417083,False
+770,OKExChain,BoringDAO,Cross Chain,"['Bitcoin', 'Litecoin', 'Ethereum', 'Metis', 'Doge', 'IoTeX', 'BSC', 'Aurora', 'Optimism', 'Arbitrum', 'Polygon', 'Avalanche', 'Fantom', 'Heco', 'OKExChain', 'KCC', 'Gnosis', 'Harmony', 'Oasis', 'Boba']",354.1396382538964,10422.123334553376,3690886.9875362255,False
+771,OKExChain,ForTube,Lending,"['BSC', 'Polygon', 'Ethereum', 'IoTeX', 'OKExChain']",5305.065814933795,2665.7059485710724,14141745.50043006,False
+772,OKExChain,Impossible Finance,Launchpad,"['BSC', 'Aurora', 'OKExChain', 'Avalanche', 'Kava', 'Boba', 'Moonbeam']",332.8486364383217,1079.4638461767806,359298.06928440765,False
+773,OKExChain,Pickle,Yield Aggregator,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Aurora', 'Metis', 'Moonbeam', 'Moonriver', 'OKExChain', 'Cronos', 'Kava', 'Harmony']",1791.503232493077,940.295313,1684542.0927375895,True
+774,OKExChain,Farm Hero,Gaming,"['Polygon', 'BSC', 'OKExChain']",,563.6073100765102,0.0,False
+775,OKExChain,DogeClaw,Gaming,['OKExChain'],,139.8943687818124,,False
+776,OKExChain,Dfyn Network,Dexes,"['Polygon', 'Fantom', 'OKExChain']",145305.41396267537,64.10665704807937,9315044.340134434,False
+777,OKExChain,Flux Protocol,Lending,"['OKExChain', 'BSC', 'Ethereum', 'Conflux', 'Arbitrum', 'Polygon']",,56.971221516049994,0.0,False
+778,OKExChain,Xensa,Lending,['OKExChain'],,32.23325877086825,0.0,False
+779,OKExChain,DeFiner,Lending,"['Polygon', 'Ethereum', 'OKExChain']",8033.6943113584475,23.180045323562943,186221.3982529386,False
+780,OKExChain,FlokiFi Locker,Launchpad,"['Ethereum', 'BSC', 'Dogechain', 'Cronos', 'Arbitrum', 'Fantom', 'Optimism', 'Polygon', 'KCC', 'Avalanche', 'OKExChain', 'Evmos']",19924541691.566544,0.019323143089906517,385004770.1069484,False
+781,OKExChain,Spherium,Cross Chain,"['Polygon', 'Ethereum', 'Fantom', 'Avalanche', 'BSC', 'Optimism', 'Arbitrum', 'Cronos', 'OKExChain', 'Moonriver', 'KCC', 'Moonbeam', 'Aurora']",,0.0,390380.9282015018,False
+782,OKExChain,Swap Cat,Dexes,"['Gnosis', 'Heco', 'OKExChain', 'Songbird', 'Harmony', 'KCC', 'Fantom', 'BSC', 'EthereumClassic', 'Celo', 'TomoChain', 'GoChain', 'Ethereum', 'EnergyWeb', 'Rootstock', 'Moonriver', 'HPB', 'Avalanche', 'Polygon', 'smartBCH', 'Arbitrum']",,0.0,,False
+783,OKExChain,CryptoBlades,Gaming,"['Aurora', 'OKExChain', 'Kava', 'Heco', 'BSC', 'Avalanche', 'Polygon']",,0.0,1069796.309675143,False
+784,Conflux,Swappi,Dexes,['Conflux'],,25673727.11607727,0.0,False
+785,Conflux,Nucleon,Liquid Staking,['Conflux'],,7733541.114189013,0.0,True
+786,Conflux,Goledo,Lending,['Conflux'],,2038850.4521389985,0.0,False
+787,Conflux,Moon Swap,Dexes,['Conflux'],,2006951.8117854241,0.0,False
+788,Conflux,Flux Protocol,Lending,"['OKExChain', 'BSC', 'Ethereum', 'Conflux', 'Arbitrum', 'Polygon']",,0.0,0.0,False
+789,IoTeX,FilDA,Lending,"['IoTeX', 'Heco', 'Elastos', 'REI', 'Arbitrum', 'Polygon', 'BSC', 'Kava', 'Bittorrent']",0.0447375884111253,9414254.624094345,421171.04857026594,False
+790,IoTeX,Mimo,Dexes,['IoTeX'],,9145326.414952418,,False
+791,IoTeX,UniFi,Dexes,"['IoTeX', 'Tron', 'Icon', 'Ontology', 'Harmony', 'BSC', 'Ethereum', 'Polygon', 'Avalanche', 'Fantom', 'OntologyEVM', 'Bittorrent']",9.886897098179322,3357720.594377371,33197438.001046576,False
+792,IoTeX,ZoomSwap,Farm,['IoTeX'],0.011794396780226134,2309854.2763144947,27243.33783935524,False
+793,IoTeX,xDollar,CDP,"['IoTeX', 'Polygon', 'Ethereum', 'Arbitrum', 'Avalanche']",,264085.36994463264,0.0,False
+794,IoTeX,MinMax Finance,Dexes,['IoTeX'],,125317.69509096775,0.0,False
+795,IoTeX,BoringDAO,Cross Chain,"['Bitcoin', 'Litecoin', 'Ethereum', 'Metis', 'Doge', 'IoTeX', 'BSC', 'Aurora', 'Optimism', 'Arbitrum', 'Polygon', 'Avalanche', 'Fantom', 'Heco', 'OKExChain', 'KCC', 'Gnosis', 'Harmony', 'Oasis', 'Boba']",33.861297633742275,107255.49464210999,3631810.226930736,False
+796,IoTeX,Parrot Defi,Farm,"['IoTeX', 'Arbitrum', 'Polygon', 'Harmony']",,68519.65790711672,,False
+797,IoTeX,Elk,Dexes,"['Polygon', 'Kava', 'Avalanche', 'BSC', 'Fantom', 'Elastos', 'Gnosis', 'Ethereum', 'Cronos', 'Arbitrum', 'Optimism', 'IoTeX', 'Telos', 'Fuse', 'KCC', 'Heco', 'Bittorrent', 'OKExChain', 'Moonriver', 'Harmony', 'Hoo']",47.97545922339784,40043.85307647928,1921122.240418366,False
+798,IoTeX,Magic Land,Yield,"['IoTeX', 'Arbitrum']",,36019.03905255086,,True
+799,IoTeX,WOWswap,Dexes,"['Avalanche', 'BSC', 'IoTeX', 'Polygon', 'Ethereum', 'Heco', 'Kava', 'Metis']",1.7512293980650402,35378.14896533589,61955.25451722049,False
+800,IoTeX,Cyclone,Yield,"['Ethereum', 'BSC', 'IoTeX', 'Polygon']",,31875.164999999997,0.0,True
+801,IoTeX,ForTube,Lending,"['BSC', 'Polygon', 'Ethereum', 'IoTeX', 'OKExChain']",849.4992481057423,16825.399909819716,14293164.572470272,False
+802,IoTeX,StarCrazy,Gaming,['IoTeX'],,0.0,262251.52451279596,False
+803,IoTeX,IoTeX Monster Go,Gaming,['IoTeX'],,0.0,0.0,False
+804,IoTeX,Know-To-Earn,Services,['IoTeX'],,0.0,,False
+805,Terra2,Astroport,Dexes,"['Terra2', 'Terra Classic']",0.028713096659919647,16127863.020208066,463080.88981717784,False
+806,Terra2,Risk Harbor,Insurance,"['Terra2', 'Avalanche', 'Optimism', 'Ethereum', 'Arbitrum', 'Fantom', 'Aurora', 'Terra Classic']",,8286468.477528579,,False
+807,Terra2,Eris Protocol,Liquid Staking,"['Terra2', 'Terra Classic']",,1379468.000120562,,True
+808,Terra2,Stader,Liquid Staking,"['Ethereum', 'Hedera', 'BSC', 'Fantom', 'Near', 'Terra2']",21.78106677624796,1183095.2227129398,25769076.048570495,True
+809,Terra2,Spectrum Protocol,Yield,"['Terra2', 'Terra Classic']",0.1679094000036355,671338.7597506257,112724.08834891237,True
+810,Terra2,Terraswap,Dexes,"['Terra Classic', 'Terra2']",,310339.41391763685,,False
+811,Terra2,Phoenix DEX,Dexes,['Terra2'],,21208.397950869046,,False
+812,Acala,Acala LCDOT,Liquid Staking,['Acala'],,156031553.58426976,,True
+813,Acala,Acala Dollar,CDP,['Acala'],,20988820.902115777,,False
+814,Acala,Acala Liquid-Staking,Liquid Staking,['Acala'],,14799945.987872992,,True
+815,Acala,Acala Swap,Dexes,['Acala'],,2007400.1290148238,,False
+816,Acala,Tapio Protocol,Synthetics,['Acala'],,370533.7408288427,,False
+817,Oasis,ValleySwap,Dexes,['Oasis'],,16602651.543933135,,False
+818,Oasis,YuzuSwap,Dexes,['Oasis'],,2401918.636102016,0.0,False
+819,Oasis,Fountain Protocol,Lending,['Oasis'],,2335949.67339216,0.0,False
+820,Oasis,Lizard,Dexes,['Oasis'],,302519.2890334041,,False
+821,Oasis,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",93.07574608800834,207458.86921031718,19309389.034324814,True
+822,Oasis,GemKeeper,Dexes,['Oasis'],,196363.41372230256,,False
+823,Oasis,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",228.90194088581623,171675.97819999998,39296964.61345107,True
+824,Oasis,Tulip,Algo-Stables,['Oasis'],,67982.71243172853,,False
+825,Oasis,DuneSwap,Dexes,['Oasis'],,40352.865798267856,,False
+826,Oasis,WePiggy,Lending,"['Ethereum', 'OKExChain', 'Arbitrum', 'BSC', 'Optimism', 'Harmony', 'Polygon', 'Moonbeam', 'Moonriver', 'Oasis', 'Heco', 'Aurora']",,13634.950014830998,0.0,False
+827,Oasis,Oaswap,Dexes,['Oasis'],,2260.664502003451,,False
+828,Oasis,Sahara Exchange,Dexes,['Oasis'],,409.0294869687515,,False
+829,Oasis,KyberSwap Classic,Dexes,"['Bittorrent', 'Polygon', 'Ethereum', 'Optimism', 'BSC', 'Avalanche', 'Fantom', 'Arbitrum', 'Cronos', 'Oasis', 'Velas', 'Aurora']",,8.637357705514102,,False
+830,Oasis,SSAP,Lending,"['CLV', 'Oasis']",,4.297253900966434,,False
+831,Oasis,BoringDAO,Cross Chain,"['Bitcoin', 'Litecoin', 'Ethereum', 'Metis', 'Doge', 'IoTeX', 'BSC', 'Aurora', 'Optimism', 'Arbitrum', 'Polygon', 'Avalanche', 'Fantom', 'Heco', 'OKExChain', 'KCC', 'Gnosis', 'Harmony', 'Oasis', 'Boba']",,0.0,3631810.226930736,False
+832,Ontology,Wing Finance,Lending,"['Ontology', 'BSC', 'OntologyEVM', 'Ethereum', 'OKExChain']",1.0981829159871304,19713044.832,21648529.056590788,False
+833,Ontology,UniFi,Dexes,"['IoTeX', 'Tron', 'Icon', 'Ontology', 'Harmony', 'BSC', 'Ethereum', 'Polygon', 'Avalanche', 'Fantom', 'OntologyEVM', 'Bittorrent']",223.02646579378265,150811.77294,33635016.718902625,False
+834,Moonriver,Moonwell Apollo,Lending,['Moonriver'],0.0843852861481017,8829791.260845426,745104.462174449,False
+835,Moonriver,Solarbeam,Dexes,['Moonriver'],0.0453090061524893,8084585.1787612,366304.519604815,False
+836,Moonriver,Lido,Liquid Staking,"['Ethereum', 'Solana', 'Moonbeam', 'Moonriver', 'Terra Classic']",904.5774646754669,2304623.7690305547,2084710726.020478,True
+837,Moonriver,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",50.492051662264096,778280.21084,39296964.61345107,True
+838,Moonriver,Zenlink,Dexes,"['Astar', 'Moonriver', 'Moonbeam']",2.4917092354267685,512485.7237108276,1276965.4107946404,False
+839,Moonriver,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,420322.54533486185,,True
+840,Moonriver,Huckleberry,,"['Moonriver', 'CLV']",,409872.3722833954,,False
+841,Moonriver,Alphadex,Dexes,['Moonriver'],,345489.78936174925,0.0,False
+842,Moonriver,Moonswap,Dexes,['Moonriver'],,307483.49691041437,,False
+843,Moonriver,Neku,Lending,"['Moonriver', 'Arbitrum', 'BSC']",,240310.896558512,,False
+844,Moonriver,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",186.4791608923569,103547.16817645352,19309389.034324814,True
+845,Moonriver,Sector Finance,Yield,"['Arbitrum', 'Moonriver', 'Optimism']",,101060.98860072,,True
+846,Moonriver,Hundred Finance,Lending,"['Optimism', 'Fantom', 'Arbitrum', 'Moonriver', 'Gnosis', 'Polygon', 'Harmony', 'Ethereum']",12.652654893245444,94850.76900034847,1200114.0465203524,False
+847,Moonriver,SeaDex,Dexes,['Moonriver'],27.275993071101936,77549.14422172713,2115229.920461714,False
+848,Moonriver,ACryptoS,Yield Aggregator,"['BSC', 'Optimism', 'Kava', 'Fantom', 'Ethereum', 'Arbitrum', 'Cronos', 'Moonbeam', 'Astar', 'Polygon', 'Avalanche', 'Gnosis', 'Moonriver', 'Harmony']",31.964263060040683,75994.75796,2429116.434617561,True
+849,Moonriver,Fantohm,Reserve Currency,"['Fantom', 'Ethereum', 'Moonriver', 'BSC', 'Boba']",23.320231022452216,66919.26073757935,1560572.6202520663,False
+850,Moonriver,Oh Finance,Yield,"['Metis', 'Moonriver', 'Avalanche', 'Ethereum']",2.635786480485441,61856.87223614,163041.50756513304,True
+851,Moonriver,PadSwap,Dexes,"['BSC', 'Moonriver', 'Moonbeam']",,44022.36713912946,0.0,False
+852,Moonriver,Zircon Gamma,Dexes,"['Moonriver', 'BSC']",,43896.97547207787,0.0,False
+853,Moonriver,Chaotic Finance,Derivatives,['Moonriver'],,20731.819822659418,0.0,False
+854,Moonriver,1Swap,Dexes,['Moonriver'],,20698.5778113447,0.0,False
+855,Moonriver,FreeRiver,Dexes,['Moonriver'],,18947.822526989807,,False
+856,Moonriver,WePiggy,Lending,"['Ethereum', 'OKExChain', 'Arbitrum', 'BSC', 'Optimism', 'Harmony', 'Polygon', 'Moonbeam', 'Moonriver', 'Oasis', 'Heco', 'Aurora']",,16092.348779674,0.0,False
+857,Moonriver,Impermax Finance,Yield,"['Arbitrum', 'Polygon', 'Ethereum', 'Avalanche', 'Fantom', 'Moonriver']",,15086.192671272,0.0,True
+858,Moonriver,Elk,Dexes,"['Polygon', 'Kava', 'Avalanche', 'BSC', 'Fantom', 'Elastos', 'Gnosis', 'Ethereum', 'Cronos', 'Arbitrum', 'Optimism', 'IoTeX', 'Telos', 'Fuse', 'KCC', 'Heco', 'Bittorrent', 'OKExChain', 'Moonriver', 'Harmony', 'Hoo']",186.77768856852916,10285.608817316002,1921122.240418366,False
+859,Moonriver,Templar DAO,Reserve Currency,"['Moonriver', 'Harmony', 'BSC']",48.8989673449067,9890.432704310166,483631.9458350601,False
+860,Moonriver,Kogefarm,Yield,"['Polygon', 'Fantom', 'Moonriver', 'Kava']",,8832.43608618742,0.0,True
+861,Moonriver,Scion Finance,Yield Aggregator,"['Moonriver', 'Fantom']",,5618.878883648,,True
+862,Moonriver,Pickle,Yield Aggregator,"['Ethereum', 'Optimism', 'Arbitrum', 'Polygon', 'Aurora', 'Metis', 'Moonbeam', 'Moonriver', 'OKExChain', 'Cronos', 'Kava', 'Harmony']",489.3858918918434,3468.21552,1697295.7455283336,True
+863,Moonriver,Polkamarkets,Prediction Market,"['Ethereum', 'Moonriver', 'Moonbeam']",1596.127709271405,3416.245937953061,5452764.803252761,False
+864,Stellar,StellarX,Dexes,['Stellar'],,12979520.082897564,,False
+865,Stellar,LumenSwap,Dexes,['Stellar'],,6122619.908,0.0,False
+866,Tlchain,Decryption,Dexes,['Tlchain'],,16430361.251853047,,False
+867,Icon,sICX,Liquid Staking,['Icon'],,15099588.352281416,0.0,True
+868,Icon,Omm,Lending,['Icon'],,7598290.91,0.0,False
+869,Icon,Balanced,Dexes,['Icon'],,7414125.11,0.0,False
+870,Icon,Optimus,Yield,['Icon'],0.2896976905653851,461765.17086358706,133772.3035827116,True
+871,Icon,UniFi,Dexes,"['IoTeX', 'Tron', 'Icon', 'Ontology', 'Harmony', 'BSC', 'Ethereum', 'Polygon', 'Avalanche', 'Fantom', 'OntologyEVM', 'Bittorrent']",146.28349581447253,225832.21665999998,33035526.120556157,False
+872,TON,Megaton Finance,Dexes,['TON'],,13854720.285667263,,False
+873,TON,STON.fi,Dexes,['TON'],,543343.8406089747,,False
+874,TON,DeDust,Dexes,['TON'],,386528.9101499583,,False
+875,TON,Tegro Finance,Dexes,['TON'],,177364.1865548936,,False
+876,WEMIX,WEMIX.FI,Dexes,['WEMIX'],,14511719.74907538,,False
+877,CORE,LFGSwap Core,Dexes,['CORE'],,4870134.910632759,0.0,False
+878,CORE,ShadowSwap,Dexes,['CORE'],,4698003.321862518,0.0,False
+879,CORE,ArcherSwap,Dexes,['CORE'],,1541241.0207543774,,False
+880,CORE,IcecreamSwap,Dexes,"['CORE', 'Bitgert', 'XDC', 'Dogechain', 'Fuse']",,851988.3936100041,0.0,False
+881,CORE,DxSale,Launchpad,"['BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Polygon', 'Avalanche', 'CORE', 'Cronos', 'Heco', 'OKExChain', 'KCC', 'Celo', 'Harmony', 'Milkomeda C1', 'Bitgert', 'Dexit', 'Moonriver', 'Dogechain', 'Gnosis', 'smartBCH']",13.002693885833805,108618.65064579275,1412335.0646395674,False
+882,CORE,Palma Swap,Dexes,['CORE'],,17457.265224659248,,False
+883,CORE,CoreSwap,Dexes,['CORE'],,5457.610051359544,,False
+884,Bittorrent,KyberSwap Classic,Dexes,"['Bittorrent', 'Polygon', 'Ethereum', 'Optimism', 'BSC', 'Avalanche', 'Fantom', 'Arbitrum', 'Cronos', 'Oasis', 'Velas', 'Aurora']",,8973625.555880481,,False
+885,Bittorrent,Sushi Trident,Dexes,"['Bittorrent', 'Optimism', 'Polygon', 'Arbitrum', 'Kava', 'Metis', 'Avalanche', 'BSC']",,3372853.7730747783,,False
+886,Bittorrent,Soy Finance,Dexes,"['Callisto', 'EthereumClassic', 'Bittorrent', 'BSC']",30.367297129812126,26888.12951677414,816519.8183007521,False
+887,Bittorrent,Elk,Dexes,"['Polygon', 'Kava', 'Avalanche', 'BSC', 'Fantom', 'Elastos', 'Gnosis', 'Ethereum', 'Cronos', 'Arbitrum', 'Optimism', 'IoTeX', 'Telos', 'Fuse', 'KCC', 'Heco', 'Bittorrent', 'OKExChain', 'Moonriver', 'Harmony', 'Hoo']",109.1295070798391,17621.342185068574,1923008.3867417083,False
+888,Bittorrent,JustMoney,Dexes,"['Tron', 'BSC', 'Polygon', 'Bittorrent']",,3258.880255278693,0.0,False
+889,Bittorrent,InfiniTORR,Dexes,['Bittorrent'],,1693.4697469810392,,False
+890,Bittorrent,Bitlend,Lending,['Bittorrent'],,175.5241996426181,,False
+891,Bittorrent,FilDA,Lending,"['IoTeX', 'Heco', 'Elastos', 'REI', 'Arbitrum', 'Polygon', 'BSC', 'Kava', 'Bittorrent']",44070.36681053797,9.57004409345166,421755.353591437,False
+892,Bittorrent,UniFi,Dexes,"['IoTeX', 'Tron', 'Icon', 'Ontology', 'Harmony', 'BSC', 'Ethereum', 'Polygon', 'Avalanche', 'Fantom', 'OntologyEVM', 'Bittorrent']",7998247.287349476,4.130345678709784,33035526.120556157,False
+893,Vision,VanSwap,Dexes,['Vision'],,9901616.300809791,,False
+894,Vision,Lenen,Lending,['Vision'],,1486438.7649510133,,False
+895,Wanchain,WanSwap Dex,Dexes,['Wanchain'],0.10256484722159831,4093900.894356327,419890.31977002136,False
+896,Wanchain,Zookeeper,Yield,"['Wanchain', 'Avalanche']",0.9126708476255379,3409461.103332383,3111715.7551246677,False
+897,Wanchain,WanLend,Lending,['Wanchain'],,3170357.529974464,,False
+898,Wanchain,FinNexus,Options,"['Ethereum', 'BSC', 'Wanchain']",,5466.727047794716,,False
+899,Wanchain,Phoenix Finance,Options,"['BSC', 'Polygon', 'Wanchain']",25.22116777805611,3897.11636,98289.82556616732,False
+900,Wanchain,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",5982.695823866424,3227.5398253233902,19309389.034324814,True
+901,Karura,Karura Dollar (kUSD),Lending,['Karura'],,7792113.309646232,,False
+902,Karura,Karura Liquid-Staking,Liquid Staking,['Karura'],,7497322.042186273,,True
+903,Karura,Taiga Protocol,Synthetics,['Karura'],,1560203.5464274574,,False
+904,Karura,Karura Swap,Dexes,['Karura'],,1234496.463761799,,False
+905,DFK,Crystalvale,Dexes,['DFK'],,9021382.395680701,0.0,False
+906,Ultron,UltronSwap,Dexes,['Ultron'],,8612392.005910194,0.0,False
+907,Ultron,Ultron Staking Hub NFT,Staking,['Ultron'],,0.0,,False
+908,Crescent,Crescent Dex,Dexes,['Crescent'],,8224210.812148872,,False
+909,Injective,Helix,Dexes,['Injective'],,8192738.477190629,,False
+910,Everscale,FlatQube,Dexes,['Everscale'],0.7124521980196061,7806473.394036679,5561739.128363007,False
+911,Umee,Umee,Lending,"['Umee', 'Ethereum']",,7457926.546977661,,False
+912,Terra Classic,Terraswap,Dexes,"['Terra Classic', 'Terra2']",,2951896.988809488,,False
+913,Terra Classic,Anchor,Lending,"['Terra Classic', 'Avalanche']",3.9404927515317945,2019787.2383831998,7958956.972485419,False
+914,Terra Classic,Astroport,Dexes,"['Terra2', 'Terra Classic']",0.2595407968909026,1784231.5942793104,463080.88981717784,False
+915,Terra Classic,Spectrum Protocol,Yield,"['Terra2', 'Terra Classic']",0.16818644770107935,670232.8867142661,112724.08834891237,True
+916,Terra Classic,Pylon Protocol,Yield,['Terra Classic'],0.5799940617379292,407907.38571749994,236583.86145519296,True
+917,Terra Classic,Nexus Protocol,Yield,['Terra Classic'],,200256.9387311989,0.0,True
+918,Terra Classic,Loop Finance,Dexes,['Terra Classic'],1.1524959363737943,165597.76882593438,190850.75564445637,False
+919,Terra Classic,Aperture Finance,Leveraged Farming,"['Terra Classic', 'Avalanche']",,163361.64310693258,,False
+920,Terra Classic,Lido,Liquid Staking,"['Ethereum', 'Solana', 'Moonbeam', 'Moonriver', 'Terra Classic']",18134.791154991894,114956.42316490796,2084710726.020478,True
+921,Terra Classic,INK Protocol,Yield,['Terra Classic'],,105858.07509873473,,True
+922,Terra Classic,Eris Protocol,Liquid Staking,"['Terra2', 'Terra Classic']",,56010.42551773007,,True
+923,Terra Classic,White Whale,Yield,['Terra Classic'],,52180.382774849146,0.0,True
+924,Terra Classic,Edge Protocol,Lending,['Terra Classic'],,15627.075292785314,,False
+925,Terra Classic,Soluna,Yield,['Terra Classic'],0.008652016031902049,15048.564934459044,130.20042507005866,True
+926,Terra Classic,PRISM Protocol,Staking,['Terra Classic'],,13669.022981995986,0.0,False
+927,Terra Classic,TFM,Dexes,['Terra Classic'],,4966.477351971284,,False
+928,Terra Classic,LoTerra,Prediction Market,['Terra Classic'],,2244.8408393619934,0.0,False
+929,Terra Classic,Angel Protocol,Services,['Terra Classic'],,446.68026263779774,0.0,False
+930,Terra Classic,MoonFarm,Yield,"['BSC', 'Ethereum', 'Polygon', 'Avalanche', 'Fantom', 'Solana', 'Kava', 'Terra Classic']",401.14923145621646,100.0,40114.923145621644,True
+931,Terra Classic,Steak,Liquid Staking,['Terra Classic'],,6.7007452938425995,,True
+932,Terra Classic,Risk Harbor,Insurance,"['Terra2', 'Avalanche', 'Optimism', 'Ethereum', 'Arbitrum', 'Fantom', 'Aurora', 'Terra Classic']",,0.0,,False
+933,Terra Classic,Mars Protocol,Lending,"['Osmosis', 'Terra Classic']",,0.0,0.0,False
+934,Terra Classic,Mirror,Derivatives,['Terra Classic'],,0.0,15847021.192997206,False
+935,Terra Classic,ApolloDAO,Yield,['Terra Classic'],,0.0,245865.46269785694,True
+936,Terra Classic,Starterra,Launchpad,['Terra Classic'],,0.0,90635.8499537527,False
+937,Terra Classic,Valkyrie,Launchpad,['Terra Classic'],,0.0,40060.17186665071,False
+938,Terra Classic,TerraFloki,Dexes,['Terra Classic'],,0.0,,False
+939,Oraichain,OraiDEX,Dexes,['Oraichain'],,7017166.896040016,0.0,False
+940,Kujira,Kujira Protocol,,['Kujira'],,6558992.129312302,,False
+941,Kujira,Black Whale,Yield,['Kujira'],,214665.9225291145,,False
+942,Kujira,CALC,Services,['Kujira'],,39360.60852343313,,False
+943,Ultra,pNetwork,Cross Chain,"['BSC', 'Ultra', 'Ethereum', 'Polygon', 'EOS', 'LBRY', 'Telos', 'Algorand', 'Arbitrum']",2.7347385643486612,6695743.029806879,18311106.68058162,False
+944,Flow,Increment Finance,,['Flow'],,6568685.029605828,,True
+945,Proton,Proton Swap,Dexes,['Proton'],,2528474.9274525517,,False
+946,Proton,Proton Loan,Lending,['Proton'],,2306392.0365574257,0.0,False
+947,Proton,Proton Dex,Dexes,['Proton'],,972745.456982302,,False
+948,Vite,ViteX,Dexes,['Vite'],,5437241.300184097,0.0,False
+949,Vite,Viva,Staking,['Vite'],,116492.9501195375,0.0,False
+950,Vite,BeefStake,Staking,['Vite'],,38337.57853148409,,False
+951,Vite,VITCSwap,Dexes,['Vite'],,6825.744726726109,,False
+952,Zilliqa,ZilSwap,Dexes,['Zilliqa'],0.16446678545219648,5283832.988697854,869015.0265174081,False
+953,Zilliqa,Pillar,Algo-Stables,['Zilliqa'],,2322.1286760932157,,False
+954,Secret,Sienna Network,Privacy,['Secret'],0.7720927350259619,3671906.4325938625,2835052.280300818,False
+955,Secret,SecretSwap,Dexes,['Secret'],0.22373034024086397,1527187.9785010025,341678.28604178654,False
+956,Secret,StakeEasy,Liquid Staking,"['Secret', 'Juno']",,180840.61726349997,,True
+957,Secret,BtnGroup,Yield,['Secret'],0.7082396410514762,145412.84,102987.13760587573,True
+958,smartBCH,BenSwap,Dexes,"['smartBCH', 'BSC']",,2649221.3123716093,0.0,False
+959,smartBCH,TangoSwap,Dexes,['smartBCH'],,815751.4857763812,0.0,False
+960,smartBCH,BlockNG,Dexes,['smartBCH'],,766700.2014724785,0.0,False
+961,smartBCH,MistSwap,Dexes,['smartBCH'],0.20110008324017045,754541.8081700413,151738.42043118403,False
+962,smartBCH,Verse,Dexes,"['Ethereum', 'smartBCH']",176.75275668231797,31505.724419487964,5568723.64241792,False
+963,smartBCH,Goblins Cash,Reserve Currency,['smartBCH'],,28497.818911391783,,False
+964,smartBCH,Tropical Finance,Dexes,['smartBCH'],,25753.15123078175,0.0,False
+965,smartBCH,1BCH,Dexes,['smartBCH'],,10746.33146305678,0.0,False
+966,smartBCH,MuesliSwap,Dexes,"['Cardano', 'Milkomeda C1', 'smartBCH']",,7735.345102348538,0.0,False
+967,smartBCH,WaterLoan,Lending,"['smartBCH', 'CSC']",,6707.257451550192,,False
+968,smartBCH,CatsLuck,Prediction Market,['smartBCH'],,5687.730367801838,,False
+969,smartBCH,EmberSwap,Dexes,['smartBCH'],,1618.453071995315,,False
+970,smartBCH,HonkSwap,Dexes,['smartBCH'],,865.2057147941415,,False
+971,smartBCH,SmartDEXBCH,Dexes,['smartBCH'],,517.0148187188605,,False
+972,smartBCH,BCHPad,Launchpad,['smartBCH'],,0.0690907056,0.0,False
+973,smartBCH,DxSale,Launchpad,"['BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Polygon', 'Avalanche', 'CORE', 'Cronos', 'Heco', 'OKExChain', 'KCC', 'Celo', 'Harmony', 'Milkomeda C1', 'Bitgert', 'Dexit', 'Moonriver', 'Dogechain', 'Gnosis', 'smartBCH']",,0.0,1499883.0048295609,False
+974,smartBCH,Swap Cat,Dexes,"['Gnosis', 'Heco', 'OKExChain', 'Songbird', 'Harmony', 'KCC', 'Fantom', 'BSC', 'EthereumClassic', 'Celo', 'TomoChain', 'GoChain', 'Ethereum', 'EnergyWeb', 'Rootstock', 'Moonriver', 'HPB', 'Avalanche', 'Polygon', 'smartBCH', 'Arbitrum']",,0.0,,False
+975,smartBCH,CoinFLEX,Staking,['smartBCH'],,0.0,167733103.1234689,False
+976,smartBCH,LNS,Dexes,['smartBCH'],,0.0,,False
+977,smartBCH,Celerycash,Staking,['smartBCH'],,0.0,0.0,False
+978,smartBCH,Joystick Club,Gaming,['smartBCH'],,0.0,0.0,False
+979,smartBCH,PandaLand,Gaming,['smartBCH'],,0.0,,False
+980,Harmony,Defi Kingdoms,Dexes,"['Klaytn', 'Harmony']",11.556035379027898,2283683.3522932883,26390325.613598272,False
+981,Harmony,Tranquil Finance,Lending,['Harmony'],0.5038556337450388,1119415.9826963374,564024.0493857885,False
+982,Harmony,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,836173.9493574551,,False
+983,Harmony,FoxSwap,Yield,['Harmony'],,241751.93317179338,0.0,True
+984,Harmony,ViperSwap,Dexes,['Harmony'],0.15670693282537101,142479.61757909838,22327.543860952323,False
+985,Harmony,UniFi,Dexes,"['IoTeX', 'Tron', 'Icon', 'Ontology', 'Harmony', 'BSC', 'Ethereum', 'Polygon', 'Avalanche', 'Fantom', 'OntologyEVM', 'Bittorrent']",302.9723299899653,109572.5078331282,33197438.001046576,False
+986,Harmony,WePiggy,Lending,"['Ethereum', 'OKExChain', 'Arbitrum', 'BSC', 'Optimism', 'Harmony', 'Polygon', 'Moonbeam', 'Moonriver', 'Oasis', 'Heco', 'Aurora']",,51850.325863109,0.0,False
+987,Harmony,MochiSwap,Dexes,"['Harmony', 'BSC']",,47720.53475249106,0.0,False
+988,Harmony,Fuzz Finance,Dexes,['Harmony'],,44605.39547682841,0.0,False
+989,Harmony,SonicSwap,Dexes,['Harmony'],,42235.7881000318,0.0,False
+990,Harmony,WagmiDAO,Reserve Currency,['Harmony'],49.97883708957872,40067.21033494344,2002512.577964023,False
+991,Harmony,LootSwap,Dexes,['Harmony'],,35168.32024174674,,False
+992,Harmony,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",636.1033190246948,30355.74325241838,19309389.034324814,True
+993,Harmony,BossSwap,Dexes,['Harmony'],,24651.63293295769,0.0,False
+994,Harmony,OpenSwap,Dexes,['Harmony'],,24646.100067789586,0.0,False
+995,Harmony,ACryptoS,Yield Aggregator,"['BSC', 'Optimism', 'Kava', 'Fantom', 'Ethereum', 'Arbitrum', 'Cronos', 'Moonbeam', 'Astar', 'Polygon', 'Avalanche', 'Gnosis', 'Moonriver', 'Harmony']",108.2233819377092,22445.39388,2429116.434617561,True
+996,Harmony,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",1922.3536356514237,20442.110069999995,39296964.61345107,True
+997,Harmony,Oin Finance,Algo-Stables,"['Ethereum', 'Near', 'Harmony']",12.823820921033974,10704.319146294507,137270.27181367602,False
+998,Harmony,Elk,Dexes,"['Polygon', 'Kava', 'Avalanche', 'BSC', 'Fantom', 'Elastos', 'Gnosis', 'Ethereum', 'Cronos', 'Arbitrum', 'Optimism', 'IoTeX', 'Telos', 'Fuse', 'KCC', 'Heco', 'Bittorrent', 'OKExChain', 'Moonriver', 'Harmony', 'Hoo']",253.26696258346868,7585.364552967407,1921122.240418366,False
+999,Harmony,QiDao,CDP,"['Polygon', 'Fantom', 'Optimism', 'Ethereum', 'Metis', 'Arbitrum', 'Avalanche', 'BSC', 'Moonbeam', 'Gnosis', 'Harmony', 'Moonriver']",1067.1048425824945,6173.33051156648,6587590.883754859,False
+1000,Harmony,Templar DAO,Reserve Currency,"['Moonriver', 'Harmony', 'BSC']",114.01601871359667,4241.789454602188,483631.9458350601,False
+1001,Harmony,Elephantdex,Dexes,['Harmony'],,3909.3911637441947,,False
+1002,Harmony,Hermes Defi,Yield,['Harmony'],,3216.235260323417,0.0,False
+1003,Harmony,Artemis Protocol,Yield,['Harmony'],,2679.8846314065886,0.0,True
+1004,Harmony,Hundred Finance,Lending,"['Optimism', 'Fantom', 'Arbitrum', 'Moonriver', 'Gnosis', 'Polygon', 'Harmony', 'Ethereum']",657.0374721522811,1826.5534271418278,1200114.0465203524,False
+1005,Harmony,DxSale,Launchpad,"['BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Polygon', 'Avalanche', 'CORE', 'Cronos', 'Heco', 'OKExChain', 'KCC', 'Celo', 'Harmony', 'Milkomeda C1', 'Bitgert', 'Dexit', 'Moonriver', 'Dogechain', 'Gnosis', 'smartBCH']",1196.0208580620597,1180.8615670198317,1412335.0646395674,False
+1006,Harmony,CougarSwap,Yield,"['Cronos', 'Moonbeam', 'BSC', 'Avalanche', 'Fantom', 'Polygon', 'Harmony', 'Arbitrum']",,403.1682463156974,0.0,True
+1007,Harmony,Adena Finance,Dexes,['Harmony'],,261.89227948032084,,False
+1008,Harmony,YieldWolf,Yield,"['Fantom', 'Avalanche', 'Cronos', 'BSC', 'Polygon', 'Celo', 'Harmony']",,226.40627387798176,,True
+1009,Harmony,EggTartSwap,Dexes,['Harmony'],,216.80084643968684,,False
+1010,Velas,WagyuSwap,Dexes,['Velas'],0.15335720185108287,2083156.6501412857,319467.0748831428,False
+1011,Velas,Wavelength DAO,Dexes,['Velas'],,1693703.3918064628,,False
+1012,Velas,AstroSwap,Dexes,['Velas'],0.4482588330036465,719260.2730248792,322414.7706120165,False
+1013,Velas,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",879.9561335230024,22085.78289081569,19434520.118430655,True
+1014,Velas,Symblox,Synthetics,['Velas'],,10661.788412615686,,False
+1015,Velas,BambooDeFi,Yield,"['BSC', 'Ethereum', 'Polygon', 'Velas']",,10469.389112629233,0.0,True
+1016,Velas,Earnifty,Yield Aggregator,['Velas'],,500.3428428293371,,True
+1017,Velas,KyberSwap Classic,Dexes,"['Bittorrent', 'Polygon', 'Ethereum', 'Optimism', 'BSC', 'Avalanche', 'Fantom', 'Arbitrum', 'Cronos', 'Oasis', 'Velas', 'Aurora']",,5.772999495210251,,False
+1018,Velas,Velhalla,Gaming,['Velas'],,0.0,3018586.3865868594,False
+1019,Velas,VelasPad,Launchpad,['Velas'],,0.0,5544044.4939987445,False
+1020,Velas,VeleroDAO,CDP,['Velas'],,0.0,0.0,False
+1021,Nuls,Nerve Staking,Dexes,['Nuls'],1.7622236610823103,2879495.0,5074314.220968207,False
+1022,Nuls,NerveSwap,Dexes,['Nuls'],,1627977.771272,,False
+1023,Nuls,NULS POCM,Staking,['Nuls'],,0.0,,False
+1024,Dogechain,Quickswap V3,Dexes,"['Polygon', 'Dogechain']",,1722164.8873325454,,False
+1025,Dogechain,KibbleSwap,Dexes,['Dogechain'],,1018519.1210444075,0.0,False
+1026,Dogechain,DogeSwapOrg,Dexes,['Dogechain'],,839869.5328916736,,False
+1027,Dogechain,Frax Swap,Dexes,"['Ethereum', 'Dogechain', 'Polygon', 'BSC', 'Arbitrum', 'Avalanche', 'Fantom', 'Moonbeam']",,360010.4941771289,,False
+1028,Dogechain,Yodeswap,Dexes,['Dogechain'],0.0037065124141296255,226218.48701182837,838.4816304149633,False
+1029,Dogechain,FlokiFi Locker,Launchpad,"['Ethereum', 'BSC', 'Dogechain', 'Cronos', 'Arbitrum', 'Fantom', 'Optimism', 'Polygon', 'KCC', 'Avalanche', 'OKExChain', 'Evmos']",2996.7582241742516,128473.75106913583,385004770.1069484,False
+1030,Dogechain,Clever Protocol,Dexes,['Dogechain'],,32821.38862840851,,False
+1031,Dogechain,Wojak Finance,Dexes,['Dogechain'],,24656.83695095525,,False
+1032,Dogechain,Atlantis Loans,Lending,"['BSC', 'Polygon', 'Dogechain', 'Avalanche']",7.439309259491382,19227.807011449568,143041.60273999008,False
+1033,Dogechain,DogeMuskSwap,Dexes,['Dogechain'],,16632.62854395568,,False
+1034,Dogechain,Matrix Farm,Yield Aggregator,"['Fantom', 'Arbitrum', 'Dogechain', 'Optimism']",,12550.3729006574,,True
+1035,Dogechain,Doge Shrek,Dexes,['Dogechain'],,11560.81691446947,0.0,False
+1036,Dogechain,DarkSwap,Dexes,['Dogechain'],,10345.55232843155,,False
+1037,Dogechain,DogMoney,Dexes,['Dogechain'],,8491.649559768544,,False
+1038,Dogechain,Chocodoge,Algo-Stables,['Dogechain'],,6004.58947136263,,False
+1039,Dogechain,RadioShack,Dexes,"['BSC', 'Ethereum', 'Avalanche', 'Polygon', 'Cronos', 'Optimism', 'Fantom', 'Dogechain']",556.6775088027283,4283.606989522204,2384587.667617175,False
+1040,Dogechain,Bourbon Defi,Dexes,['Dogechain'],,3613.005553854178,,False
+1041,Dogechain,DarkAuto,Yield Aggregator,"['Cronos', 'Dogechain']",,2508.123043739087,,True
+1042,Dogechain,SweetSwap,Dexes,['Dogechain'],,1910.5505708733745,,False
+1043,Dogechain,IcecreamSwap,Dexes,"['CORE', 'Bitgert', 'XDC', 'Dogechain', 'Fuse']",,1746.177961227521,0.0,False
+1044,Dogechain,AutoBark,Yield Aggregator,['Dogechain'],,1484.6008170233297,,True
+1045,Dogechain,DogePup,Farm,['Dogechain'],,1406.792938677568,0.0,False
+1046,Dogechain,Fruits of Ryoshi,Farm,['Dogechain'],43.93016571162954,1265.1757937033817,55579.38227173199,False
+1047,Dogechain,BoneSwap,Farm,['Dogechain'],,540.3529720860145,,False
+1048,Dogechain,ElonSwap,Dexes,['Dogechain'],,419.32339253300904,,False
+1049,Dogechain,Inuswap,Dexes,['Dogechain'],,272.5221969643479,,False
+1050,Dogechain,Dogium Farm,Dexes,['Dogechain'],,255.1998140010736,,False
+1051,Dogechain,StableDoin,Dexes,['Dogechain'],,219.80221276699996,,False
+1052,Dogechain,Doge Compounder,Yield Aggregator,['Dogechain'],,171.8300212346753,,True
+1053,Dogechain,WTFDOGE,Farm,['Dogechain'],,93.69774570003109,,False
+1054,Step,Step Exchange,Dexes,['Step'],0.05652141095127249,4238938.517175361,239590.7859264462,False
+1055,Step,DAO Maker Vesting,Services,"['Celo', 'Fantom', 'Step', 'Polygon', 'BSC', 'Ethereum']",,0.0,257338084.0678644,False
+1056,Juno,WYND DEX,Dexes,['Juno'],,4149298.292831244,0.0,False
+1057,Juno,StakeEasy,Liquid Staking,"['Secret', 'Juno']",,109711.02632226299,,True
+1058,Juno,Junoswap,Dexes,['Juno'],,0.0,0.0,False
+1059,Heiko,Parallel DeFi Super App,,"['Parallel', 'Heiko']",,7728160.847690453,,True
+1060,Bifrost,Bifrost Liquid Crowdloan,Liquid Staking,['Bifrost'],,16938641.44406456,,True
+1061,Bifrost,Bifrost Liquid Staking,Liquid Staking,"['Ethereum', 'Bifrost']",0.36304261594786136,15031448.037021894,5457056.216844774,True
+1062,Bifrost,Bifrost Dex,Dexes,['Bifrost'],,4031914.171322334,,False
+1063,Interlay,Interlay,,['Interlay'],,3969085.2,,True
+1064,Kardia,Kaidex,Dexes,['Kardia'],,3842345.9694154263,0.0,False
+1065,Kardia,BecoSwap,Dexes,['Kardia'],,150790.51227437964,0.0,False
+1066,Kardia,SleepEarn Finance,Yield,['Kardia'],,48404.16,0.0,True
+1067,Kardia,Defily,Yield,"['BSC', 'Kardia', 'Harmony']",,0.0,0.0,False
+1068,Kardia,Wolf Safe Poor People,Yield,"['Kardia', 'Polygon', 'BSC', 'Avalanche']",,0.0,185093.34622151076,True
+1069,Carbon,Demex,Dexes,['Carbon'],,2005291.228241411,,False
+1070,Carbon,Nitron,CDP,['Carbon'],,1967626.7267499876,,False
+1071,XDC,XSwap Protocol,Dexes,['XDC'],0.37583839580072853,3142174.465422648,1180949.8104104598,False
+1072,XDC,Globiance,Dexes,['XDC'],73.84424166118369,676441.9598263853,49951343.5511843,False
+1073,XDC,IcecreamSwap,Dexes,"['CORE', 'Bitgert', 'XDC', 'Dogechain', 'Fuse']",,63050.62248116113,0.0,False
+1074,Boba,SushiSwap,Dexes,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm']",159.47546381237123,1490370.906513571,237677591.5687159,False
+1075,Boba,OolongSwap,Dexes,['Boba'],0.5179421022098997,1034102.8354867524,535605.3965132266,False
+1076,Boba,Gin Finance,Dexes,['Boba'],,343081.80475401087,,False
+1077,Boba,Symbiosis Finance,Cross Chain,"['Ethereum', 'Boba', 'Avalanche', 'Boba_Bnb', 'BSC', 'Telos', 'Polygon', 'Kava', 'Boba_Avax', 'Aurora']",13.614678035643307,263483.791461964,3587246.988365223,False
+1078,Boba,Outcome Finance,Synthetics,"['Ethereum', 'Boba', 'Polygon']",,263049.78793405025,,False
+1079,Boba,Bodh Finance,Lending,['Boba'],,99801.68652446785,,False
+1080,Boba,Thetanuts Finance,Options Vault,"['Ethereum', 'Fantom', 'Polygon', 'Boba', 'BSC', 'Avalanche', 'Aurora']",,88052.05490484959,,False
+1081,Boba,Zencha Finance,Dexes,['Boba'],,86017.33284701899,,False
+1082,Boba,UniDex,Derivatives,"['Fantom', 'Optimism', 'Metis', 'Boba', 'BSC']",795.3686056474875,29669.500246921645,23598189.041651852,False
+1083,Boba,Connext,Cross Chain,"['Gnosis', 'Fantom', 'BSC', 'Avalanche', 'Milkomeda C1', 'Polygon', 'Evmos', 'Boba', 'Optimism', 'Ethereum', 'Arbitrum', 'Moonriver', 'Fuse', 'Moonbeam', 'Cronos', 'Harmony']",,25019.520316520808,,False
+1084,Boba,SwapperChan,Dexes,['Boba'],,23140.39216129466,,False
+1085,Boba,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",2083.3034115008,9268.639857126927,19309389.034324814,True
+1086,Boba,Domination Finance,Synthetics,"['Polygon', 'Ethereum', 'Boba']",,8323.153224004,,False
+1087,Boba,Koyo Finance,Dexes,['Boba'],,1143.149290320293,,False
+1088,Boba,SenpaiSwap,Reserve Currency,['Boba'],,382.9520341568517,,False
+1089,Boba,Impossible Finance,Launchpad,"['BSC', 'Aurora', 'OKExChain', 'Avalanche', 'Kava', 'Boba', 'Moonbeam']",3779794.9493171964,0.0896340000000018,338798.14048710436,False
+1090,Boba,Fantohm,Reserve Currency,"['Fantom', 'Ethereum', 'Moonriver', 'BSC', 'Boba']",,0.0,1560572.6202520663,False
+1091,Boba,BoringDAO,Cross Chain,"['Bitcoin', 'Litecoin', 'Ethereum', 'Metis', 'Doge', 'IoTeX', 'BSC', 'Aurora', 'Optimism', 'Arbitrum', 'Polygon', 'Avalanche', 'Fantom', 'Heco', 'OKExChain', 'KCC', 'Gnosis', 'Harmony', 'Oasis', 'Boba']",,0.0,3631810.226930736,False
+1092,Boba,BananaFarm,Yield,['Boba'],,0.0,,True
+1093,Boba,Shibui DAO,NFT Marketplace,['Boba'],,0.0,0.0,False
+1094,Sora,Ceres Demeter,Yield,['Sora'],0.031686486486432595,10837850.176309843,343413.393153623,True
+1095,Sora,Polkaswap,Dexes,['Sora'],3.06116741332705,3553315.65745,10877294.099850722,False
+1096,Ergo,Sigmausd,Algo-Stables,['Ergo'],,2002608.7936914265,,False
+1097,Ergo,Spectrum Finance,Dexes,['Ergo'],,1414029.70448,,False
+1098,Ergo,ErgoPad,Launchpad,['Ergo'],,0.0,,False
+1099,Meter,Volt Finance,,"['Meter', 'Theta']",,2922566.869749581,,False
+1100,Meter,Chee Finance,Lending,"['Meter', 'Celo', 'BSC']",,430914.3786645242,,False
+1101,Meter,LlamaPay,Payments,"['Ethereum', 'Polygon', 'Optimism', 'Arbitrum', 'Avalanche', 'BSC', 'Fantom', 'Meter', 'Gnosis', 'Metis']",,21307.255823003,,False
+1102,Meter,JioSwap,Dexes,"['GodwokenV1', 'Meter', 'Ethereum']",,1336.5849371464028,,False
+1103,Meter,BusinessBuildersNFTs,Gaming,"['Polygon', 'Meter']",,0.0,,False
+1104,GodwokenV1,YokaiSwap,Dexes,"['GodwokenV1', 'Godwoken']",,3464141.4223098652,,False
+1105,GodwokenV1,Brainiac Finance,Lending,['GodwokenV1'],,74916.46641358855,,False
+1106,GodwokenV1,JioSwap,Dexes,"['GodwokenV1', 'Meter', 'Ethereum']",,15550.7711732336,,False
+1107,GodwokenV1,StableKoi,Dexes,"['Godwoken', 'GodwokenV1']",,5200.519198444737,,False
+1108,SXnetwork,SharkSwap,Dexes,['SXnetwork'],,3365385.750579424,0.0,False
+1109,Milkomeda C1,Blueshift,Dexes,"['Milkomeda C1', 'Milkomeda A1', 'Kava']",,1094656.7763087545,0.0,False
+1110,Milkomeda C1,OccamX,Dexes,['Milkomeda C1'],,947512.3567985912,0.0,False
+1111,Milkomeda C1,MuesliSwap,Dexes,"['Cardano', 'Milkomeda C1', 'smartBCH']",,500798.46752517176,0.0,False
+1112,Milkomeda C1,MilkySwap,Dexes,['Milkomeda C1'],0.7861454989397331,302056.8323538345,237460.61917896057,False
+1113,Milkomeda C1,AdaSwap,Dexes,['Milkomeda C1'],,66945.87666580759,,False
+1114,Milkomeda C1,Connext,Cross Chain,"['Gnosis', 'Fantom', 'BSC', 'Avalanche', 'Milkomeda C1', 'Polygon', 'Evmos', 'Boba', 'Optimism', 'Ethereum', 'Arbitrum', 'Moonriver', 'Fuse', 'Moonbeam', 'Cronos', 'Harmony']",,66209.72360346362,,False
+1115,Milkomeda C1,Lemuria Finance,Yield Aggregator,['Milkomeda C1'],,65237.049999999996,,True
+1116,Milkomeda C1,Milkydex,Dexes,['Milkomeda C1'],,3643.5875170127515,,False
+1117,Milkomeda C1,Milko Farm,Farm,['Milkomeda C1'],,3052.263950319223,,False
+1118,Milkomeda C1,Milky Cow,Algo-Stables,['Milkomeda C1'],,98.97320897219001,,False
+1119,Milkomeda C1,MilkyWay,Lending,['Milkomeda C1'],,20.375108630344002,,False
+1120,Milkomeda C1,DxSale,Launchpad,"['BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Polygon', 'Avalanche', 'CORE', 'Cronos', 'Heco', 'OKExChain', 'KCC', 'Celo', 'Harmony', 'Milkomeda C1', 'Bitgert', 'Dexit', 'Moonriver', 'Dogechain', 'Gnosis', 'smartBCH']",295806.3191554136,5.070490073072231,1499883.0048295609,False
+1121,Milkomeda C1,Ravelin Finance,Algo-Stables,['Milkomeda C1'],,0.0,0.0,False
+1122,Libre,Libre Swap,Dexes,['Libre'],,2983060.2875408344,,False
+1123,ThunderCore,TTswap,Dexes,['ThunderCore'],,1561044.913816328,,False
+1124,ThunderCore,Ram Protocol,Lending,['ThunderCore'],,952183.111812718,,False
+1125,ThunderCore,LaserSwap,Dexes,['ThunderCore'],,330122.967616005,,False
+1126,Songbird,Enosys,,['Songbird'],,6321455.899422695,,True
+1127,Songbird,Pangolin,Dexes,"['Avalanche', 'Hedera', 'Flare', 'Songbird']",22.822112649875066,337834.70166333235,7710101.618397507,False
+1128,Songbird,Oracle Swap,Dexes,['Songbird'],,211077.36987227204,,False
+1129,Songbird,Swap Cat,Dexes,"['Gnosis', 'Heco', 'OKExChain', 'Songbird', 'Harmony', 'KCC', 'Fantom', 'BSC', 'EthereumClassic', 'Celo', 'TomoChain', 'GoChain', 'Ethereum', 'EnergyWeb', 'Rootstock', 'Moonriver', 'HPB', 'Avalanche', 'Polygon', 'smartBCH', 'Arbitrum']",,0.0,,False
+1130,Kadena,eckoDAO,Dexes,['Kadena'],,1891049.687369272,0.0,False
+1131,Kadena,KDSwap,Dexes,['Kadena'],,371871.40831017616,0.0,False
+1132,Kadena,Babena,CDP,['Kadena'],,157015.80388440003,,False
+1133,Kadena,Anedak,Dexes,['Kadena'],,19335.024594278566,,False
+1134,Kadena,KDLaunch,Launchpad,['Kadena'],,0.0,0.0,False
+1135,Filecoin,Filet,Staking,['Filecoin'],,2345002.97542359,,False
+1136,Comdex,Harbor Protocol,CDP,['Comdex'],,1178491.0781066176,,False
+1137,Comdex,cSwap,Dexes,['Comdex'],,1006484.3095678943,,False
+1138,Comdex,Commodo,Lending,['Comdex'],,133345.58987798795,,False
+1139,Hydra,Hydradex,Dexes,['Hydra'],,2321472.424636151,,False
+1140,Hydra,Changex,Staking,"['Ethereum', 'Hydra']",,0.0,1493954.981222316,False
+1141,OntologyEVM,Wing Finance,Lending,"['Ontology', 'BSC', 'OntologyEVM', 'Ethereum', 'OKExChain']",9.506293986192388,2290918.9579999996,21778149.113289528,False
+1142,OntologyEVM,UniFi,Dexes,"['IoTeX', 'Tron', 'Icon', 'Ontology', 'Harmony', 'BSC', 'Ethereum', 'Polygon', 'Avalanche', 'Fantom', 'OntologyEVM', 'Bittorrent']",642180.7682170932,51.4427210460907,33035526.120556157,False
+1143,Starknet,10KSwap,Dexes,['Starknet'],,794162.5458495353,,False
+1144,Starknet,mySwap,Dexes,['Starknet'],,776978.4925934591,,False
+1145,Starknet,JediSwap,Dexes,['Starknet'],,543654.2724636276,,False
+1146,Theta,ThetaCash,Staking,['Theta'],,825278.014516,,False
+1147,Theta,ThetaSwap,Dexes,['Theta'],,790001.1177333883,,False
+1148,Theta,VoltSwap,Dexes,"['Theta', 'Meter']",,444680.0307974548,0.0,False
+1149,LBRY,pNetwork,Cross Chain,"['BSC', 'Ultra', 'Ethereum', 'Polygon', 'EOS', 'LBRY', 'Telos', 'Algorand', 'Arbitrum']",8.712769811401024,2028957.66703224,17677841.10992915,False
+1150,Arbitrum Nova,SushiSwap,Dexes,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm']",192.16882804895923,1236816.5741644753,237677591.5687159,False
+1151,Arbitrum Nova,Arbswap,Dexes,"['Arbitrum', 'Arbitrum Nova']",,580799.2099402298,,False
+1152,Arbitrum Nova,RCPswap,Dexes,['Arbitrum Nova'],,132920.56162402793,,False
+1153,Arbitrum Nova,Archly Finance,Dexes,"['Telos', 'Arbitrum', 'Optimism', 'BSC', 'Fantom', 'Polygon', 'Arbitrum Nova', 'Kava']",,27308.865862465995,,False
+1154,Bitgert,Sphynx,Dexes,"['Bitgert', 'BSC', 'Cronos']",,1378776.053649926,0.0,False
+1155,Bitgert,IcecreamSwap,Dexes,"['CORE', 'Bitgert', 'XDC', 'Dogechain', 'Fuse']",,467081.22435742244,0.0,False
+1156,Bitgert,O3 Swap,Cross Chain,"['BSC', 'Ethereum', 'Polygon', 'Arbitrum', 'Optimism', 'Avalanche', 'Fantom', 'Cube', 'Bitgert', 'KCC', 'Metis', 'Gnosis', 'Celo', 'Astar']",58.14865375416816,45600.82,2651626.2930861465,False
+1157,Bitgert,Bitgert Swap,Dexes,['Bitgert'],,17198.972738592103,,False
+1158,Bitgert,Brise Swap,Dexes,['Bitgert'],,1543.847866442848,,False
+1159,Bitgert,DxSale,Launchpad,"['BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Polygon', 'Avalanche', 'CORE', 'Cronos', 'Heco', 'OKExChain', 'KCC', 'Celo', 'Harmony', 'Milkomeda C1', 'Bitgert', 'Dexit', 'Moonriver', 'Dogechain', 'Gnosis', 'smartBCH']",7976949.504816885,0.18802714044057264,1499883.0048295609,False
+1160,Bitgert,Bitgert,Staking,"['BSC', 'Bitgert']",,0.0,190036366.97526476,False
+1161,VeChain,Vexchange,Dexes,['VeChain'],,1382669.165131642,,False
+1162,VeChain,VeRocket,Dexes,['VeChain'],,464515.7571508153,,False
+1163,Elastos,FilDA,Lending,"['IoTeX', 'Heco', 'Elastos', 'REI', 'Arbitrum', 'Polygon', 'BSC', 'Kava', 'Bittorrent']",0.451833888968507,933430.1031608399,421755.353591437,False
+1164,Elastos,Glide Finance,Dexes,['Elastos'],0.43512683377726735,783315.9322243574,340841.7814360732,False
+1165,Elastos,Elk,Dexes,"['Polygon', 'Kava', 'Avalanche', 'BSC', 'Fantom', 'Elastos', 'Gnosis', 'Ethereum', 'Cronos', 'Arbitrum', 'Optimism', 'IoTeX', 'Telos', 'Fuse', 'KCC', 'Heco', 'Bittorrent', 'OKExChain', 'Moonriver', 'Harmony', 'Hoo']",15.044811856021468,127818.70621878545,1923008.3867417083,False
+1166,Energi,Energiswap,Dexes,['Energi'],7.728219927147303,1784315.9263814073,13789585.898587093,False
+1167,Syscoin,PegaSys,Dexes,['Syscoin'],,1778397.8285189774,0.0,False
+1168,FunctionX,FX Swap,Dexes,['FunctionX'],,1629810.3149704365,,False
+1169,Evmos,SpaceFi,Dexes,['Evmos'],0.19443473019742807,1023419.837935054,198988.3600675978,False
+1170,Evmos,Diffusion Finance,Dexes,['Evmos'],0.45095017922646996,231398.77772455162,104349.32028767264,False
+1171,Evmos,EvmoSwap,Dexes,['Evmos'],,74882.47680104554,0.0,False
+1172,Evmos,Cronus Finance,Dexes,['Evmos'],,49388.099618675595,0.0,False
+1173,Evmos,Connext,Cross Chain,"['Gnosis', 'Fantom', 'BSC', 'Avalanche', 'Milkomeda C1', 'Polygon', 'Evmos', 'Boba', 'Optimism', 'Ethereum', 'Arbitrum', 'Moonriver', 'Fuse', 'Moonbeam', 'Cronos', 'Harmony']",,29338.43968115127,,False
+1174,Evmos,Coslend,Lending,['Evmos'],,26347.744821908,,False
+1175,Evmos,Kinesis Labs,Dexes,['Evmos'],,18679.852247750478,,False
+1176,Evmos,Earnmos,Yield Aggregator,"['Evmos', 'Kava']",,13212.159934388,,True
+1177,Evmos,Saddle Finance,Dexes,"['Ethereum', 'Arbitrum', 'Optimism', 'Evmos', 'Fantom', 'Kava']",2075.7426142110767,2421.0476892388824,5025471.859590405,False
+1178,Evmos,Autofarm,Yield Aggregator,"['BSC', 'Polygon', 'Cronos', 'Fantom', 'Heco', 'Oasis', 'Avalanche', 'OKExChain', 'Moonriver', 'Celo', 'Harmony', 'Velas', 'Gnosis', 'Boba', 'Aurora', 'KCC', 'Wanchain', 'Evmos']",158124.35916107483,122.11520816128733,19309389.034324814,True
+1179,Evmos,PhotonSwap Finance,Dexes,"['Cronos', 'Kava', 'Evmos']",,8.72012905478138,0.0,False
+1180,Evmos,FlokiFi Locker,Launchpad,"['Ethereum', 'BSC', 'Dogechain', 'Cronos', 'Arbitrum', 'Fantom', 'Optimism', 'Polygon', 'KCC', 'Avalanche', 'OKExChain', 'Evmos']",29412874477.937428,0.013080132523250696,384724296.0611597,False
+1181,Obyte,Ostable,Algo-Stables,['Obyte'],,820538.6722916472,,False
+1182,Obyte,Oswap,,['Obyte'],,402470.3833586973,,False
+1183,Obyte,Counterstake,Cross Chain,"['Ethereum', 'Obyte', 'BSC', 'Polygon', 'Kava']",,212656.40766970787,,False
+1184,Obyte,Prophet,Prediction Market,['Obyte'],,10809.841991164,,False
+1185,Obyte,Kivach,Payments,['Obyte'],,1965.0038095102566,,False
+1186,Bitindi,Bitindi Dex,Dexes,['Bitindi'],,1440702.998937628,,False
+1187,Bitindi,Bitindi Staking,Liquid Staking,"['BSC', 'Bitindi']",,0.0,,True
+1188,Fuse,Voltage,Dexes,['Fuse'],0.2073644347872329,1243741.1216899327,257907.67472087193,False
+1189,Fuse,Beefy,Yield Aggregator,"['Optimism', 'Polygon', 'BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Canto', 'Avalanche', 'Kava', 'Cronos', 'Metis', 'Moonbeam', 'Moonriver', 'Fuse', 'Oasis', 'Aurora', 'Celo', 'Harmony', 'Heco']",54.963712800072216,714961.9742099999,39296964.61345107,True
+1190,Fuse,SushiSwap,Dexes,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm']",4720.529112392989,50349.77772824907,237677591.5687159,False
+1191,Fuse,Elk,Dexes,"['Polygon', 'Kava', 'Avalanche', 'BSC', 'Fantom', 'Elastos', 'Gnosis', 'Ethereum', 'Cronos', 'Arbitrum', 'Optimism', 'IoTeX', 'Telos', 'Fuse', 'KCC', 'Heco', 'Bittorrent', 'OKExChain', 'Moonriver', 'Harmony', 'Hoo']",58.4874925668895,32846.71912069517,1921122.240418366,False
+1192,Fuse,Connext,Cross Chain,"['Gnosis', 'Fantom', 'BSC', 'Avalanche', 'Milkomeda C1', 'Polygon', 'Evmos', 'Boba', 'Optimism', 'Ethereum', 'Arbitrum', 'Moonriver', 'Fuse', 'Moonbeam', 'Cronos', 'Harmony']",,426.64223910765065,,False
+1193,Fuse,IcecreamSwap,Dexes,"['CORE', 'Bitgert', 'XDC', 'Dogechain', 'Fuse']",,8.557333647613461,0.0,False
+1194,Fuse,GoodDollar,Staking,"['Ethereum', 'Fuse']",,0.0,,False
+1195,Fuse,Infinity Pad,Launchpad,"['BSC', 'Celo', 'Fuse']",,0.0,15663.83289253027,False
+1196,Fuse,Ampere,Algo-Stables,['Fuse'],,0.0,,False
+1197,Zeniq,Zeniq Swap,Dexes,['Zeniq'],,1315558.2087112537,,False
+1198,Godwoken,YokaiSwap,Dexes,"['GodwokenV1', 'Godwoken']",,1281484.9984612009,,False
+1199,Godwoken,StableKoi,Dexes,"['Godwoken', 'GodwokenV1']",,62048.62978800583,,False
+1200,Godwoken,DarumaDAO,Reserve Currency,['Godwoken'],,0.0,,False
+1201,Kintsugi,Kintsugi,Cross Chain,['Kintsugi'],0.8353447088358679,1225611.85715368,1023808.3799598281,False
+1202,Crab,SnowSwap AMM,Dexes,['Crab'],,1155244.8079594416,,False
+1203,Nahmii,NiiFi,Dexes,['Nahmii'],,1105839.9821611699,0.0,False
+1204,Callisto,Soy Finance,Dexes,"['Callisto', 'EthereumClassic', 'Bittorrent', 'BSC']",0.7413239754957055,1101434.52160004,816519.8183007521,False
+1205,Tombchain,Lif3 Swap,Dexes,['Tombchain'],,990885.4479458207,,False
+1206,Wax,AtomicHub,Dexes,"['Wax', 'EOS']",,394424.0461447469,,False
+1207,Wax,Alcor Exchange,Dexes,"['Wax', 'EOS']",,352021.27314653376,,False
+1208,Wax,DefiBox,Dexes,"['EOS', 'Wax', 'BSC']",26.543873081190284,186885.71826869,4960670.786411191,False
+1209,Bitcoincash,AnyHedge v0.11,Derivatives,['Bitcoincash'],,838488.8,,False
+1210,Genshiro,Genshiro,Lending,['Genshiro'],,823420.1122160001,0.0,False
+1211,Map,HiveSwap,Dexes,['Map'],,618193.6133023123,,False
+1212,TomoChain,LuaSwap,Dexes,"['Ethereum', 'TomoChain']",5.305272942738361,615217.3581169257,3263896.0039207023,False
+1213,TomoChain,TomoFinance,CDP,['TomoChain'],,444.772,,False
+1214,TomoChain,Swap Cat,Dexes,"['Gnosis', 'Heco', 'OKExChain', 'Songbird', 'Harmony', 'KCC', 'Fantom', 'BSC', 'EthereumClassic', 'Celo', 'TomoChain', 'GoChain', 'Ethereum', 'EnergyWeb', 'Rootstock', 'Moonriver', 'HPB', 'Avalanche', 'Polygon', 'smartBCH', 'Arbitrum']",,0.0,,False
+1215,Starcoin,Starswap Starcoin,Dexes,['Starcoin'],,435700.9188989282,,False
+1216,Starcoin,BFly Finance,Lending,['Starcoin'],,184183.47537016886,,False
+1217,CSC,IFPool,Liquid Staking,['CSC'],,1647895.844966543,0.0,True
+1218,CSC,OneSwap,Dexes,"['CSC', 'Ethereum', 'Tron', 'BSC']",2.9859907395822627,589697.3704229869,1760830.8872390501,False
+1219,CSC,IFSwap,Dexes,['CSC'],,5458.452054436764,,False
+1220,CSC,WaterLoan,Lending,"['smartBCH', 'CSC']",,1070.8827380201137,,False
+1221,CSC,Crypto Lottery,Prediction Market,"['BSC', 'Polygon', 'KCC', 'Avalanche', 'Celo', 'CSC']",,3.076052523211785e-10,,False
+1222,Europa,Ruby.Exchange,,['Europa'],,1410956.799307113,,True
+1223,EnergyWeb,CarbonSwap,Dexes,['EnergyWeb'],,571721.9547519981,,False
+1224,EnergyWeb,Swap Cat,Dexes,"['Gnosis', 'Heco', 'OKExChain', 'Songbird', 'Harmony', 'KCC', 'Fantom', 'BSC', 'EthereumClassic', 'Celo', 'TomoChain', 'GoChain', 'Ethereum', 'EnergyWeb', 'Rootstock', 'Moonriver', 'HPB', 'Avalanche', 'Polygon', 'smartBCH', 'Arbitrum']",,0.0,,False
+1225,Nova Network,Fusion Dex,Dexes,"['Nova Network', 'Fantom', 'EthereumClassic']",,534499.8890341255,,False
+1226,Nova Network,QuasarSwap,Dexes,['Nova Network'],,1796.2309244693224,,False
+1227,Litecoin,BoringDAO,Cross Chain,"['Bitcoin', 'Litecoin', 'Ethereum', 'Metis', 'Doge', 'IoTeX', 'BSC', 'Aurora', 'Optimism', 'Arbitrum', 'Polygon', 'Avalanche', 'Fantom', 'Heco', 'OKExChain', 'KCC', 'Gnosis', 'Harmony', 'Oasis', 'Boba']",7.12931614719888,509419.1577347401,3631810.226930736,False
+1228,EthereumPoW,UniWswap,,"['EthereumPoW', 'Arbitrum']",,252033.46261833928,,True
+1229,EthereumPoW,LFGSwap EthereumPoW,Dexes,['EthereumPoW'],,176403.03100919057,0.0,False
+1230,EthereumPoW,PowerSwap,Dexes,['EthereumPoW'],,91888.68837898567,,False
+1231,EthereumPoW,PoWSwap,Dexes,['EthereumPoW'],,44172.81221456778,0.0,False
+1232,EthereumPoW,Billion Happiness,Yield,"['EthereumPoW', 'BSC']",60.6109907427627,16827.887562854077,1019954.9372924,True
+1233,EthereumPoW,OctoPow Finance,Dexes,['EthereumPoW'],,15962.435770911989,,False
+1234,EthereumPoW,HipPoWSwap,Dexes,['EthereumPoW'],,2976.126841571066,,False
+1235,EthereumPoW,PowSea,Dexes,['EthereumPoW'],,1694.5319785111258,0.0,False
+1236,EthereumPoW,PaperDAO,Lending,['EthereumPoW'],,532.5162703609675,,False
+1237,EthereumPoW,CakeWSwap,Dexes,['EthereumPoW'],,171.30538519421862,0.0,False
+1238,EthereumPoW,EthwSwap,Dexes,['EthereumPoW'],,3.631205058606309,,False
+1239,EthereumPoW,Fliperino,Prediction Market,['EthereumPoW'],,2.648304362890309,,False
+1240,EthereumPoW,Real Protocol,CDP,['EthereumPoW'],,0.17250000000000001,,False
+1241,EthereumPoW,MinerSwap,Dexes,['EthereumPoW'],,0.00028764506657275523,,False
+1242,EthereumPoW,OHMPOW,Dexes,['EthereumPoW'],,0.0,,False
+1243,Flare,Pangolin,Dexes,"['Avalanche', 'Hedera', 'Flare', 'Songbird']",17.905672735255454,430595.47286467865,7710101.618397507,False
+1244,Boba_Bnb,Symbiosis Finance,Cross Chain,"['Ethereum', 'Boba', 'Avalanche', 'Boba_Bnb', 'BSC', 'Telos', 'Polygon', 'Kava', 'Boba_Avax', 'Aurora']",19.105465617658496,188805.46307224385,3607216.283152845,False
+1245,Boba_Bnb,SushiSwap,Dexes,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm']",1293.044157223145,183490.50349413737,237261323.4490274,False
+1246,EthereumClassic,HebeSwap,Dexes,['EthereumClassic'],,242629.75699618418,,False
+1247,EthereumClassic,Soy Finance,Dexes,"['Callisto', 'EthereumClassic', 'Bittorrent', 'BSC']",7.101509858262485,114978.34046526672,816519.8183007521,False
+1248,EthereumClassic,ETCswap,Dexes,['EthereumClassic'],,11499.26769592769,,False
+1249,EthereumClassic,Fusion Dex,Dexes,"['Nova Network', 'Fantom', 'EthereumClassic']",,48.16200635763051,,False
+1250,EthereumClassic,Swap Cat,Dexes,"['Gnosis', 'Heco', 'OKExChain', 'Songbird', 'Harmony', 'KCC', 'Fantom', 'BSC', 'EthereumClassic', 'Celo', 'TomoChain', 'GoChain', 'Ethereum', 'EnergyWeb', 'Rootstock', 'Moonriver', 'HPB', 'Avalanche', 'Polygon', 'smartBCH', 'Arbitrum']",,0.0,,False
+1251,Empire,EmpireDEX,Dexes,"['BSC', 'Cronos', 'Empire', 'Fantom', 'Polygon', 'Ethereum', 'Avalanche', 'Gnosis', 'Kava']",,356509.3207370801,,False
+1252,Shiden,EmiSwap,Dexes,"['Shiden', 'Ethereum', 'KCC', 'Polygon', 'Astar', 'Avalanche', 'Aurora']",,199086.07722362297,0.0,False
+1253,Shiden,Standard Protocol,Dexes,"['Metis', 'Shiden', 'Ethereum']",9.515894027343602,82198.42831382538,782191.5330485622,False
+1254,Shiden,KACO Finance,Dexes,"['Shiden', 'BSC']",,52042.88208325033,,False
+1255,Shiden,KwikSwap,Dexes,"['Ethereum', 'Polygon', 'Shiden', 'BSC']",2.4524076432632045,12231.553462526224,29996.755200481828,False
+1256,Shiden,PolkaEx,Dexes,"['Astar', 'Shiden', 'BSC', 'Ethereum', 'Polygon']",2.151606714494059,7539.3996285146895,16221.822863966221,False
+1257,ICP,Sonic,Dexes,['ICP'],,302822.968119654,,False
+1258,Ubiq,Shinobi,Dexes,['Ubiq'],,301749.64532811905,,False
+1259,Findora,forlend,Lending,['Findora'],,101970.8196463621,,False
+1260,Findora,VeniceSwap,Dexes,['Findora'],,61731.80138536165,,False
+1261,Findora,FairySwap,Dexes,['Findora'],,30044.795469764045,,False
+1262,ZYX,ZYXSwap,Dexes,['ZYX'],,157715.97350101173,,False
+1263,Doge,BoringDAO,Cross Chain,"['Bitcoin', 'Litecoin', 'Ethereum', 'Metis', 'Doge', 'IoTeX', 'BSC', 'Aurora', 'Optimism', 'Arbitrum', 'Polygon', 'Avalanche', 'Fantom', 'Heco', 'OKExChain', 'KCC', 'Gnosis', 'Harmony', 'Oasis', 'Boba']",23.210365921735065,156224.57217670057,3626029.486187731,False
+1264,Milkomeda A1,Blueshift,Dexes,"['Milkomeda C1', 'Milkomeda A1', 'Kava']",,144408.61749234542,0.0,False
+1265,Milkomeda A1,BrightSide,Dexes,['Milkomeda A1'],,2127.775391333441,,False
+1266,Cube,Capricorn Finance,Dexes,['Cube'],,92135.9076813859,0.0,False
+1267,Cube,O3 Swap,Cross Chain,"['BSC', 'Ethereum', 'Polygon', 'Arbitrum', 'Optimism', 'Avalanche', 'Fantom', 'Cube', 'Bitgert', 'KCC', 'Metis', 'Gnosis', 'Celo', 'Astar']",49.41507549414393,53660.27,2651626.2930861465,False
+1268,Rangers,PonytaSwap,Dexes,['Rangers'],,143737.7221513286,,False
+1269,Dexit,Dexit Finance Swap,Dexes,['Dexit'],,130865.666402227,,False
+1270,Dexit,DxSale,Launchpad,"['BSC', 'Ethereum', 'Arbitrum', 'Fantom', 'Polygon', 'Avalanche', 'CORE', 'Cronos', 'Heco', 'OKExChain', 'KCC', 'Celo', 'Harmony', 'Milkomeda C1', 'Bitgert', 'Dexit', 'Moonriver', 'Dogechain', 'Gnosis', 'smartBCH']",271373509.5790637,0.005527005959999848,1499883.0048295609,False
+1271,REI,FilDA,Lending,"['IoTeX', 'Heco', 'Elastos', 'REI', 'Arbitrum', 'Polygon', 'BSC', 'Kava', 'Bittorrent']",5.281634422246719,79853.18934891926,421755.353591437,False
+1272,REI,OortSwap,Dexes,['REI'],,9886.031557549652,,False
+1273,REI,Nava finance,Algo-Stables,['REI'],,3816.1272200439344,,False
+1274,Lachain,Ladex Exchange,Dexes,['Lachain'],,47307.17174878279,,False
+1275,Lachain,xWeowns,Yield,['Lachain'],,39432.65089273499,,False
+1276,Lachain,Lachain Yield Market,Yield,['Lachain'],,14513.709918900002,,True
+1277,MultiVAC,Guru Network,Yield,"['MultiVAC', 'Echelon', 'Metis', 'BSC', 'Fantom', 'KCC']",,167452.15719078685,0.0,True
+1278,MultiVAC,VAX,Dexes,['MultiVAC'],,83951.73980226589,,False
+1279,MultiVAC,ABcDeFX,Dexes,"['Kava', 'KCC', 'MultiVAC', 'Fantom', 'Echelon']",,650.946790828,,False
+1280,Lamden,RocketSwap,Dexes,['Lamden'],,81974.69129804603,,False
+1281,Sifchain,Sifchain,Dexes,['Sifchain'],13.407352876227911,69890.47158993263,937046.2152922082,False
+1282,HPB,Hpdex,Dexes,['HPB'],,57766.45148667883,,False
+1283,HPB,Swap Cat,Dexes,"['Gnosis', 'Heco', 'OKExChain', 'Songbird', 'Harmony', 'KCC', 'Fantom', 'BSC', 'EthereumClassic', 'Celo', 'TomoChain', 'GoChain', 'Ethereum', 'EnergyWeb', 'Rootstock', 'Moonriver', 'HPB', 'Avalanche', 'Polygon', 'smartBCH', 'Arbitrum']",,0.0,,False
+1284,Boba_Avax,SushiSwap,Dexes,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm']",5074.32238374203,46839.27697030592,237677591.5687159,False
+1285,Boba_Avax,Symbiosis Finance,Cross Chain,"['Ethereum', 'Boba', 'Avalanche', 'Boba_Bnb', 'BSC', 'Telos', 'Polygon', 'Kava', 'Boba_Avax', 'Aurora']",368.1448039469581,9744.119569,3587246.988365223,False
+1286,Goerli,Stargate,Cross Chain,"['Ethereum', 'Arbitrum', 'Optimism', 'Avalanche', 'BSC', 'Polygon', 'Fantom', 'Metis', 'Goerli']",2709.7519851162615,45335.43991150111,122847798.29630913,False
+1287,REIchain,Foodcourt,Dexes,"['BSC', 'REIchain']",,35396.75215724342,,False
+1288,CLV,Huckleberry AMM,Dexes,"['Moonriver', 'CLV']",,31079.66317115416,,False
+1289,CLV,SSAP,Lending,"['CLV', 'Oasis']",,26.344691346999998,,False
+1290,CLV,KillSwitch,Yield Aggregator,"['BSC', 'Aurora', 'KCC', 'CLV']",,26.033107223559735,0.0,True
+1291,Stargaze,Stargaze,NFT Marketplace,['Stargaze'],846.6508227163976,26314.939121625,22279564.857055724,False
+1292,MUUCHAIN,BarnSwap,Dexes,['MUUCHAIN'],,22983.19831468393,,False
+1293,Lung,Lunagens,Dexes,['Lung'],,17489.20124130667,0.0,False
+1294,GoChain,GoSwap,Dexes,['GoChain'],,16701.72345256039,0.0,False
+1295,GoChain,Swap Cat,Dexes,"['Gnosis', 'Heco', 'OKExChain', 'Songbird', 'Harmony', 'KCC', 'Fantom', 'BSC', 'EthereumClassic', 'Celo', 'TomoChain', 'GoChain', 'Ethereum', 'EnergyWeb', 'Rootstock', 'Moonriver', 'HPB', 'Avalanche', 'Polygon', 'smartBCH', 'Arbitrum']",,0.0,,False
+1296,Polis,Hades Swap,Dexes,['Polis'],,13695.51668701715,,False
+1297,Palm,SushiSwap,Dexes,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm']",343745.598808651,691.434573686051,237677591.5687159,False
+1298,Kekchain,KekSwap,Dexes,['Kekchain'],,198.57715650542397,,False
+1299,Kekchain,Frog Swap,Dexes,['Kekchain'],,146.10471241711437,,False
+1300,Omax,Omax Swap,Dexes,['Omax'],629509751.502043,0.004328745660902939,2724987.605310556,False
+1301,Polkadot,Ankr,Liquid Staking,"['Ethereum', 'BSC', 'Avalanche', 'Fantom', 'Polkadot', 'Gnosis', 'Kusama']",3946.9421777918556,74025.89923007759,292175943.92016286,True
+1302,Kusama,Ankr,Liquid Staking,"['Ethereum', 'BSC', 'Avalanche', 'Fantom', 'Polkadot', 'Gnosis', 'Kusama']",115832.5607771029,2522.3990729376887,292175943.92016286,True
+1303,CosmosHub,Stafi,Liquid Staking,"['Ethereum', 'Polygon', 'BSC', 'Stafi', 'Solana', 'CosmosHub']",,0.0,32195539.67210607,True
+1304,Stafi,Stafi,Liquid Staking,"['Ethereum', 'CosmosHub', 'Polygon', 'BSC', 'Stafi', 'Solana']",217.64213559940433,148001.52120000002,32211367.145928517,True
+1305,Stride,Stride,Liquid Staking,['Stride'],3.5045124773788046,17784130.488878008,62324707.197605796,True
+1306,Persistence,pSTAKE Finance,Liquid Staking,"['BSC', 'Persistence']",7.659728429325523,3238499.68855936,24806028.13281998,True
+1307,Hoo,Elk,Dexes,"['Polygon', 'Kava', 'Avalanche', 'BSC', 'Fantom', 'Elastos', 'Gnosis', 'Ethereum', 'Cronos', 'Arbitrum', 'Optimism', 'IoTeX', 'Telos', 'Fuse', 'KCC', 'Heco', 'Bittorrent', 'OKExChain', 'Moonriver', 'Harmony', 'Hoo']",,0.0,1923008.3867417083,False
+1308,Hoo,PuddingSwap,Dexes,['Hoo'],,0.0,0.0,False
+1309,Echelon,Guru Network,Yield,"['MultiVAC', 'Echelon', 'Metis', 'BSC', 'Fantom', 'KCC']",,137792.2652829279,0.0,True
+1310,Echelon,Lockless Protocol,Liquid Staking,"['Kava', 'Echelon']",,0.0,,True
+1311,Echelon,ABcDeFX,Dexes,"['Kava', 'KCC', 'MultiVAC', 'Fantom', 'Echelon']",,0.0,,False
+1312,Echelon,DefySwap,Dexes,"['Fantom', 'Echelon']",,0.0,,False
+1313,Echelon,ECHSWAP,Dexes,['Echelon'],,0.0,,False
+1314,zkSync,Phezzan Protocol,Dexes,"['Kava', 'zkSync']",,0.0,,False
+1315,zkSync,ZigZag,Dexes,['zkSync'],,0.0,24996619.139149904,False
+1316,Coti,COTI Treasury,Staking,['Coti'],,0.0,,False
+1317,Thorchain,THORSwap,Dexes,['Thorchain'],,0.0,21130977.054344494,False

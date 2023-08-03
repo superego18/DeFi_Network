@@ -1,0 +1,72 @@
+,chain,protocol,protocol_category,protocol_chains,protocol_mcaptvl,protocol_tvl,protocol_mcap,protocol_strikeTvl
+2,Ethereum,AAVE,,"['Ethereum', 'Polygon', 'Avalanche', 'Optimism', 'Arbitrum', 'Fantom', 'Harmony']",,4834210246.3912525,,False
+5,Ethereum,Uniswap,,"['Ethereum', 'Arbitrum', 'Polygon', 'Optimism', 'BSC', 'Celo']",1.4177157795011355,3445241872.8983912,4884373767.406095,False
+8,Ethereum,Compound Finance,,"['Ethereum', 'Polygon']",,1858170087.7345686,,False
+9,Ethereum,Frax Finance,,"['Ethereum', 'Fantom', 'Dogechain', 'Polygon', 'BSC', 'Arbitrum', 'Avalanche', 'Moonbeam']",,1372258359.45057,,True
+10,Ethereum,Balancer,,"['Ethereum', 'Polygon', 'Arbitrum', 'Gnosis']",,1170529005.4117532,,False
+14,Ethereum,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,411067775.0750496,,True
+18,Ethereum,Arrakis Finance,,"['Ethereum', 'Polygon', 'Optimism']",,273801174.86894876,,True
+20,Ethereum,Morpho,,['Ethereum'],,256208962.71649998,,False
+24,Ethereum,BendDAO,,['Ethereum'],,205749136.25990197,,False
+27,Ethereum,ParaSpace,,['Ethereum'],,143404443.94485041,,False
+32,Tron,SUN,,['Tron'],0.13111743933341002,480291008.1572064,62974527.12443485,False
+43,BSC,PancakeSwap,,"['BSC', 'Aptos', 'Ethereum']",,2284025868.961642,,False
+45,BSC,Alpaca Finance,,"['BSC', 'Fantom']",,209400543.86395016,,False
+59,BSC,ApeSwap,,"['BSC', 'Polygon', 'Telos', 'Ethereum']",,41371985.61994653,,False
+67,BSC,iZUMI Finance,,"['BSC', 'Ethereum', 'Polygon', 'Arbitrum', 'Cronos', 'Aurora']",,23980542.83640833,,True
+70,BSC,Planet,,['BSC'],,20119812.515525773,,True
+75,Arbitrum,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,127594973.00703566,,True
+82,Arbitrum,ZyberSwap,,['Arbitrum'],,49670670.814749554,,False
+98,Arbitrum,MUX Protocol,,"['Arbitrum', 'BSC', 'Optimism', 'Avalanche', 'Fantom', 'Ethereum']",,12191930.149255555,,False
+100,Arbitrum,KyberSwap,,"['Ethereum', 'Polygon', 'Avalanche', 'Arbitrum', 'Optimism', 'BSC', 'Fantom', 'Cronos', 'Bittorrent', 'Oasis', 'Velas', 'Aurora']",,10150641.538479796,,False
+103,Polygon,AAVE,,"['Ethereum', 'Polygon', 'Avalanche', 'Optimism', 'Arbitrum', 'Fantom', 'Harmony']",,319522767.77884793,,False
+104,Polygon,Quickswap,,"['Polygon', 'Dogechain']",,157920049.29569528,,False
+108,Polygon,Tetu,,"['Polygon', 'Ethereum', 'Fantom', 'BSC']",,62724853.825386904,,True
+111,Polygon,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,36865885.59579733,,True
+117,Polygon,KyberSwap,,"['Ethereum', 'Polygon', 'Avalanche', 'Arbitrum', 'Optimism', 'BSC', 'Fantom', 'Cronos', 'Bittorrent', 'Oasis', 'Velas', 'Aurora']",,20461611.786750443,,False
+122,Polygon,SPHERE,,"['Polygon', 'Arbitrum', 'Optimism']",,11991930.748014059,,True
+126,Polygon,Metavault,,"['Polygon', 'Ethereum']",,7269264.65954227,,False
+131,Polygon,MM Finance,,"['Cronos', 'Polygon']",,4850606.503298335,,True
+153,Optimism,KyberSwap,,"['Ethereum', 'Polygon', 'Avalanche', 'Arbitrum', 'Optimism', 'BSC', 'Fantom', 'Cronos', 'Bittorrent', 'Oasis', 'Velas', 'Aurora']",,8640307.08994162,,False
+161,Optimism,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,2719553.9684970444,,True
+163,Avalanche,AAVE,,"['Ethereum', 'Polygon', 'Avalanche', 'Optimism', 'Arbitrum', 'Fantom', 'Harmony']",3.577930295265121,318442645.04179883,1139365586.9994094,False
+164,Avalanche,Benqi,,['Avalanche'],0.5720820659664754,236048633.92606977,135039190.16499025,True
+165,Avalanche,Trader Joe,,"['Avalanche', 'Arbitrum']",,98435558.25733344,,False
+168,Avalanche,Yield Yak,,['Avalanche'],,36863170.29601039,,True
+176,Avalanche,KyberSwap,,"['Ethereum', 'Polygon', 'Avalanche', 'Arbitrum', 'Optimism', 'BSC', 'Fantom', 'Cronos', 'Bittorrent', 'Oasis', 'Velas', 'Aurora']",,11845968.294773377,,False
+179,Avalanche,WOO Network,,"['BSC', 'Avalanche', 'Arbitrum', 'Polygon', 'Fantom', 'Optimism']",,5767158.042369717,,True
+189,Avalanche,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,1222527.870174071,,True
+208,Fantom,SpiritSwap,,['Fantom'],,11455358.704487897,,False
+212,Fantom,Tomb Finance,,['Fantom'],,7959136.91794554,,False
+216,Fantom,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,4811358.876863754,,True
+217,Fantom,Alpaca Finance,,"['BSC', 'Fantom']",,4248157.426408025,,False
+224,Mixin,Pando,,['Mixin'],,141154742.87472582,,False
+233,Cronos,MM Finance,,"['Cronos', 'Polygon']",0.07849003638677716,17116419.985900063,1343468.427504656,True
+270,Solana,Meteora,,['Solana'],,14924030.373770976,,True
+310,Kava,Surfswap,,['Kava'],,84273.92329992769,,False
+323,Klaytn,Kleva Protocol,,['Klaytn'],,38979989.33498664,,True
+326,Klaytn,NEOPIN,,"['Klaytn', 'Tron', 'Polygon']",,13008424.840467831,,True
+361,Algorand,Algofi,,['Algorand'],,102158943.56782429,,False
+362,Algorand,Folks Finance,,['Algorand'],,54736293.26933354,,True
+388,Celo,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,1286783.2415219946,,True
+459,Canto,Velocimeter,,['Canto'],,14166624.461194623,,False
+472,Gnosis,RealT,,['Gnosis'],,79595224.46646081,,True
+479,Gnosis,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,3646232.631719271,,True
+485,Gnosis,BAO Finance,,"['Ethereum', 'Gnosis', 'BSC', 'Polygon']",7.781453863127937,383081.7412781799,2980932.89556287,False
+549,Near,Spin,,['Near'],,237508.62951975834,,False
+581,Moonbeam,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,0.830349,,True
+618,Metis,Tethys Finance,,['Metis'],,1832299.7987564127,,False
+681,Parallel,Parallel DeFi Super App,,"['Parallel', 'Heiko']",,234548665.47558945,,True
+734,Telos,Omnidex,,['Telos'],,1729871.2720755318,,False
+839,Moonriver,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,420322.54533486185,,True
+840,Moonriver,Huckleberry,,"['Moonriver', 'CLV']",,409872.3722833954,,False
+940,Kujira,Kujira Protocol,,['Kujira'],,6558992.129312302,,False
+944,Flow,Increment Finance,,['Flow'],,6568685.029605828,,True
+982,Harmony,Sushi,,"['Ethereum', 'Arbitrum', 'Polygon', 'Gnosis', 'Fantom', 'Boba', 'Celo', 'Arbitrum Nova', 'Avalanche', 'BSC', 'Harmony', 'Moonriver', 'Boba_Bnb', 'Telos', 'Fuse', 'Boba_Avax', 'OKExChain', 'Heco', 'Palm', 'Optimism', 'Moonbeam', 'Bittorrent', 'Kava', 'Metis']",,836173.9493574551,,False
+1059,Heiko,Parallel DeFi Super App,,"['Parallel', 'Heiko']",,7728160.847690453,,True
+1063,Interlay,Interlay,,['Interlay'],,3969085.2,,True
+1099,Meter,Volt Finance,,"['Meter', 'Theta']",,2922566.869749581,,False
+1126,Songbird,Enosys,,['Songbird'],,6321455.899422695,,True
+1182,Obyte,Oswap,,['Obyte'],,402470.3833586973,,False
+1222,Europa,Ruby.Exchange,,['Europa'],,1410956.799307113,,True
+1228,EthereumPoW,UniWswap,,"['EthereumPoW', 'Arbitrum']",,252033.46261833928,,True

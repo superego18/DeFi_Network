@@ -1,0 +1,25 @@
+,gecko_id,volumePrevDay,tokenSymbol,name
+0,ethereum,103440842.9151243,ETH,Ethereum
+1,matic-network,33515897.53794926,MATIC,Polygon
+2,,90663768.3908739,,Arbitrum
+3,avalanche-2,14246268.5219503,AVAX,Avalanche
+4,,35641943.14428334,,Optimism
+5,fantom,4233499.765085716,FTM,Fantom
+6,gnosis,780661.4133565993,GNO,Gnosis
+7,celo,54626.20898510983,CELO,Celo
+8,binancecoin,13225635.950787773,BNB,BSC
+9,klay-token,1226537.4527744523,KLAY,Klaytn
+10,aurora-near,9033387.487437615,AURORA,Aurora
+11,osmosis,0.0,OSMO,Osmosis
+12,secret,0.0,SCRT,Secret
+13,injective-protocol,0.0,INJ,Injective
+14,terra-luna,0.0,LUNA,Terra Classic
+15,crescent-network,0.0,CRE,Crescent
+16,crypto-com-chain,0.0,CRO,Cronos
+17,evmos,0.0,EVMOS,Evmos
+18,juno-network,0.0,JUNO,Juno
+19,kujira,0.0,KUJI,Kujira
+20,sifchain,0.0,EROWAN,Sifchain
+21,stride,0.0,STRD,Stride
+22,cosmos,0.0,ATOM,Cosmos
+23,canto,0.0,CANTO,Canto

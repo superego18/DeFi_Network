@@ -1,0 +1,1609 @@
+,name,category,chain,chains,currentChainTvls
+0,Uniswap V1,Dexes,Ethereum,['Ethereum'],{'Ethereum': 8864077.77818}
+1,MakerDAO,CDP,Ethereum,['Ethereum'],{'Ethereum': 7720771105.01246}
+2,Compound,Lending,Ethereum,['Ethereum'],"{'Ethereum': 1411714737.23749, 'Ethereum-borrowed': 531849104.75233, 'borrowed': 531849104.75233}"
+3,Nexus Mutual,Insurance,Ethereum,['Ethereum'],{'Ethereum': 260871911.24595}
+4,Synthetix,Synthetics,Ethereum,['Ethereum'],"{'Optimism': 159142322.39957, 'Ethereum': 314519454.75679}"
+5,Tornado Cash,Privacy,Ethereum,['Ethereum'],"{'Optimism': 27281.43, 'BSC': 30978387.54, 'Ethereum': 223872931.96622, 'Gnosis': 49900, 'Avalanche': 106080, 'Polygon': 467298, 'Arbitrum': 354658.59}"
+6,EnterDAO,Services,Ethereum,['Ethereum'],{'Ethereum': 258500.31423}
+7,Curve,Dexes,Ethereum,['Ethereum'],"{'Optimism': 83159937.573, 'Kava': 10906937.17295, 'Harmony': 0, 'Moonbeam': 2184079.99272, 'Ethereum': 4170379037.83469, 'Aurora': 17258.34973, 'Gnosis': 23955684.78937, 'Avalanche': 18682981.24188, 'Ethereum-staking': 658851602.06366, 'Polygon': 45300639.42553, 'Celo': 22128283.66576, 'Arbitrum': 73204077.33708, 'Fantom': 24384251.72257, 'staking': 658851602.06366}"
+8,Opyn Convexity,Options,Ethereum,['Ethereum'],{'Ethereum': 487025.96084}
+9,Balancer V1,Dexes,Ethereum,['Ethereum'],{'Ethereum': 145086955.21621}
+10,JustStables,CDP,Tron,['Tron'],{'Tron': 1168718067.33934}
+11,Uniswap V2,Dexes,Ethereum,['Ethereum'],{'Ethereum': 1115320759.84466}
+12,AAVE V1,Lending,Ethereum,['Ethereum'],"{'Ethereum': 20980367.26683, 'Ethereum-borrowed': 2370069.72, 'borrowed': 2370069.72}"
+13,Outcome Finance,Synthetics,Ethereum,['Ethereum'],"{'Boba': 260370.843, 'Ethereum': 13977042.92589, 'Polygon': 203065.18244}"
+14,Mento,Algo-Stables,Celo,['Celo'],"{'Ethereum': 49218579.63362, 'Celo': 86243580.4092, 'Bitcoin': 8845012.78412}"
+15,Augur,Prediction Market,Ethereum,['Ethereum'],{'Ethereum': 1452102.26268}
+16,MCDEX,Dexes,Ethereum,['Ethereum'],"{'BSC': 11493.37984, 'Ethereum': 1219045.71568, 'Arbitrum': 462021.53672}"
+17,SUNSwap,Dexes,Tron,['Tron'],{'Tron': 421284401.67125}
+18,Loopring,Dexes,Ethereum,['Ethereum'],{'Ethereum': 118575891.65634}
+19,SushiSwap,Dexes,Ethereum,['Ethereum'],"{'Moonriver': 418948.70313, 'Harmony': 854920.50809, 'BSC': 856082.93718, 'Ethereum': 340514528.17885, 'Gnosis': 3630927.46322, 'Heco': 2009.86845, 'Avalanche': 889846.001, 'Ethereum-staking': 60778682.94811, 'Telos': 116436.88686, 'Celo': 1286912.77794, 'Arbitrum': 122626887.46008, 'Fuse': 50258.69099, 'Fantom': 2450829.87684, 'staking': 60778682.94811, 'OKExChain': 29885.65189, 'Arbitrum Nova': 1154317.21071, 'Boba_Bnb': 182695.07348, 'Palm': 688.94958, 'Boba_Avax': 48007.71484, 'Boba': 1486117.43311, 'Polygon': 34164684.5852}"
+20,SnowSwap,Dexes,Ethereum,['Ethereum'],"{'Ethereum': 78179.95491, 'Polygon': 71815.09858, 'Ethereum-staking': 3428.15066, 'staking': 3428.15066}"
+21,Shell Protocol,Dexes,Ethereum,['Arbitrum'],{'Arbitrum': 10858983.24353}
+22,Quickswap Dex,Dexes,Polygon,['Polygon'],{'Polygon': 104099058.57841}
+23,Dfyn Network,Dexes,Polygon,['Polygon'],"{'OKExChain': 64.00561, 'Polygon': 19145555.33777, 'Fantom': 32612.51843}"
+24,Hegic,Options,Ethereum,['Arbitrum'],"{'Ethereum': 1355430.39102, 'Arbitrum': 10203418.27052}"
+25,Centrifuge,RWA Lending,Ethereum,['Ethereum'],"{'Ethereum': 1991332.4814, 'Ethereum-borrowed': 162078953.85115, 'borrowed': 162078953.85115}"
+26,CREAM Finance,Lending,Ethereum,['Ethereum'],"{'Arbitrum-borrowed': 12223.94543, 'Polygon-borrowed': 86705.15584, 'BSC-borrowed': 1074000.13035, 'BSC': 2676680.96332, 'Ethereum': 45482989.38323, 'Polygon': 195097.79331, 'Arbitrum': 26874.07097, 'borrowed': 1172929.23162}"
+27,Rook,Dexes,Ethereum,['Ethereum'],{'Ethereum': 5507017.33414}
+28,dForce,Lending,Ethereum,['BSC'],"{'Optimism': 8012019.75775, 'Kava': 0, 'Arbitrum-borrowed': 4659526.64044, 'Polygon-borrowed': 1453805.27739, 'BSC-borrowed': 4318368.21501, 'BSC': 14085564.00452, 'Ethereum': 4569066.43651, 'Optimism-borrowed': 2622009.48078, 'Avalanche': 0, 'Ethereum-staking': 9156291.377, 'Polygon': 2774851.27795, 'Ethereum-borrowed': 4235607.00277, 'Arbitrum': 13691301.14768, 'borrowed': 17289316.6164, 'Kava-borrowed': 0, 'staking': 9156291.377, 'Avalanche-borrowed': 0}"
+29,KEEP Network,Cross Chain,Ethereum,['Ethereum'],"{'Ethereum': 6862024.01903, 'Ethereum-staking': 12853629.74219, 'staking': 12853629.74219}"
+30,mStable CDP,CDP,Ethereum,['Ethereum'],"{'Ethereum': 6515151.95047, 'Polygon': 4404080.58127}"
+31,Kava Mint,CDP,Kava,['Kava'],{'Kava': 80891838.43421}
+32,KyberSwap Classic,Dexes,Ethereum,['Bittorrent'],"{'Optimism': 1213252.64014, 'Cronos': 28.52956, 'Velas': 5.79274, 'Bittorrent': 8990172.80705, 'BSC': 619759.91953, 'Ethereum': 1913734.77998, 'Aurora': 0, 'Oasis': 8.69073, 'Avalanche': 452862.37084, 'Polygon': 8960884.98279, 'Arbitrum': 258.51304, 'Fantom': 57773.02491}"
+33,The Tokenized Bitcoin,Services,Ethereum,['Ethereum'],{'Ethereum': 15805358.08002}
+34,Bepswap,Dexes,Binance,['BSC'],{}
+35,Hakka Finance,Derivatives,Ethereum,['Ethereum'],"{'pool2': 0, 'Ethereum-pool2': 0, 'BSC': 1005.16145, 'Ethereum': 4293194.59475, 'BSC-staking': 0, 'Ethereum-staking': 72477.44383, 'staking': 72477.44383}"
+36,Kava Lend,Lending,Kava,['Kava'],"{'Kava': 87649977.97837, 'borrowed': 9656659.17493, 'Kava-borrowed': 9656659.17493}"
+37,Swerve,Dexes,Ethereum,['Ethereum'],{'Ethereum': 1208491.58665}
+38,Flexa,Payments,Ethereum,['Ethereum'],{'Ethereum': 96673112.36558}
+39,dYdX,Derivatives,Ethereum,['Ethereum'],{'Ethereum': 341441476.45929}
+40,DODO,Dexes,Ethereum,['Ethereum'],"{'BSC': 12429889.30465, 'Ethereum': 17973220.42564, 'Aurora': 104171.44838, 'Polygon': 2838038.98446, 'Arbitrum': 4174264.35605}"
+41,B.Protocol,Lending,Ethereum,['Ethereum'],"{'Ethereum': 29333453.09531, 'Polygon': 1116.9202, 'Arbitrum': 180053.81621, 'Fantom': 71805.63448}"
+42,Terraswap,Dexes,Terra,['Terra Classic'],"{'Terra Classic': 2991268.01746, 'Terra2': 311525.6821}"
+43,Rhino.fi,Dexes,Ethereum,['Ethereum'],"{'Ethereum': 18893543.43788, 'Polygon': 618479.14452, 'Arbitrum': 484483.23017}"
+44,CoFiX,Dexes,Ethereum,['Ethereum'],{'Ethereum': 20216.20115}
+45,88mph,Lending,Ethereum,['Ethereum'],"{'Ethereum': 1097774.45144, 'Avalanche': 87.16403, 'Polygon': 150.63316, 'Ethereum-staking': 139472.11162, 'staking': 139472.11162, 'Fantom': 363857.22643}"
+46,Siren,Options,Ethereum,['Polygon'],"{'Ethereum': 430604.8518, 'Polygon': 1393938.74835}"
+47,BoringDAO,Cross Chain,Ethereum,['Bitcoin'],"{'Optimism': 53489.07756, 'Metis': 451618.62407, 'Harmony': 0, 'BSC': 78377.08498, 'IoTeX': 106412.78124, 'Ethereum': 474833.33086, 'Gnosis': 4631.94891, 'Oasis': 0, 'Heco': 12586.57116, 'Avalanche': 17588.76562, 'Ethereum-staking': 21175.03384, 'Doge': 154905.2718, 'Arbitrum': 33175.68112, 'Fantom': 16232.31877, 'staking': 21175.03384, 'Litecoin': 512673.25143, 'OKExChain': 10361.7236, 'KCC': 9242.26005, 'Boba': 0, 'Aurora': 62079.12132, 'Polygon': 31646.33385, 'Bitcoin': 1179228.63759}"
+48,Bancor V2.1,Dexes,Ethereum,['Ethereum'],{'Ethereum': 27018348.89099}
+49,ForTube,Lending,Ethereum,['BSC'],"{'BSC': 1192616.87929, 'IoTeX': 16788.68329, 'Ethereum': 85292.78405, 'OKExChain': 2663.24812, 'Polygon': 88285.02679}"
+50,ValueDefi,Dexes,Binance,['BSC'],{'BSC': 334482.04229}
+51,Cover Protocol,Insurance,Ethereum,['Ethereum'],{'Ethereum': 812357.66114}
+52,TrueFi,Uncollateralized Lending,Ethereum,['Ethereum'],"{'Ethereum': 1418344.61484, 'Ethereum-staking': 16828703.99402, 'Ethereum-borrowed': 7875299.61286, 'borrowed': 7875299.61286, 'staking': 16828703.99402}"
+53,WanSwap Dex,Dexes,Wanchain,['Wanchain'],{'Wanchain': 4107923.9832}
+54,Venus,Lending,Binance,['BSC'],"{'BSC': 903309946.22971, 'BSC-borrowed': 772406823.1352, 'borrowed': 772406823.1352}"
+55,PieDAO,Indexes,Ethereum,['Ethereum'],"{'Ethereum': 2288729.58206, 'Ethereum-staking': 2242521.94139, 'staking': 2242521.94139}"
+56,Dev Protocol,Staking,Ethereum,['Ethereum'],"{'Ethereum': 0, 'Ethereum-staking': 185090.12786, 'staking': 185090.12786}"
+57,Basis Cash,Algo-Stables,Ethereum,['Ethereum'],{'Ethereum': 387137.36222}
+58,SynLev,Synthetics,Ethereum,['Ethereum'],{'Ethereum': 0}
+59,AAVE V2,Lending,Ethereum,['Ethereum'],"{'pool2': 127441951.11055, 'Polygon-borrowed': 57247843.68593, 'Ethereum-pool2': 127441951.11055, 'Ethereum': 4205969814.27644, 'Avalanche': 49566788.55977, 'Ethereum-staking': 264506581.13309, 'Polygon': 179527411.01893, 'Ethereum-borrowed': 1901789646.00374, 'borrowed': 1977722343.95479, 'staking': 264506581.13309, 'Avalanche-borrowed': 18684854.26512}"
+60,FinNexus,Options,Ethereum,['Ethereum'],"{'BSC': 46167.21205, 'Wanchain': 5473.71744, 'Ethereum': 182666.40222}"
+61,Index Coop,Indexes,Ethereum,['Ethereum'],{'Ethereum': 68657011.60268}
+62,Inverse Finance Frontier,CDP,Ethereum,['Ethereum'],{'Ethereum': 7505243.18128}
+63,YFDAI,Services,Ethereum,['Ethereum'],"{'Ethereum': 23348.17388, 'Ethereum-staking': 3678.5464, 'staking': 3678.5464}"
+64,Varen,Dexes,Ethereum,['Ethereum'],"{'Ethereum': 179525.63654, 'pool2': 37011.28308, 'Ethereum-staking': 9713.09646, 'staking': 9713.09646, 'Ethereum-pool2': 37011.28308}"
+65,MDEX,Dexes,Heco,['BSC'],"{'BSC': 34783275.33458, 'Heco': 28039672.35505}"
+66,BiFi,Lending,Ethereum,['Bitcoin'],"{'Klaytn': 1417612.07332, 'BSC': 4147436.15096, 'Ethereum': 2348996.56614, 'Avalanche': 211441.9684, 'Ethereum-staking': 70126.57978, 'staking': 70126.57978, 'Bitcoin': 10452991.28885}"
+67,XUSD Money,Algo-Stables,Ethereum,['Ethereum'],"{'Ethereum': 28691.55065, 'pool2': 1431.95536, 'Ethereum-staking': 0, 'staking': 0, 'Ethereum-pool2': 1431.95536}"
+68,DFX Finance,Dexes,Ethereum,['Ethereum'],"{'Ethereum': 3318153.26883, 'Polygon': 984541.72217}"
+69,CVI Finance,Synthetics,Ethereum,['Arbitrum'],"{'pool2': 1109879.39263, 'Polygon-pool2': 38352.91014, 'Arbitrum-staking': 2982088.23479, 'Ethereum-pool2': 1071526.48249, 'Ethereum': 106985.12383, 'Ethereum-staking': 102235.8396, 'Polygon': 499883.98146, 'Polygon-staking': 2371800.40883, 'Arbitrum': 1541147.38906, 'staking': 5456124.48322}"
+70,Opyn Gamma,Options,Ethereum,['Ethereum'],"{'Ethereum': 32411825.54676, 'Avalanche': 251450.39441, 'Polygon': 76704.72756}"
+71,Wing Finance,Lending,Ontology,['Ontology'],"{'OntologyEVM': 2284209.436, 'OKExChain-staking': 6081.228, 'OntologyEVM-staking': 77320.048, 'OKExChain': 282624.996, 'Ontology': 19554340.74, 'Ontology-staking': 583019.788, 'Ontology-borrowed': 24817862.948, 'OntologyEVM-borrowed': 7611725.6, 'BSC-borrowed': 13640921.3, 'BSC': 6857718.588, 'Ethereum': 1240668.904, 'BSC-staking': 157493.464, 'Ethereum-staking': 35656.056, 'Ethereum-borrowed': 935625.592, 'borrowed': 47204835.072, 'OKExChain-borrowed': 198699.632, 'staking': 859570.584}"
+72,Indexed Finance,Indexes,Ethereum,['Ethereum'],{'Ethereum': 1134481.72719}
+73,0.exchange,Dexes,Avalanche,['Avalanche'],"{'BSC': 29499.59475, 'Avalanche': 82978.78474}"
+74,1inch Network,Dexes,Ethereum,['Ethereum'],"{'BSC': 4726689.4238, 'Ethereum': 5827861.19853}"
+75,dHEDGE,Indexes,Ethereum,['Optimism'],"{'Optimism': 20169506.54208, 'Ethereum': 2188885.76536, 'Polygon': 3455246.61924, 'Ethereum-staking': 1333389.15728, 'staking': 1333389.15728}"
+76,Opium,Options,Ethereum,['Ethereum'],"{'BSC': 467.77349, 'Ethereum': 2673770.06208, 'Polygon': 85022.11596, 'Arbitrum': 61.85595}"
+77,Armor,Insurance,Ethereum,['Ethereum'],"{'Ethereum': 0, 'Ethereum-staking': 571014.36106, 'staking': 571014.36106}"
+78,Unit Protocol,CDP,Ethereum,['Ethereum'],{'Ethereum': 265694.62026}
+79,Pangolin,Dexes,Avalanche,['Avalanche'],"{'Songbird': 339029.31956, 'Flare': 447530.25272, 'Songbird-staking': 68023.11597, 'Hedera': 9209167.11345, 'Avalanche': 27568159.60587, 'Avalanche-staking': 3577865.70631, 'staking': 3645888.82228}"
+80,DefiDollar DAO,Algo-Stables,Ethereum,['Ethereum'],{'Ethereum': 3109516.49896}
+81,BAO Swap,Dexes,xDai,['Gnosis'],{'Gnosis': 280114.27811}
+82,Ooki,Lending,Ethereum,['Ethereum'],"{'Optimism': 11994.26128, 'BSC': 3356.7405, 'Ethereum': 353147.19558, 'Ethereum-staking': 4329199.80861, 'Polygon': 75989.23926, 'Arbitrum': 59627.43068, 'staking': 4329199.80861}"
+83,Reflexer,CDP,Ethereum,['Ethereum'],{'Ethereum': 31768850.23591}
+84,Complus Network,Dexes,Avalanche,['Avalanche'],"{'BSC': 19494.0097, 'Heco': 12994.79104, 'Avalanche': 88125.60899, 'Polygon': 342.99508}"
+85,Ubeswap,Dexes,Celo,['Celo'],{'Celo': 3239294.05237}
+86,PandaSwap,Dexes,Binance,['BSC'],{'BSC': 466962.7558}
+87,Sablier Finance,Payments,Ethereum,['Ethereum'],"{'Ethereum': 5699405.7814, 'vesting': 128289193.28565, 'Ethereum-vesting': 128289193.28565}"
+88,Multiplier,Lending,Binance,['BSC'],"{'BSC': 35999.00854, 'Ethereum': 4953.6294, 'BSC-borrowed': 192256.43644, 'borrowed': 192256.43644}"
+89,Ruler,Lending,Ethereum,['Ethereum'],{'Ethereum': 0}
+90,Big Data Protocol,Staking,Ethereum,['Ethereum'],"{'Ethereum': 365190.0868, 'Ethereum-staking': 1554772.10661, 'staking': 1554772.10661}"
+91,MFinance,Staking,Ethereum,['Ethereum'],"{'Ethereum': 45651.53549, 'pool2': 3561.11437, 'Ethereum-staking': 13268.06809, 'staking': 13268.06809, 'Ethereum-pool2': 3561.11437}"
+92,Nerve,Dexes,Binance,['BSC'],"{'BSC': 1765199.9919, 'BSC-staking': 9171.26064, 'staking': 9171.26064}"
+93,Saddle Finance,Dexes,Ethereum,['Ethereum'],"{'Optimism': 302918.37769, 'Kava': 19.27036, 'Evmos': 2421.27722, 'Ethereum': 8424851.95067, 'Arbitrum': 1690676.04836, 'Fantom': 251.43616}"
+94,ViperSwap,Dexes,Harmony,['Harmony'],"{'Harmony-staking': 4590.38754, 'Harmony': 144250.05076, 'staking': 4590.38754}"
+95,Superfluid,Payments,Polygon,['Polygon'],"{'Optimism': 42591.66629, 'Gnosis-vesting': 26810.84927, 'Polygon-vesting': 2956813.4197, 'Avalanche-vesting': 0.67309, 'BSC': 5.5397, 'Gnosis': 83310.05662, 'vesting': 3001429.65413, 'Avalanche': 232.21281, 'Polygon': 1372131.3912, 'Arbitrum-vesting': 0, 'Arbitrum': 280765.39395, 'Optimism-vesting': 17803.07665, 'BSC-vesting': 1.63542}"
+96,Goose Finance,Farm,Binance,['BSC'],{'BSC': 1701459.03}
+97,MochiSwap,Dexes,Binance,['Harmony'],"{'BSC': 39079.55564, 'BSC-staking': 0, 'Harmony-staking': 0, 'Harmony': 48361.13851, 'staking': 0}"
+98,Smoothy,Dexes,Ethereum,['Ethereum'],"{'BSC': 2618328.35877, 'Ethereum': 3851681.57189}"
+99,Gnosis Protocol v1,Prediction Market,Ethereum,['Ethereum'],{'Ethereum': 4141538.48839}
+100,Raydium,Dexes,Solana,['Solana'],{}
+101,Auctus,Options,Ethereum,['Ethereum'],{'Ethereum': 122163.36108}
+102,Connext,Cross Chain,Ethereum,['Gnosis'],"{'Optimism': 20046.88747, 'Cronos': 30.19289, 'Evmos': 29339.13634, 'Moonriver': 1526.97837, 'Milkomeda C1': 66302.0341, 'Harmony': 0, 'Moonbeam': 169.37379, 'BSC': 793446.01807, 'Boba': 25002.30317, 'Ethereum': 7354.21724, 'Gnosis': 2584277.99641, 'Avalanche': 145085.20381, 'Polygon': 42500.07815, 'Arbitrum': 7010.96502, 'Fuse': 426.64224, 'Fantom': 1845652.73374}"
+103,DDEX,Dexes,Ethereum,['Ethereum'],{'Ethereum': 2608667.25091}
+104,Defi Swap,Dexes,Ethereum,['Ethereum'],{'Ethereum': 2222576.97607}
+105,DeFiner,Lending,Ethereum,['Polygon'],"{'Ethereum': 102.14919, 'OKExChain': 22.70805, 'Polygon': 778.70177}"
+106,DerivaDEX,Derivatives,Ethereum,['Ethereum'],{'Ethereum': 1636968.26232}
+107,Enzyme Finance,Indexes,Ethereum,['Ethereum'],{'Ethereum': 76487337.48006}
+108,Erasure,Derivatives,Ethereum,['Ethereum'],{'Ethereum': 4992583.46276}
+109,CreamSwap,Dexes,Ethereum,['Ethereum'],{'Ethereum': 5485793.50311}
+110,FutureSwap,Derivatives,Ethereum,['Ethereum'],"{'Ethereum': 460850.26825, 'Avalanche': 32970.14192, 'Arbitrum': 421281.05821}"
+111,IDEX,Dexes,Ethereum,['Polygon'],"{'Ethereum': 1298700.1336, 'Polygon': 1817060.0354}"
+112,Lightning Network,Payments,Bitcoin,['Bitcoin'],{'Bitcoin': 151839091.70558}
+113,Metronome V1,Services,Ethereum,['Ethereum'],{'Ethereum': 3311668.09997}
+114,Notional,Lending,Ethereum,['Ethereum'],{'Ethereum': 38494718.91381}
+115,PEAKDEFI,Services,Ethereum,['Ethereum'],"{'Ethereum': 110888.80413, 'BSC-staking': 758551.69468, 'Ethereum-staking': 2497133.90625, 'staking': 3255685.60094}"
+116,Perlin,Dexes,Ethereum,['Ethereum'],{'Ethereum': 4691694.39718}
+117,Swipe,Dexes,Ethereum,['BSC'],"{'BSC': 108488.53431, 'Ethereum': 67582.21467}"
+118,Mango Markets,Lending,Solana,['Solana'],{'Solana': 0}
+119,Ellipsis Finance,Dexes,Binance,['BSC'],"{'BSC': 22014103.66207, 'BSC-staking': 395267.66706, 'staking': 395267.66706}"
+120,Olympus DAO,Reserve Currency,Ethereum,['Ethereum'],"{'Ethereum': 239914085.79329, 'Ethereum-staking': 14353640.07017, 'staking': 14353640.07017}"
+121,CompliFi,Derivatives,Ethereum,['Polygon'],"{'Ethereum': 30881.72769, 'Polygon': 137332.92135}"
+122,PowerPool,Indexes,Ethereum,['Ethereum'],"{'BSC': 18655.54983, 'Ethereum': 569293.44663}"
+123,BasketDAO,Indexes,Ethereum,['Ethereum'],{'Ethereum': 258762.17141}
+124,Integral,Dexes,Ethereum,['Ethereum'],{'Ethereum': 2672788.91616}
+125,Whiteheart,Options,Ethereum,['Ethereum'],{'Ethereum': 2663311.81903}
+126,Moola Market,Lending,Celo,['Celo'],"{'Celo': 5348206.14065, 'borrowed': 1588574.65153, 'Celo-borrowed': 1588574.65153}"
+127,Energiswap,Dexes,Energi,['Energi'],{'Energi': 1767129.00632}
+128,WePiggy,Lending,Ethereum,['Ethereum'],"{'Optimism': 717549.6039, 'Oasis-borrowed': 7202.79973, 'Moonriver': 15941.75056, 'Harmony': 51733.50965, 'Harmony-borrowed': 62227.51942, 'BSC': 772696.18272, 'Ethereum': 2405012.98277, 'Oasis': 13598.09473, 'Heco': 9932.17104, 'Ethereum-borrowed': 3024393.66025, 'Arbitrum': 1121236.05984, 'borrowed': 4904453.43011, 'Heco-borrowed': 294.94132, 'Moonbeam-borrowed': 2426.70333, 'OKExChain': 1246816.3521, 'Arbitrum-borrowed': 746255.1588, 'Polygon-borrowed': 14041.18743, 'BSC-borrowed': 400080.24265, 'Moonriver-borrowed': 11091.7985, 'Aurora-borrowed': 178.96094, 'Moonbeam': 23107.42092, 'Aurora': 2495.70399, 'Optimism-borrowed': 143167.48425, 'Polygon': 49418.11434, 'OKExChain-borrowed': 493092.97349}"
+129,Jarvis Network,Derivatives,Ethereum,['Polygon'],"{'Optimism': 509890.92984, 'BSC': 481514.56259, 'Gnosis': 104971.55539, 'Avalanche': 1118.9355, 'Polygon': 2059971.49955, 'Arbitrum': 1164545.89082}"
+130,Mimo Protocol,CDP,Ethereum,['Ethereum'],"{'Ethereum': 16754803.69537, 'Polygon': 2256293.65823, 'Fantom': 462208.19789}"
+131,Unicly,Dexes,Ethereum,['Ethereum'],{'Ethereum': 2034613.21583}
+132,Nsure,Insurance,Ethereum,['Ethereum'],{'Ethereum': 240662.73647}
+133,SakePerp,Dexes,Ethereum,['Ethereum'],"{'BSC': 31927.61761, 'Ethereum': 168821.11745, 'BSC-staking': 5472.39622, 'Ethereum-staking': 14323.21434, 'staking': 19795.61056}"
+134,Sushi Kashi,Lending,Ethereum,['Ethereum'],"{'Arbitrum-borrowed': 26337.83973, 'Polygon-borrowed': 310642.65877, 'BSC-borrowed': 20369.34955, 'BSC': 14143.21034, 'Ethereum': 455541.19568, 'Avalanche': 1470.57427, 'Polygon': 45229.95566, 'Ethereum-borrowed': 1095805.68342, 'Arbitrum': 20564.62716, 'borrowed': 1460037.72387, 'Avalanche-borrowed': 6882.19241}"
+135,Fei Protocol,Algo-Stables,Ethereum,['Ethereum'],{'Ethereum': 5.79226}
+136,XDeFi,Dexes,Ethereum,['Ethereum'],{'Ethereum': 365375.2011}
+137,Mirror,Derivatives,Terra,['Terra Classic'],{'Terra Classic': 0}
+138,Cometh,Dexes,Polygon,['Polygon'],{'Polygon': 895499.44004}
+139,Primitive,Dexes,Ethereum,['Ethereum'],{'Ethereum': 49536.31271}
+140,QIAN,Synthetics,Ethereum,['Ethereum'],{'Ethereum': 4082.56984}
+141,Set Protocol,Indexes,Ethereum,['Ethereum'],{'Ethereum': 88870662.99855}
+142,S Finance,Dexes,Ethereum,['Ethereum'],{'Ethereum': 175.56873}
+143,UniTrade,Dexes,Ethereum,['Ethereum'],{'Ethereum': 388477.70872}
+144,Liquity,CDP,Ethereum,['Ethereum'],{'Ethereum': 711690520.98996}
+145,Honeyswap,Dexes,xDai,['Gnosis'],"{'Gnosis': 6122500.96938, 'Polygon': 87575.36301}"
+146,Cryptex Finance,Indexes,Ethereum,['Ethereum'],"{'Optimism': 759.32921, 'pool2': 125484.16994, 'Ethereum-pool2': 125484.16994, 'Ethereum-treasury': 12253.80848, 'Ethereum': 858879.06711, 'Ethereum-staking': 28703.78713, 'treasury': 12253.80848, 'staking': 28703.78713}"
+147,Serum,Dexes,Solana,['Solana'],{'Solana': 596348.83733}
+148,Oxygen,Lending,Solana,['Solana'],"{'Solana-borrowed': 481980.67172, 'Solana': 464957.74128, 'borrowed': 481980.67172}"
+149,Yam Finance,Synthetics,Ethereum,['Ethereum'],{'Ethereum': 230242.62395}
+150,Orca,Dexes,Solana,['Solana'],{}
+151,Serum Swap,Dexes,Solana,['Solana'],{'Solana': 154872.81484}
+152,YetiSwap,Dexes,Avalanche,['Avalanche'],{'Avalanche': 102636.80928}
+153,SpookySwap,Dexes,Fantom,['Fantom'],{'Fantom': 98948890.81992}
+154,HyperJump,Dexes,Fantom,['Fantom'],"{'BSC': 249458.49581, 'Metis': 16667.4884, 'Fantom': 568084.96742}"
+155,Baguette,Dexes,Avalanche,['Avalanche'],{'Avalanche': 136223.61238}
+156,Swapr,Dexes,Ethereum,['Gnosis'],"{'Ethereum': 1228076.16463, 'Gnosis': 10254294.23995, 'Arbitrum': 328259.38578}"
+157,Lydia,Dexes,Avalanche,['Avalanche'],{'Avalanche': 247994.27146}
+158,PancakeSwap AMM,Dexes,Binance,['BSC'],"{'BSC': 2159680773.74773, 'Ethereum': 19261967.2663, 'BSC-staking': 1042260446.67479, 'Aptos': 25329797.1823, 'staking': 1042260446.67479}"
+159,Anchor,Lending,Terra,['Terra Classic'],"{'Avalanche': 47460.05264, 'Terra Classic-borrowed': 0.05134, 'Terra Classic': 2019787.23838, 'borrowed': 0.05134}"
+160,Balancer V2,Dexes,Ethereum,['Ethereum'],"{'Ethereum': 1022446827.82718, 'Gnosis': 2861523.07432, 'Polygon': 122699378.25768, 'Arbitrum': 43149354.73889}"
+161,Zookeeper,Yield,Wanchain,['Wanchain'],"{'Wanchain': 3382447.44122, 'Avalanche': 995267.14954}"
+162,Levinswap,Dexes,xDai,['Gnosis'],"{'Gnosis': 426839.86474, 'staking': 0, 'Gnosis-staking': 0}"
+163,BondAppetit,Lending,Ethereum,['Ethereum'],{'Ethereum': 35883.62}
+164,SpiritSwap AMM,Dexes,Fantom,['Fantom'],"{'Fantom-staking': 3438008.66636, 'staking': 3438008.66636, 'Fantom': 10690602.39695}"
+165,Channels Finance,Lending,Heco,['Heco'],"{'Arbitrum-borrowed': 649.67899, 'BSC-borrowed': 58409.72761, 'BSC': 319040.86806, 'Heco': 3496561.07848, 'Arbitrum': 43892.31085, 'borrowed': 483807.24322, 'Heco-borrowed': 424747.83663}"
+166,Panda Chef,Farm,Binance,['BSC'],"{'BSC': 57442.84267, 'BSC-staking': 0, 'staking': 0}"
+167,Gondola Finance,Dexes,Avalanche,['Avalanche'],{'Avalanche': 5363.36332}
+168,Waka Finance,Dexes,Fantom,['Fantom'],{'Fantom': 137242.20342}
+169,Lien,Options,Ethereum,['Ethereum'],{'Ethereum': 175601.87259}
+170,QiDao,CDP,Polygon,['Polygon'],"{'Optimism': 9017025.5992, 'Metis': 2710895.98797, 'Moonriver': 96.76138, 'Harmony': 6237.91554, 'Moonbeam': 57611.7341, 'BSC': 592022.30507, 'Ethereum': 7666122.35215, 'Gnosis': 55707.95145, 'Avalanche': 860749.53989, 'Polygon': 26972620.64819, 'Arbitrum': 2493808.11596, 'Fantom': 9007650.28316}"
+171,ZilSwap,Dexes,Zilliqa,['Zilliqa'],{'Zilliqa': 5294533.50314}
+172,Flamingo Finance,Dexes,NEO,['NEO'],{'NEO': 49857249.88821}
+173,Uniswap V3,Dexes,Ethereum,['Ethereum'],"{'Optimism': 51843491.87184, 'BSC': 11477531.16397, 'Ethereum': 2325748040.89475, 'Polygon': 92661512.35803, 'Celo': 1733855.272, 'Arbitrum': 179990388.3594}"
+174,unFederalReserve,Lending,Ethereum,['Ethereum'],"{'Ethereum': 532873.52306, 'Ethereum-borrowed': 397515.91437, 'borrowed': 397515.91437}"
+175,Fuji Finance,Lending,Ethereum,['Arbitrum'],"{'Optimism': 232.25885, 'Ethereum': 141339.0887, 'Polygon': 5565.73358, 'Arbitrum': 287912.39165, 'Fantom': 39161.90666}"
+176,SecretSwap,Dexes,Secret,['Secret'],{'Secret': 1527187.9785}
+177,Convergence,Dexes,Ethereum,['Ethereum'],"{'Ethereum': 514242.82071, 'Moonbeam': 42938.01256}"
+178,Depth,Dexes,Heco,['Heco'],"{'BSC': 1086850.32508, 'Heco': 1764773.7937}"
+179,Maple,Uncollateralized Lending,Ethereum,['Ethereum'],"{'Solana-borrowed': 0, 'Ethereum': 2788356.61381, 'Ethereum-staking': 10586761.64131, 'Ethereum-borrowed': 23216427.91396, 'Solana': 22434.7993, 'borrowed': 23216427.91396, 'staking': 10586761.64131}"
+180,Ram Protocol,Lending,ThunderCore,['ThunderCore'],"{'borrowed': 223008.99573, 'ThunderCore-borrowed': 223008.99573, 'ThunderCore': 953585.50591}"
+181,Yogi Finance,Dexes,Binance,['BSC'],"{'BSC': 0, 'Polygon': 0}"
+182,iTrust Finance,Insurance,Ethereum,['Ethereum'],{'Ethereum': 810124.4628}
+183,BiSwap,Dexes,Binance,['BSC'],"{'BSC': 167850202.31318, 'BSC-staking': 49933047.25391, 'staking': 49933047.25391}"
+184,Fluity,CDP,Binance,['BSC'],{'BSC': 45010.60598}
+185,YouSwap,Dexes,Heco,['Ethereum'],"{'BSC': 58709.06755, 'Ethereum': 100300.04982, 'Heco': 69778.93997}"
+186,Sovryn,Dexes,RSK,['Rootstock'],{'Rootstock': 25092900.66}
+187,Aquarius,CDP,Fantom,['Fantom'],{'Fantom': 15933.61372}
+188,PinkSwap,Dexes,Binance,['BSC'],"{'BSC': 576170.83622, 'BSC-staking': 4192.62103, 'staking': 4192.62103}"
+189,MakiSwap,Dexes,Heco,['Heco'],"{'Heco': 625991.17725, 'Heco-staking': 310862.4616, 'staking': 310862.4616}"
+190,MoneyOnChain,Lending,RSK,['Rootstock'],{'Rootstock': 45865038.01712}
+191,Firebird,Dexes,Polygon,['Polygon'],{'Polygon': 143533.62912}
+192,O3 Swap,Cross Chain,PolyNetwork,['BSC'],"{'Optimism': 396042.36, 'Metis': 37204.05, 'KCC': 42036.5, 'Cube': 53393.62, 'Bitgert': 45442.01, 'BSC': 1344117.76, 'Ethereum': 1158384.84, 'Gnosis': 34786.51, 'Astar': 12740.98, 'Avalanche': 348666.94, 'Polygon': 907591.11, 'Celo': 16610.95, 'Arbitrum': 709759.34, 'Fantom': 280547.29}"
+193,Sifchain,Dexes,Sifchain,['Sifchain'],{'Sifchain': 72311.88553}
+194,Alpaca Leveraged Yield Farming,Leveraged Farming,Binance,['BSC'],"{'BSC': 148495845.53923, 'BSC-staking': 20557204.9789, 'Fantom-staking': 575377.37346, 'staking': 21132582.35236, 'Fantom': 2410118.59837}"
+195,Abracadabra,CDP,Ethereum,['Ethereum'],"{'Ethereum': 206418026.92084, 'Avalanche': 1167106.67126, 'Arbitrum': 30856209.20836, 'Fantom': 1034147.76136}"
+196,FilDA,Lending,Heco,['IoTeX'],"{'Kava': 167.39438, 'BSC': 205.58303, 'IoTeX': 9530792.79021, 'Heco': 4010406.06092, 'Arbitrum': 24384.7385, 'borrowed': 2555072.21769, 'Heco-borrowed': 919617.21492, 'Arbitrum-borrowed': 1431.1048, 'REI-borrowed': 23149.44458, 'Elastos-borrowed': 170199.56488, 'Bittorrent-borrowed': 0, 'Polygon-borrowed': 1459.52687, 'BSC-borrowed': 2.3955, 'Bittorrent': 9.46951, 'Elastos': 925510.47519, 'Polygon': 12935.66909, 'REI': 79709.73516, 'IoTeX-borrowed': 1439124.9088, 'Kava-borrowed': 88.05736}"
+197,ZooCoin,Dexes,Fantom,['Fantom'],{'Fantom': 72192.3849}
+198,PadSwap,Dexes,Binance,['BSC'],"{'BSC': 249751.78407, 'BSC-staking': 0, 'Moonriver': 43743.80868, 'staking': 0, 'Moonbeam': 41183.98809}"
+199,Gravity Finance,Dexes,Polygon,['Polygon'],{'Polygon': 421400.98642}
+200,Aztec,Privacy,Ethereum,['Ethereum'],{'Ethereum': 21495624.15714}
+201,InsurAce,Insurance,Ethereum,['Ethereum'],"{'BSC': 923450.78029, 'Ethereum': 2751327.67991, 'Avalanche': 2449516.64723, 'Polygon': 2386226.30512}"
+202,Dopple Finance,Algo-Stables,Binance,['BSC'],"{'BSC': 178146.29684, 'Harmony': 0.21392, 'Fantom': 154.81184}"
+203,xDollar,CDP,Polygon,['IoTeX'],"{'Arbitrum-staking': 0, 'IoTeX': 264286.1982, 'Ethereum': 26208.43322, 'Avalanche': 7015.24008, 'Avalanche-staking': 0, 'Polygon': 53001, 'Polygon-staking': 0, 'Arbitrum': 10452.23262, 'staking': 0}"
+204,MANTRA DAO,Lending,Ethereum,['Ethereum'],"{'pool2': 301041.57725, 'Polygon-pool2': 91004.88556, 'BSC-pool2': 0, 'Ethereum-pool2': 210036.69169, 'BSC': 0, 'Ethereum': 1278185.45867, 'BSC-staking': 5022040.86758, 'Ethereum-staking': 3362911.30776, 'Polygon': 0, 'Ethereum-borrowed': 17894420.63511, 'Polygon-staking': 839052.2929, 'borrowed': 17894420.63511, 'staking': 9224004.46825}"
+205,Parrot Protocol,CDP,Solana,['Solana'],"{'Solana-staking': 19360950.04712, 'Solana': 9052630.89039, 'staking': 19360950.04712}"
+206,BabySwap,Dexes,Binance,['BSC'],"{'BSC': 12320660.28162, 'BSC-staking': 0, 'staking': 0}"
+207,Iron Finance,CDP,Polygon,['Polygon'],"{'Polygon-borrowed': 46116.55136, 'Fantom-borrowed': 63.12716, 'Avalanche': 29.69914, 'Polygon': 803568.69644, 'borrowed': 46179.67851, 'Fantom': 1348.50774}"
+208,Perpetual Protocol,Derivatives,xDai,['Optimism'],"{'Optimism': 16971568.15199, 'Ethereum-staking': 1411005.40773, 'staking': 1411005.40773}"
+209,ICHI Farm,CDP,Ethereum,['Ethereum'],"{'pool2': 404751.50565, 'Ethereum-pool2': 404751.50565, 'Ethereum': 10109287.28368, 'Polygon': 1267806.14748, 'Ethereum-staking': 1644583.91479, 'staking': 1644583.91479}"
+210,Kaidex,Dexes,Kardia,['Kardia'],{'Kardia': 3843609.54803}
+211,Kebab Finance,Dexes,Binance,['BSC'],"{'BSC': 51492.17495, 'BSC-staking': 0, 'staking': 0}"
+212,NFT20,NFT Marketplace,Ethereum,['Ethereum'],"{'pool2': 106703.22973, 'Ethereum-pool2': 106703.22973, 'Ethereum': 157848.78066, 'Polygon': 31.8414, 'Ethereum-staking': 431113.71965, 'staking': 431113.71965}"
+213,CashCow Finance,Lending,Binance,['BSC'],"{'BSC': 106589.25749, 'BSC-staking': 2153.9627, 'BSC-borrowed': 45128.52673, 'borrowed': 45128.52673, 'staking': 2153.9627}"
+214,Piggy,CDP,Binance,['BSC'],{'BSC': 24250.27698}
+215,Hop Protocol,Cross Chain,Ethereum,['Ethereum'],"{'Optimism': 12342493.80453, 'Ethereum': 60577676.13884, 'Gnosis': 1300932.65415, 'Polygon': 6180716.15428, 'Arbitrum': 11901867.08164}"
+216,Osmosis DEX,Dexes,Osmosis,['Osmosis'],{'Osmosis': 172897254.74154}
+217,KokomoSwap,Dexes,Binance,['BSC'],{'BSC': 21952.51586}
+218,Rabbit Finance,Lending,Binance,['BSC'],"{'BSC': 819198.20842, 'BSC-staking': 0, 'staking': 0}"
+219,Nerve Staking,Dexes,Nuls,['Nuls'],{'Nuls': 2879495}
+220,Cardstarter,Launchpad,Ethereum,['Ethereum'],"{'Ethereum': 0, 'pool2': 661336.57554, 'Ethereum-staking': 273724.55006, 'staking': 273724.55006, 'Ethereum-pool2': 661336.57554}"
+221,LendHub,Lending,Heco,['Heco'],"{'Heco': 13164.13732, 'borrowed': 0, 'Heco-borrowed': 0}"
+222,Premia,Options,Ethereum,['Arbitrum'],"{'Optimism': 1408993.81803, 'BSC': 10048.85339, 'Ethereum': 1699519.82351, 'Ethereum-staking': 5296811.59503, 'Arbitrum': 4267488.75486, 'Fantom': 1152519.00172, 'staking': 5296811.59503}"
+223,NFTX,NFT Marketplace,Ethereum,['Ethereum'],"{'Ethereum': 24132508.13874, 'Arbitrum': 0}"
+224,PolyQuity,CDP,Polygon,['Polygon'],{'Polygon': 248685.61387}
+225,Cozy Finance,Insurance,Ethereum,['Ethereum'],"{'Ethereum': 547506.50323, 'Ethereum-borrowed': 93260.33114, 'borrowed': 93260.33114}"
+226,Qilin,Dexes,Ethereum,['Ethereum'],{'Ethereum': 14075.28819}
+227,Shiba Fantom,Dexes,Fantom,['Fantom'],{'Fantom': 19958.18084}
+228,TendieSwap,Dexes,Binance,['BSC'],"{'BSC': 1623.50389, 'BSC-staking': 0, 'staking': 0}"
+229,Zenlink,Dexes,Moonriver,['Astar'],"{'Astar': 569747.17745, 'Moonriver': 506694.99742, 'Moonbeam': 195600.01547}"
+230,Wrapped,Cross Chain,Ethereum,['Ethereum'],"{'Ethereum': 10080560.20434, 'Celo': 3606157.6286}"
+231,NowSwap,Dexes,Ethereum,['Ethereum'],{'Ethereum': 18.5128}
+232,Meteora pools,Dexes,Solana,['Solana'],{'Solana': 11707861.1134}
+233,Guard-Helmet,Insurance,Polygon,['BSC'],"{'BSC': 5900820.68567, 'Polygon': 3978655.48881}"
+234,ShibaSwap,Dexes,Ethereum,['Ethereum'],{'Ethereum': 31300729.76374}
+235,Neutrino,Indexes,Waves,['Waves'],{'Waves': 6567696.06304}
+236,Swop,Dexes,Waves,['Waves'],{'Waves': 8365349.33429}
+237,Polydex,Dexes,Polygon,['Polygon'],{'Polygon': 282056.73888}
+238,ApeSwap AMM,Dexes,Binance,['BSC'],"{'BSC': 26015472.17966, 'Ethereum': 186277.67336, 'BSC-staking': 6848472.10217, 'Polygon': 9595997.23373, 'Telos': 3726345.87277, 'staking': 6848472.10217}"
+239,Symmetric,Dexes,xDai,['Gnosis'],"{'Kava': 45.20113, 'Gnosis': 36778.60557, 'Celo': 15343.57685}"
+240,Amun,Indexes,Ethereum,['Solana'],"{'Ethereum': 0, 'Polygon': 0, 'Solana': 42360.08538}"
+241,WardenSwap,Dexes,Binance,['BSC'],"{'BSC': 411769.18561, 'BSC-staking': 0, 'staking': 0}"
+242,Mars Poolin,Yield,Ethereum,['Ethereum'],{'Ethereum': 339008.77181}
+243,BakerySwap,Dexes,Binance,['BSC'],"{'BSC': 8616345.58111, 'BSC-staking': 5296267.79387, 'staking': 5296267.79387}"
+244,BXH,Dexes,Heco,['Heco'],"{'BSC': 55869.20608, 'Ethereum': 18630.07926, 'OKExChain': 72680.83868, 'Heco': 435173.32143, 'Avalanche': 2254.89355}"
+245,Tokenlon,Dexes,Ethereum,['Ethereum'],"{'Ethereum': 1573176.20885, 'pool2': 84808.87192, 'Ethereum-staking': 37182933.41273, 'staking': 37182933.41273, 'Ethereum-pool2': 84808.87192}"
+246,CafeSwap,Dexes,Binance,['BSC'],"{'BSC': 143687.507, 'BSC-staking': 0, 'Polygon': 40508.70034, 'Polygon-staking': 0, 'staking': 0}"
+247,Clipper,Dexes,Ethereum,['Ethereum'],"{'Optimism': 800603.96287, 'Ethereum': 8914073.08139, 'Polygon': 349042.834, 'Arbitrum': 777406.22217, 'Moonbeam': 23339.98684}"
+248,Pippi,Dexes,Heco,['Heco'],{'Heco': 602932.35033}
+249,Bumper Finance,Insurance,Ethereum,['Ethereum'],{'Ethereum': 6404510.64085}
+250,WeStarter,Launchpad,Heco,['Heco'],{'Heco': 1199.3975}
+251,Saber,Dexes,Solana,['Solana'],{'Solana': 9706822.53462}
+252,DinoSwap,Dexes,Polygon,['Polygon'],"{'Polygon': 44706.66712, 'pool2': 26951.99683, 'Polygon-pool2': 26951.99683, 'Polygon-staking': 0, 'staking': 0}"
+253,Scream,Lending,Fantom,['Fantom'],"{'Fantom-borrowed': 22685146.82075, 'Fantom-staking': 34910.87933, 'borrowed': 22685146.82075, 'staking': 34910.87933, 'Fantom': 11946109.31915}"
+254,Polkaswap,Dexes,Sora,['Sora'],{'Sora': 3556844.2728}
+255,Elk,Dexes,Polygon,['Polygon'],"{'Optimism': 54812.67694, 'Kava': 380056.80452, 'Moonriver': 10166.93441, 'Harmony': 7679.14957, 'BSC': 292766.57366, 'IoTeX': 40255.4677, 'Ethereum': 107164.17087, 'Gnosis': 111795.47863, 'Heco': 19300.49762, 'Avalanche': 374156.43896, 'Telos': 32757.02585, 'Arbitrum': 63649.41582, 'Fuse': 33078.32528, 'Fantom': 145347.85247, 'Cronos': 95799.58897, 'OKExChain': 11666.59791, 'Hoo': 0, 'KCC': 26991.29535, 'Bittorrent': 17581.53457, 'Elastos': 128164.70255, 'Polygon': 444919.1504}"
+256,Paint Swap,Dexes,Fantom,['Fantom'],"{'Fantom-staking': 2900117.41294, 'staking': 2900117.41294, 'Fantom': 195634.18942}"
+257,Bunicorn,Dexes,Binance,['BSC'],"{'BSC': 1615319.51897, 'BSC-staking': 165.90826, 'staking': 165.90826}"
+258,Deri Protocol,Options,Binance,['Arbitrum'],"{'BSC': 887935.25898, 'Polygon': 86440.58541, 'Arbitrum': 1411247.70133}"
+259,Wild Credit,Lending,Ethereum,['Ethereum'],"{'Ethereum': 24184.30592, 'Ethereum-borrowed': 18479.29622, 'borrowed': 18479.29622}"
+260,PolyDEX-Cryption Network,Dexes,Polygon,['Polygon'],{'Polygon': 35380.6908}
+261,Acumen,Lending,Solana,['Solana'],{'Solana': 0}
+262,Mint Club,Launchpad,Binance,['BSC'],{'BSC': 883177.0979}
+263,CobraSwap,Dexes,Binance,['BSC'],{'BSC': 29903.06945}
+264,Fractional Art,Indexes,Ethereum,['Ethereum'],{'Ethereum': 3758954.43437}
+265,SUN.io,Dexes,Tron,['Tron'],"{'pool2': 12407265.88134, 'Tron': 61331474.45365, 'Tron-pool2': 12407265.88134, 'Tron-staking': 7579222.12527, 'staking': 7579222.12527}"
+266,Longdrink,Indexes,Binance,['BSC'],"{'BSC': 0, 'pool2': 424.25314, 'BSC-pool2': 424.25314}"
+267,Tarot,Lending,Fantom,['Fantom'],"{'Optimism': 4820192.50024, 'Kava': 1243293.9458, 'Arbitrum-borrowed': 829986.69545, 'BSC-borrowed': 1546079.66915, 'BSC': 3469818.92618, 'Fantom-borrowed': 7489907.36416, 'Ethereum': 377878.04871, 'Optimism-borrowed': 2150804.5219, 'Ethereum-borrowed': 139900.15698, 'Arbitrum': 1756068.49958, 'borrowed': 12497688.24359, 'Kava-borrowed': 341009.83596, 'Fantom': 18467149.71766}"
+268,WitSwap,Oracle,Witnet,['Ethereum'],{'Ethereum': 0}
+269,LoTerra,Prediction Market,Terra,['Terra Classic'],"{'Terra Classic-treasury': 0, 'Terra Classic': 2244.84084, 'treasury': 0}"
+270,MiningTycoon,Staking,Heco,['BSC'],"{'BSC': 21527.30225, 'BSC-staking': 23938.36047, 'staking': 23938.36047}"
+271,Mean Finance,Services,Ethereum,['Optimism'],"{'Optimism': 566687.9175, 'Ethereum': 391859.26149, 'Polygon': 393056.05449, 'Arbitrum': 436846.76031}"
+272,Balanced,Dexes,Icon,['Icon'],{}
+273,Polycat,Dexes,Polygon,['Polygon'],"{'Polygon': 2644179.76471, 'pool2': 6623.76663, 'Polygon-pool2': 6623.76663, 'Polygon-staking': 456702.22754, 'staking': 456702.22754}"
+274,Alita Finance,Dexes,Binance,['BSC'],"{'BSC': 1066630.55302, 'BSC-staking': 695901.00077, 'staking': 695901.00077}"
+275,Trader Joe DEX,Dexes,Avalanche,['Avalanche'],"{'Avalanche': 59731522.53837, 'Avalanche-staking': 1438991.12608, 'staking': 1438991.12608}"
+276,Mensa Protocol,Lending,Fantom,['Fantom'],{'Fantom': 4712.66159}
+277,Karura Swap,Dexes,Karura,['Karura'],{'Karura': 1244561.31828}
+278,Karura Dollar (kUSD),Lending,Karura,['Karura'],{'Karura': 7931046.51477}
+279,Vanilla,Derivatives,Ethereum,['Ethereum'],{'Ethereum': 26047.89341}
+280,Solend,Lending,Solana,['Solana'],"{'Solana-borrowed': 5198743.11372, 'Solana': 22239479.13513, 'borrowed': 5198743.11372}"
+281,Yapeswap,Dexes,Ethereum,['Ethereum'],{'Ethereum': 20798.6162}
+282,Pilot Protocol,Lending,Heco,['Heco'],{'Heco': 656888.94227}
+283,Beta Finance,Lending,Ethereum,['Ethereum'],"{'Ethereum': 1781028.06813, 'Avalanche': 24215.75322}"
+284,Kuu Finance,Dexes,Avalanche,['Avalanche'],{'Avalanche': 15891.73892}
+285,TotemFi,Prediction Market,Binance,['BSC'],{'BSC': 0}
+286,Benqi Lending,Lending,Avalanche,['Avalanche'],"{'Avalanche': 135453782.03654, 'pool2': 2010063.60109, 'borrowed': 38136578.96983, 'Avalanche-pool2': 2010063.60109, 'Avalanche-borrowed': 38136578.96983}"
+287,Port Finance,Lending,Solana,['Solana'],{'Solana': 7293158.65686}
+288,MochiFi,Lending,Ethereum,['Ethereum'],{'Ethereum': 541744.56208}
+289,Qubit,Lending,Binance,['BSC'],"{'BSC': 19943.7624, 'Klaytn': 17241.13895}"
+290,Ref Finance,Dexes,Near,['Near'],{'Near': 37069086.16558}
+291,KuSwap,Dexes,Kucoin,['KCC'],{'KCC': 1429888.95418}
+292,Defi Kingdoms,Dexes,Harmony,['Klaytn'],"{'Klaytn-staking': 2786364.80757, 'Harmony-staking': 2080113.50031, 'Klaytn': 3570679.61111, 'Harmony': 2301224.72623, 'staking': 4866478.30788}"
+293,UniPower,Staking,Ethereum,['Ethereum'],"{'pool2': 159977.86787, 'Polygon-pool2': 0, 'Ethereum-pool2': 159977.86787, 'Ethereum': 207048.73693, 'Ethereum-staking': 17825.69053, 'Polygon': 0, 'Polygon-staking': 701.57124, 'staking': 18527.26177}"
+294,SonicSwap,Dexes,Harmony,['Harmony'],{'Harmony': 41937.00739}
+295,Shibance,Dexes,Binance,['BSC'],"{'BSC': 7270.94435, 'KCC': 4117.35903}"
+296,Goldfinch,RWA Lending,Ethereum,['Ethereum'],"{'Ethereum': 1610774.29571, 'Ethereum-borrowed': 102096415.5984, 'borrowed': 102096415.5984}"
+297,FreeRiver,Dexes,Moonriver,['Moonriver'],{'Moonriver': 18798.87965}
+298,SeaDex,Dexes,Moonriver,['Moonriver'],{'Moonriver': 76434.0307}
+299,Plenty,Dexes,Tezos,['Tezos'],{'Tezos': 2543293.71694}
+300,Tidal Finance,Insurance,Polygon,['Polygon'],"{'Polygon': 2606781.14611, 'Polygon-staking': 198399.79442, 'staking': 198399.79442}"
+301,Twindex,Options,Binance,['BSC'],"{'BSC': 116968.92469, 'BSC-staking': 0, 'staking': 0}"
+302,MacaronSwap,Dexes,Binance,['BSC'],"{'pool2': 0, 'Polygon-pool2': 0, 'BSC-pool2': 0, 'BSC': 17583.50395, 'BSC-staking': 213969.84443, 'Polygon': 9704.82831, 'Polygon-staking': 24644.6193, 'staking': 238614.46373}"
+303,Kava Swap,Dexes,Kava,['Kava'],{'Kava': 4574055.09915}
+304,Gyro,Reserve Currency,Binance,['BSC'],"{'BSC': 1250005.90609, 'BSC-staking': 8565.51257, 'staking': 8565.51257}"
+305,GMX,Derivatives,Binance,['Arbitrum'],"{'Avalanche': 92556849.21768, 'Avalanche-staking': 25901852.48, 'Arbitrum-staking': 503070961.76, 'Arbitrum': 496002729.57982, 'staking': 528972814.24}"
+306,Lyra,Options,Optimism,['Arbitrum'],"{'Optimism': 11995664.2604, 'Ethereum': 135042.59208, 'Ethereum-staking': 27336184.22588, 'Arbitrum': 20275965.43015, 'staking': 27336184.22588}"
+307,Annex,Lending,Binance,['BSC'],"{'Kava': 82638.20894, 'Cronos-borrowed': 463152.26459, 'Cronos': 775745.13844, 'BSC-borrowed': 998577.79272, 'BSC': 1532258.07869, 'borrowed': 1495835.86114, 'Kava-borrowed': 34105.80382}"
+308,Cub Finance,Farm,Binance,['BSC'],"{'BSC': 984226.09427, 'BSC-staking': 18719.75494, 'pool2': 0, 'BSC-pool2': 0, 'staking': 18719.75494}"
+309,Orion Protocol,Dexes,Ethereum,['BSC'],"{'BSC': 5730088.6311, 'Ethereum': 1442387.15212}"
+310,DefiBox,Dexes,EOS,['EOS'],"{'BSC': 52012.82317, 'EOS': 35889780.97137, 'EOS-borrowed': 381937.53214, 'borrowed': 381937.53214, 'Wax': 187375.82651}"
+311,KlaySwap,Dexes,Klaytn,['Klaytn'],"{'Klaytn-staking': 37344845.03573, 'Klaytn': 118067412.97917, 'staking': 37344845.03573}"
+312,QuipuSwap,Dexes,Tezos,['Tezos'],{'Tezos': 1553545.53803}
+313,Mobius Money,Dexes,Celo,['Celo'],{'Celo': 3147611.2492}
+314,Wrap Protocol,Synthetics,Tezos,['Ethereum'],{'Ethereum': 2170608.37632}
+315,Kolibri,CDP,Tezos,['Tezos'],"{'Tezos-pool2': 47508.93167, 'pool2': 47508.93167, 'Tezos': 5240778.11525}"
+316,Wonderland,Reserve Currency,Avalanche,['Ethereum'],"{'Ethereum': 18369162.65738, 'Avalanche': 100076.40025, 'Avalanche-staking': 665252960.48317, 'staking': 665252960.48317}"
+317,Moonswap,Dexes,Moonriver,['Moonriver'],{'Moonriver': 307374.56451}
+318,Solarbeam,Dexes,Moonriver,['Moonriver'],{'Moonriver': 8029808.09872}
+319,Youves,Synthetics,Tezos,['Tezos'],"{'Tezos-pool2': 1742283.7839, 'pool2': 1742283.7839, 'Tezos': 33022301.55391}"
+320,Pizza,Lending,EOS,['EOS'],{'EOS': 312402.0073}
+321,CryptoYieldFocus,Farm,Avalanche,['Avalanche'],{'Avalanche': 4046.09626}
+322,Hpdex,Dexes,HPB,['HPB'],{'HPB': 58208.0325}
+323,Ramp,CDP,Ethereum,['BSC'],"{'BSC': 203255.1657, 'Ethereum': 109194.48732, 'Avalanche': 464.78399, 'Polygon': 18524.13106}"
+324,ShadeCash,Privacy,Fantom,['Fantom'],"{'pool2': 4285.48819, 'Fantom-staking': 10.95722, 'Fantom-pool2': 4285.48819, 'staking': 10.95722, 'Fantom': 74843.99715}"
+325,OpenOcean,Dexes,Binance,['BSC'],"{'BSC': 1140525.55821, 'Ethereum': 147653.88674, 'BSC-staking': 505135.05801, 'Avalanche': 21530.92853, 'Avalanche-staking': 385.81276, 'Ethereum-staking': 109697.33334, 'staking': 615218.20412}"
+326,Thales,Prediction Market,Ethereum,['Arbitrum'],"{'Optimism': 40593.89978, 'Optimism-pool2': 1334804.54392, 'Optimism-staking': 7052819.2859, 'pool2': 1458031.52064, 'Ethereum-pool2': 123226.97672, 'Ethereum': 5489.239, 'Polygon': 4506.65531, 'Arbitrum': 133082.65247, 'staking': 7052819.2859}"
+327,ArbiNYAN,Farm,Arbitrum,['Arbitrum'],"{'pool2': 42590.83251, 'Arbitrum-staking': 43837.28622, 'Arbitrum': 68312.98721, 'Arbitrum-pool2': 42590.83251, 'staking': 43837.28622}"
+328,Teddy Cash,CDP,Avalanche,['Avalanche'],"{'Avalanche': 57335.0859, 'Avalanche-staking': 0, 'pool2': 3124.32766, 'Avalanche-pool2': 3124.32766, 'staking': 0}"
+329,Larix,Lending,Solana,['Solana'],"{'Solana-borrowed': 2579998.10785, 'Solana': 6823197.54259, 'borrowed': 2579998.10785}"
+330,Morpheus Swap,Dexes,Fantom,['Fantom'],"{'Fantom-staking': 99655.47598, 'staking': 99655.47598, 'Fantom': 54234.58219}"
+331,MyTrade,Dexes,Polygon,['Polygon'],"{'Polygon': 45610.3518, 'Moonbeam': 250.75171}"
+332,Value Liquid,Dexes,Ethereum,['Ethereum'],{'Ethereum': 146768.96355}
+333,Carbon Finance,Farm,Arbitrum,['Arbitrum'],"{'pool2': 438.27298, 'Arbitrum-staking': 0, 'Arbitrum': 6622.33012, 'Arbitrum-pool2': 438.27298, 'staking': 0}"
+334,CherrySwap,Dexes,OKExChain,['OKExChain'],"{'OKExChain-staking': 72730.52491, 'OKExChain': 3006255.37104, 'staking': 72730.52491}"
+335,Chainge Finance,Dexes,Fusion,['Fusion'],{}
+336,NewDex,Dexes,Binance,['EOS'],{'EOS': 320552.09542}
+337,SoulSwap,Dexes,Fantom,['Fantom'],"{'Fantom-staking': 52509.87809, 'Fantom-borrowed': 16613.60127, 'Avalanche': 0, 'Avalanche-staking': 0, 'borrowed': 23627.06824, 'Fantom': 687637.09711, 'staking': 52509.87809, 'Avalanche-borrowed': 7013.46697}"
+338,Omm,Lending,Icon,['Icon'],{}
+339,pNetwork,Cross Chain,Ethereum,['BSC'],"{'EOS': 2947714.55463, 'BSC': 13817504.94452, 'Ethereum': 6164000.24173, 'Ultra': 6695743.02981, 'Algorand': 59043.34337, 'Polygon': 3070537.27626, 'Telos': 121326.0341, 'Arbitrum': 14355.83871, 'LBRY': 2028957.66703}"
+340,DeFis Network,Dexes,EOS,['EOS'],{'EOS': 3822467.31866}
+341,Vigor,Lending,EOS,['EOS'],{'EOS': 823160.98267}
+342,Genshiro,Lending,Genshiro,['Genshiro'],{'Genshiro': 820738.70122}
+343,Timewarp,Staking,Ethereum,['BSC'],"{'BSC': 303511.18413, 'Ethereum': 808.47116, 'BSC-staking': 8763680.25498, 'Ethereum-staking': 8903453.30204, 'staking': 17667133.55702}"
+344,Crunchy Network,Services,Tezos,['Tezos'],{'Tezos': 263338.74}
+345,Ante Finance,Insurance,Ethereum,['Ethereum'],"{'Optimism': 2865.004, 'BSC': 504.3, 'Ethereum': 547521.61008, 'Aurora': 1788.79, 'Avalanche': 10511.9676, 'Polygon': 4858.15, 'Arbitrum': 2.14655, 'Fantom': 2025.058}"
+346,Vee Finance,Lending,Avalanche,['Avalanche'],"{'Heco': 5700.25611, 'Avalanche': 15141.02193}"
+347,Scientix,Synthetics,Binance,['BSC'],{}
+348,Vires Finance,Lending,Waves,['Waves'],"{'Waves': 98656513.01542, 'borrowed': 39725983.56855, 'Waves-borrowed': 39725983.56855}"
+349,WX Network,Dexes,Waves,['Waves'],{'Waves': 2851627.42311}
+350,Pods Finance,Options,Ethereum,['Polygon'],"{'Ethereum': 95232.10005, 'Polygon': 259316.62276, 'Arbitrum': 32562.72377}"
+351,Liqee,Lending,Binance,['BSC'],"{'BSC': 25029236.83772, 'Ethereum': 5613491.62275}"
+352,Fuzz Finance,Dexes,Harmony,['Harmony'],"{'Harmony-staking': 93855.35051, 'Harmony': 44973.95488, 'staking': 93855.35051}"
+353,JetSwap,Dexes,Binance,['BSC'],"{'Fantom-staking': 0, 'BSC': 589182.0696, 'BSC-staking': 0, 'Polygon': 295144.8892, 'Polygon-staking': 0, 'Fantom': 45163.3095, 'staking': 0}"
+354,Coinswap Space,Dexes,Binance,['BSC'],{'BSC': 728299.21686}
+355,UnoRe,Insurance,Binance,['BSC'],"{'Kava': 1.01, 'BSC': 156887.68233, 'Ethereum': 144501.72932, 'BSC-staking': 1035198.80436, 'Ethereum-staking': 1536365.39587, 'staking': 2571564.20023}"
+356,KSwap Finance,Dexes,OKExChain,['OKExChain'],{'OKExChain': 616484.67591}
+357,SashimiSwap,Dexes,Ethereum,['Ethereum'],"{'BSC-borrowed': 40644.75253, 'BSC': 374378.6022, 'Ethereum': 23154171.8747, 'Heco': 597090.46241, 'Ethereum-staking': 80988.07178, 'Ethereum-borrowed': 102320.30836, 'borrowed': 143166.45734, 'Heco-borrowed': 201.39644, 'staking': 80988.07178}"
+358,CHFRY Finance,Lending,Ethereum,['Ethereum'],{'Ethereum': 18746.44597}
+359,1Swap,Dexes,Moonriver,['Moonriver'],{'Moonriver': 20729.72024}
+360,Strike,Lending,Ethereum,['Ethereum'],"{'Ethereum': 13452189.73646, 'Ethereum-borrowed': 24786420.47623, 'borrowed': 24786420.47623}"
+361,Parrot Defi,Farm,Arbitrum,['IoTeX'],"{'IoTeX': 68817.33018, 'Polygon': 1814.25327, 'Arbitrum': 6380.55095, 'Harmony': 122.11762}"
+362,Potluck Protocol,Dexes,Fantom,['Fantom'],"{'Fantom-staking': 15634.40189, 'staking': 15634.40189, 'Fantom': 169984.28904}"
+363,AmpleSwap,Dexes,Binance,['BSC'],"{'BSC': 56546.72041, 'BSC-staking': 3192.7383, 'staking': 3192.7383}"
+364,Flux Protocol,Lending,OKExChain,['OKExChain'],"{'BSC': 9.10452, 'Ethereum': 0, 'BSC-staking': 35098.91186, 'Ethereum-staking': 0, 'Ethereum-borrowed': 0, 'Conflux': 0, 'Arbitrum': 0, 'Conflux-borrowed': 0, 'borrowed': 11.42522, 'staking': 41346.39727, 'OKExChain-staking': 6209.42403, 'OKExChain': 56.20645, 'Arbitrum-borrowed': 0, 'Polygon-borrowed': 0, 'BSC-borrowed': 0.62199, 'Arbitrum-staking': 29.26462, 'Polygon': 0, 'Polygon-staking': 8.79676, 'Conflux-staking': 0, 'OKExChain-borrowed': 10.80323}"
+365,Warp Protocol,Lending,Ethereum,['Ethereum'],{'Ethereum': 43017.44001}
+366,Sherlock,Insurance,Ethereum,['Ethereum'],{'Ethereum': 3581624.28505}
+367,Telos Swap,Dexes,Telos,['Telos'],{'Telos': 206797.68952}
+368,RocketSwap,Dexes,Lamden,['Lamden'],{'Lamden': 82415.59507}
+369,Hundred Finance,Lending,Ethereum,['Optimism'],"{'Optimism': 6583645.17873, 'Arbitrum-borrowed': 154328.66248, 'Moonriver': 94838.59675, 'Polygon-borrowed': 166.81973, 'Gnosis-borrowed': 67078.02971, 'Harmony': 1842.67013, 'Harmony-borrowed': 28496.7162, 'Moonriver-borrowed': 1463.30881, 'Fantom-borrowed': 354581.6735, 'Ethereum': 1438.10662, 'Optimism-borrowed': 771352.97128, 'Gnosis': 79494.98888, 'Polygon': 6980.6545, 'Ethereum-borrowed': 1008.19044, 'Arbitrum': 474537.77347, 'borrowed': 1378476.37215, 'Fantom': 3022412.55947}"
+370,Cap,Derivatives,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 815224.87986, 'Arbitrum': 1099158.28005, 'staking': 815224.87986}"
+371,eCurve,Dexes,EOS,['EOS'],{}
+372,BNBMiner Finance,Services,Binance,['BSC'],{'BSC': 374960.70564}
+373,Amy Finance,Lending,Arbitrum,['Arbitrum'],{'Arbitrum': 0}
+374,Composable Finance,Cross Chain,Ethereum,['Ethereum'],"{'Ethereum': 748088.52698, 'Polygon': 0, 'Arbitrum': 0}"
+375,SwapMatic,Dexes,Polygon,['Polygon'],{'Polygon': 2424.99044}
+376,Paladin Finance,Lending,Ethereum,['Ethereum'],{'Ethereum': 1519641.28838}
+377,Reserve,CDP,Ethereum,['Ethereum'],"{'Ethereum': 7919584.56696, 'Ethereum-staking': 2199814.24769, 'staking': 2199814.24769}"
+378,Float,Derivatives,Polygon,['Polygon'],"{'Avalanche': 17321.80027, 'Polygon': 151040.39182}"
+379,Huckleberry AMM,Dexes,Moonriver,['Moonriver'],"{'Moonriver-staking': 47001.49786, 'Moonriver': 297635.84556, 'CLV': 31433.49188, 'staking': 47001.49786}"
+380,Market,Lending,Polygon,['Polygon'],"{'Fantom-borrowed': 1082785.87741, 'Polygon': 533791.83826, 'Polygon-borrowed': 100033.40037, 'borrowed': 1182819.27778, 'Fantom': -203600.2101}"
+381,MojitoSwap,Dexes,Kucoin,['KCC'],"{'KCC-staking': 4327428.69695, 'KCC': 31622523.50839, 'staking': 4327428.69695}"
+382,Augmented Finance,Lending,Ethereum,['BSC'],"{'BSC-borrowed': 16951.18195, 'Gnosis-borrowed': 8793.75325, 'BSC': 25287.99112, 'Ethereum': 20625.04632, 'Gnosis': 1363.26145, 'Avalanche': 20932.79316, 'Ethereum-borrowed': 47418.36616, 'borrowed': 104872.97855, 'Avalanche-borrowed': 31709.67719}"
+383,Geist Finance,Lending,Fantom,['Fantom'],"{'pool2': 1043622.96554, 'Fantom-staking': 8090802.61423, 'Fantom-borrowed': 21878239.66979, 'borrowed': 21878239.66979, 'Fantom-pool2': 1043622.96554, 'Fantom': 45559257.91417, 'staking': 8090802.61423}"
+384,LatteSwap,Dexes,Binance,['BSC'],"{'BSC': 63050.71678, 'BSC-staking': 0, 'staking': 0}"
+385,UniFi,Dexes,Binance,['IoTeX'],"{'OntologyEVM': 51.47408, 'Icon': 225607.95428, 'Ontology': 151618.42484, 'Harmony': 110208.42594, 'Bittorrent': 4.10367, 'BSC': 50746.76518, 'IoTeX': 3351431.08892, 'Ethereum': 4495.10835, 'Avalanche': 3134.70503, 'Ethereum-staking': 1944325.45114, 'Polygon': 3755.48837, 'Tron': 1374592.2404, 'Fantom': 99.27808, 'staking': 1944325.45114}"
+386,Jet,Lending,Solana,['Solana'],"{'Solana-borrowed': 147917.90615, 'Solana': 363091.87233, 'borrowed': 147917.90615}"
+387,Alkemi,Lending,Ethereum,['Ethereum'],{'Ethereum': 343627.22647}
+388,EmiSwap,Dexes,Ethereum,['Shiden'],"{'KCC': 33475.60992, 'Ethereum': 35037.3294, 'Aurora': 0.01301, 'Astar': 133.6953, 'Shiden': 198888.37506, 'Avalanche': 2.01037, 'Ethereum-staking': 0, 'Polygon': 28507.34983, 'staking': 0}"
+389,Atrix,Dexes,Solana,['Solana'],{}
+390,Beethoven X,Dexes,Fantom,['Fantom'],"{'Optimism': 41773476.06461, 'Fantom': 47274875.60419}"
+391,Trava Finance,Lending,Binance,['BSC'],"{'BSC': 281095.22395, 'Fantom': 26406.0898}"
+392,HurricaneSwap,Dexes,Avalanche,['Avalanche'],"{'Avalanche': 237692.71922, 'Avalanche-staking': 118260.18421, 'staking': 118260.18421}"
+393,OrcaDAO,Lending,Avalanche,['Avalanche'],"{'pool2': 10190.11098, 'Avalanche-treasury': 14382.88354, 'Avalanche': 28996.71554, 'Avalanche-staking': 724.14438, 'borrowed': 17842.64586, 'Avalanche-pool2': 10190.11098, 'treasury': 14382.88354, 'staking': 724.14438, 'Avalanche-borrowed': 17842.64586}"
+394,Elephantdex,Dexes,Harmony,['Harmony'],{'Harmony': 3912.3969}
+395,Mars Ecosystem,CDP,Binance,['BSC'],"{'BSC': 2314745.68945, 'BSC-staking': 522779.95746, 'staking': 522779.95746}"
+396,Shield,Options,Binance,['BSC'],{'BSC': 90551.44928}
+397,CarbonSwap,Dexes,EnergyWeb,['EnergyWeb'],{'EnergyWeb': 587174.36583}
+398,Aavegotchi,Gaming,Ethereum,['Polygon'],"{'pool2': 610642.6513, 'Polygon-pool2': 610642.6513, 'Ethereum': 276378.89105, 'Polygon': 2112183.15773, 'Polygon-staking': 2463224.68292, 'staking': 2463224.68292}"
+399,RskSwap,Dexes,RSK,['Rootstock'],{'Rootstock': 75945.67082}
+400,SheepDex,Dexes,Binance,['BSC'],{'BSC': 211295.16733}
+401,Dark Matter,Farm,Fantom,['Fantom'],"{'pool2': 8336.39227, 'Fantom-staking': 10814.89618, 'Fantom-pool2': 8336.39227, 'staking': 10814.89618, 'Fantom': 41315.85137}"
+402,Phoenix Finance,Options,Polygon,['BSC'],"{'BSC': 35841.85624, 'Wanchain': 3921.06176, 'Polygon': 18887.21788}"
+403,JSwap,Dexes,OKExChain,['OKExChain'],{'OKExChain': 877879.11545}
+404,Tinyman,Dexes,Algorand,['Algorand'],{'Algorand': 10333596.69285}
+405,Koala Defi,Farm,Binance,['BSC'],"{'pool2': 2765.93637, 'Polygon-pool2': 171.94703, 'BSC-pool2': 2593.98934, 'BSC': 11719.97777, 'BSC-staking': 1381.5637, 'Polygon': 1146.0438, 'Polygon-staking': 148.1584, 'staking': 1529.7221}"
+406,GoSwap,Dexes,GoChain,['GoChain'],{'GoChain': 16642.31877}
+407,Kalata,Synthetics,Binance,['BSC'],"{'BSC': 7121.33501, 'BSC-staking': 0, 'staking': 0}"
+408,Klima DAO,Reserve Currency,Polygon,['Polygon'],"{'Polygon': 45330213.77273, 'Polygon-staking': 20510311.47175, 'staking': 20510311.47175}"
+409,MonoX,Dexes,Ethereum,['Polygon'],"{'Ethereum': 386.97442, 'Polygon': 11519.11944}"
+410,Dinosaur Eggs,Dexes,Binance,['BSC'],{'BSC': 645087.9329}
+411,Agave,Lending,xDai,['Gnosis'],"{'Gnosis': 11451887.31053, 'Gnosis-borrowed': 1274071.30828, 'borrowed': 1274071.30828, 'staking': 236527.03649, 'Gnosis-staking': 236527.03649}"
+412,Cook Finance,Indexes,Ethereum,['BSC'],"{'pool2': 94293.42642, 'Heco-staking': 280.10539, 'BSC-pool2': 0, 'Ethereum-pool2': 74126.24527, 'BSC': 121678.36717, 'Ethereum': 15905.54531, 'BSC-staking': 24406.38148, 'Avalanche': 27833.31901, 'Avalanche-staking': 6.84643, 'Ethereum-staking': 24465.25939, 'Heco-pool2': 4255.05306, 'Avalanche-pool2': 15912.1281, 'staking': 49158.59269}"
+413,Polly Finance,Indexes,Polygon,['Polygon'],"{'Polygon': 124229.22345, 'pool2': 46137.89211, 'Polygon-pool2': 46137.89211}"
+414,Yield Protocol,Lending,Ethereum,['Arbitrum'],"{'Ethereum': 959962.32387, 'Arbitrum': 1605570.10712}"
+415,Poof Cash,Lending,Celo,['Celo'],{'Celo': 192767.48506}
+416,Behodler,Dexes,Ethereum,['Ethereum'],{'Ethereum': 78927.30161}
+417,Coffin Finance,Algo-Stables,Fantom,['Fantom'],"{'Fantom-staking': 11647.83579, 'staking': 11647.83579, 'Fantom': 89495.03377}"
+418,TTswap,Dexes,ThunderCore,['ThunderCore'],{'ThunderCore': 1550212.84898}
+419,LuaSwap,Dexes,Ethereum,['Ethereum'],"{'TomoChain': 623414.08541, 'Ethereum': 820703.49517}"
+420,Squid-Defi,Farm,Fantom,['Fantom'],"{'pool2': 40.24826, 'Fantom-staking': 0, 'Fantom-pool2': 40.24826, 'staking': 0, 'Fantom': 1015.45874}"
+421,Polymarket,Prediction Market,Polygon,['Polygon'],{'Polygon': 5510083.90337}
+422,Voltage,Dexes,Fuse,['Fuse'],"{'Fuse-borrowed': 6005208.28207, 'Fuse-staking': 105175.73126, 'borrowed': 6005208.28207, 'Fuse': 1243021.98051, 'staking': 105175.73126}"
+423,handle.fi,CDP,Arbitrum,['Arbitrum'],"{'pool2': 1194.81521, 'Arbitrum': 233726.33733, 'Arbitrum-pool2': 1194.81521}"
+424,AnchorSwap,Dexes,Binance,['BSC'],"{'BSC': 132466.33183, 'BSC-staking': 261251.1027, 'staking': 261251.1027}"
+425,Alium Swap,Dexes,Binance,['BSC'],"{'BSC': 25410.8813, 'BSC-staking': 22753.96498, 'staking': 22753.96498}"
+426,Mycelium Perpetual Pools,Derivatives,Arbitrum,['Arbitrum'],{'Arbitrum': 496048.57982}
+427,BiShares,Indexes,Fantom,['BSC'],"{'BSC': 13117.67149, 'Fantom': 871.01665}"
+428,DefiPlaza,Dexes,Ethereum,['Ethereum'],{'Ethereum': 638651.07192}
+429,Exodia,Reserve Currency,Fantom,['Fantom'],"{'Fantom-staking': 0, 'staking': 0, 'Fantom': 418.72399}"
+430,Synthetify,Dexes,Solana,['Solana'],{'Solana': 432612.60413}
+431,Neku,Lending,Arbitrum,['Moonriver'],"{'Arbitrum-borrowed': 251630.98572, 'Moonriver': 241268.31049, 'BSC-borrowed': 5446.92374, 'Moonriver-borrowed': 204070.23175, 'BSC': 15886.98256, 'Arbitrum': 120087.90043, 'borrowed': 461148.14121}"
+432,JustLend,Lending,Tron,['Tron'],"{'Tron-borrowed': 106142226.22256, 'Tron': 3625731683.91267, 'borrowed': 106142226.22256}"
+433,Stabilize,CDP,Avalanche,['Avalanche'],"{'Avalanche': 34614.62855, 'Avalanche-staking': 1744.92156, 'pool2': 1778.45582, 'Avalanche-pool2': 1778.45582, 'staking': 1744.92156}"
+434,OpenSwap,Dexes,Harmony,['Harmony'],{'Harmony': 22630.28811}
+435,BecoSwap,Dexes,Kardia,['Kardia'],"{'Kardia-staking': 124505.19664, 'Kardia': 150059.71523, 'staking': 124505.19664}"
+436,Dino.Exchange,Dexes,Binance,['BSC'],"{'BSC': 3816.33573, 'BSC-staking': 0, 'staking': 0}"
+437,Defi Halal,CDP,Polygon,['Polygon'],{'Polygon': 244.13671}
+438,Aldrin,Dexes,Solana,['Solana'],"{'Solana-staking': 714641.10394, 'Solana': 1458821.41984, 'staking': 714641.10394}"
+439,Dopex,Options,Ethereum,['Arbitrum'],"{'pool2': 554094.62246, 'Arbitrum-staking': 146060.92683, 'Ethereum-pool2': 38846.51008, 'BSC': 686.89428, 'Ethereum': 0, 'Avalanche': 256.215, 'Arbitrum': 30781891.78299, 'Arbitrum-pool2': 515248.11238, 'staking': 146060.92683}"
+440,Tranquil Finance,Lending,Harmony,['Harmony'],"{'Harmony-pool2': 13713.52487, 'pool2': 13713.52487, 'Harmony-staking': 8184.60872, 'Harmony': 1134848.47892, 'Harmony-borrowed': 942178.47405, 'borrowed': 942178.47405, 'staking': 8184.60872}"
+441,Atlantis Loans,Lending,Binance,['BSC'],"{'Dogechain-borrowed': 27874.34478, 'pool2': 22314.28909, 'Polygon-borrowed': 41164.68986, 'BSC-borrowed': 1677647.35185, 'BSC-pool2': 22314.28909, 'BSC': 2034854.65382, 'Dogechain': 18039.31979, 'BSC-staking': 5286.96644, 'Avalanche': 6401.17789, 'Polygon': 66365.09026, 'borrowed': 1751513.34101, 'staking': 5286.96644, 'Avalanche-borrowed': 4826.95451}"
+442,MuesliSwap,Dexes,smartBCH,['Cardano'],"{'Milkomeda C1': 495095.62515, 'Cardano-staking': 1474558.32047, 'smartBCH': 8010.68884, 'smartBCH-staking': 1347.76955, 'Cardano': 7654272.0028, 'staking': 1475906.09001}"
+443,MistSwap,Dexes,smartBCH,['smartBCH'],"{'smartBCH-staking': 0, 'smartBCH': 761300.29022, 'staking': 0}"
+444,BenSwap,Dexes,smartBCH,['BSC'],"{'BSC': 109444.43694, 'smartBCH-staking': 626579.73252, 'BSC-staking': 223105.10133, 'smartBCH': 2683081.90777, 'staking': 849684.83385}"
+445,BossSwap,Dexes,Harmony,['Harmony'],{'Harmony': 24830.82814}
+446,Angle,CDP,Ethereum,['Ethereum'],"{'Optimism': 19899.0376, 'Ethereum': 46537746.86238, 'Avalanche': 13.40869, 'Ethereum-staking': 3807721.1003, 'Polygon': 80792.53407, 'Arbitrum': 229691.37109, 'staking': 3807721.1003}"
+447,Spartacus,Reserve Currency,Fantom,['Fantom'],"{'Fantom-staking': 477843.44412, 'staking': 477843.44412, 'Fantom': 23255924.57751}"
+448,Katana DEX,Dexes,Ronin,['Ronin'],{'Ronin': 82959974.18182}
+449,Apricot Finance,Lending,Solana,['Solana'],{'Solana': 1415081.66998}
+450,Trisolaris,Dexes,Aurora,['Aurora'],{'Aurora': 6177419.54223}
+451,Houses of Rome,Reserve Currency,Moonriver,['Moonriver'],"{'Moonriver-staking': 2077158.25024, 'Moonriver': 0.34975, 'staking': 2077158.25024}"
+452,EggTartSwap,Dexes,Harmony,['Harmony'],{'Harmony': 218.21888}
+453,LootSwap,Dexes,Harmony,['Harmony'],{'Harmony': 35531.52913}
+454,Bridge Mutual,Insurance,Ethereum,['Ethereum'],"{'BSC': 9733.64677, 'Ethereum': 389164.68264, 'BSC-staking': 0, 'Ethereum-staking': 271017.8264, 'Polygon': 6006.62017, 'Polygon-staking': 0, 'staking': 271017.8264}"
+455,Fantohm,Reserve Currency,Fantom,['Fantom'],"{'Moonriver': 67516.70745, 'Fantom-staking': 1333075.06342, 'Moonriver-staking': 14332.44364, 'BSC': 0, 'Boba': 0, 'Ethereum': 498198.13957, 'Fantom': 16994707.19596, 'staking': 1347407.50706}"
+456,Pinyottas,NFT Marketplace,Ethereum,['Ethereum'],{'Ethereum': 2215.15234}
+457,OolongSwap,Dexes,Boba,['Boba'],{'Boba': 1029763.48536}
+458,SenpaiSwap,Reserve Currency,Boba,['Boba'],"{'Boba': 382.57113, 'Boba-staking': 29959.88888, 'staking': 29959.88888}"
+459,Entropyfi,Prediction Market,Polygon,['Polygon'],"{'Polygon': 7839.92223, 'pool2': 2104.54301, 'Polygon-pool2': 2104.54301}"
+460,Adena Finance,Dexes,Harmony,['Harmony'],{'Harmony': 265.00121}
+461,Rubicon,Dexes,Optimism,['Optimism'],{'Optimism': 1873947.24652}
+462,SquidDao,Reserve Currency,Ethereum,['Ethereum'],"{'Ethereum': 0, 'Ethereum-staking': 0, 'staking': 0}"
+463,Snowbank,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 2272482.48343, 'staking': 2272482.48343}"
+464,Glide Finance,Dexes,Elastos,['Elastos'],"{'Elastos': 784721.81404, 'Elastos-staking': 84547.17881, 'staking': 84547.17881}"
+465,Blizz Finance,Lending,Avalanche,['Avalanche'],"{'Avalanche': 0, 'borrowed': 0, 'Avalanche-borrowed': 0}"
+466,xSigma,Dexes,Ethereum,['Ethereum'],"{'Ethereum': 355183.26555, 'pool2': 33465.63321, 'Ethereum-staking': 9539.28771, 'staking': 9539.28771, 'Ethereum-pool2': 33465.63321}"
+467,Loop Finance,Dexes,Terra,['Terra Classic'],{'Terra Classic': 167485.61888}
+468,PureSwap,Dexes,Binance,['BSC'],{'BSC': 300129.23812}
+469,Helios Prime,Indexes,Ethereum,['Ethereum'],{'Ethereum': 2415.7381}
+470,TomoFinance,CDP,TomoChain,['TomoChain'],{'TomoChain': 444.772}
+471,FODL Finance,Options,Ethereum,['Ethereum'],"{'pool2': 385284.32816, 'Polygon-pool2': 0, 'Ethereum-pool2': 385284.32816, 'BSC': 4533.59233, 'Ethereum': 393216.05501, 'Ethereum-staking': 373635.80763, 'Polygon': 13807.53627, 'staking': 373635.80763}"
+472,Euphoria,Reserve Currency,Harmony,['Harmony'],"{'Harmony-staking': 29779.0802, 'Harmony': 0.02933, 'staking': 29779.0802}"
+473,MinMax Finance,Dexes,IoTeX,['IoTeX'],{'IoTeX': 125315.28733}
+474,Crodex,Dexes,Cronos,['Cronos'],{'Cronos': 1177408.92963}
+475,Revest Finance,NFT Lending,Ethereum,['Ethereum'],"{'Ethereum': 1164946.38307, 'Avalanche': 10.33926, 'Polygon': 557.22165, 'Ethereum-staking': 926352.77928, 'staking': 926352.77928, 'Fantom': 62918.10135}"
+476,EmpireDEX,Dexes,Binance,['BSC'],"{'Empire': 356874.20529, 'Kava': 901.9636, 'Cronos': 409415.11669, 'BSC': 1081816.91379, 'Ethereum': 60639.0921, 'Gnosis': 46304.59639, 'Avalanche': 49100.04845, 'Polygon': 86924.61409, 'Fantom': 136203.00373}"
+477,VVS Finance,Dexes,Cronos,['Cronos'],{'Cronos': 196220636.60838}
+478,Hector Network,Dexes,Fantom,['Fantom'],"{'BSC': 466341.31343, 'Ethereum': 4691650.03366, 'Fantom-staking': 3013720.08952, 'staking': 3013720.08952, 'Fantom': 19520309.00369}"
+479,ZoomSwap,Farm,IoTeX,['IoTeX'],"{'IoTeX': 2309257.40353, 'pool2': 86639.1067, 'IoTeX-staking': 26601.94981, 'IoTeX-pool2': 86639.1067, 'staking': 26601.94981}"
+480,BSCStation,Dexes,Binance,['BSC'],"{'BSC': 13187.85515, 'BSC-staking': 9513.88878, 'staking': 9513.88878}"
+481,CronaSwap,Dexes,Cronos,['Cronos'],"{'Cronos': 858694.43667, 'Cronos-staking': 51690.65754, 'staking': 51690.65754}"
+482,ArenaSwap,Dexes,Binance,['BSC'],"{'BSC': 17980.63316, 'BSC-staking': 12394.45608, 'staking': 12394.45608}"
+483,Nemesis DAO,Reserve Currency,Binance,['BSC'],"{'BSC': 0.44699, 'BSC-staking': 449023.84751, 'staking': 449023.84751}"
+484,Horizon Protocol,Derivatives,Binance,['BSC'],"{'BSC': 5508446.86619, 'BSC-staking': 44669.03482, 'pool2': 0, 'BSC-pool2': 0, 'staking': 44669.03482}"
+485,Standard Protocol,Dexes,Shiden,['Metis'],"{'Metis': 102986.99517, 'Ethereum': 47587.45929, 'Shiden': 82206.81013}"
+486,Component,Dexes,Ethereum,['Ethereum'],"{'BSC': 161465.74011, 'Ethereum': 232895.40497, 'Gnosis': 31954.66404, 'Ethereum-staking': 0, 'staking': 0}"
+487,Hades Swap,Dexes,Polis,['Polis'],{'Polis': 12991.23148}
+488,BunnyPark,Dexes,Binance,['BSC'],"{'BSC': 135078.60761, 'BSC-staking': 16915.44416, 'staking': 16915.44416}"
+489,SWAPP,Dexes,Cronos,['Cronos'],{'Cronos': 21159.64101}
+490,Suterusu,Services,Ethereum,['BSC'],"{'BSC': 93748.90415, 'Ethereum': 2304.4894}"
+491,Unirex Finance,Farm,Fantom,['Fantom'],"{'pool2': 12.26709, 'Fantom-staking': 0, 'Fantom-pool2': 12.26709, 'staking': 0, 'Fantom': 1047.86499}"
+492,ZYXSwap,Dexes,ZYX,['ZYX'],{'ZYX': 157715.9735}
+493,Axial,Dexes,Avalanche,['Avalanche'],"{'Avalanche': 2256685.77695, 'pool2': 17866.51793, 'Avalanche-pool2': 17866.51793}"
+494,KLend,Lending,Binance,['BSC'],"{'OKExChain': 37004.29103, 'pool2': 3353.8139, 'BSC-borrowed': 12014.26109, 'BSC-pool2': 1730.92465, 'BSC': 47679.97411, 'borrowed': 76539.43081, 'OKExChain-borrowed': 64525.16973, 'OKExChain-pool2': 1622.88925}"
+495,PhotonSwap Finance,Dexes,Cronos,['Cronos'],"{'Kava': 840.49339, 'Cronos': 232261.26931, 'Evmos': 8.72648}"
+496,Talent Protocol,Services,Celo,['Celo'],{'Celo': 0.00837}
+497,Demeter,Lending,Heco,['BSC'],"{'BSC': 278922.1319, 'Heco': 37453.24782}"
+498,Alchemix,Synthetics,Ethereum,['Ethereum'],"{'Optimism': 364775.19686, 'Ethereum': 49696544.48621, 'Ethereum-staking': 8006623.18192, 'staking': 8006623.18192, 'Fantom': 103347.48182}"
+499,AxeDAO,Reserve Currency,Ethereum,['Ethereum'],"{'Ethereum': 0, 'Ethereum-staking': 0, 'staking': 0}"
+500,xExchange,Dexes,Elrond,['MultiversX'],"{'MultiversX-staking': 67406063.32691, 'MultiversX': 74358380.25672, 'staking': 67406063.32691}"
+501,Risq Protocol,Options,Binance,['BSC'],{'BSC': 416.3467}
+502,AliensFarm,Dexes,Tezos,['Tezos'],{'Tezos': 1744.06632}
+503,Babylon Finance,Indexes,Ethereum,['Ethereum'],"{'Ethereum': 144871.71933, 'Ethereum-staking': 2.47936, 'staking': 2.47936}"
+504,Piggybank DAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 26827.17492, 'staking': 26827.17492}"
+505,Snowdog,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0.29171, 'Avalanche-staking': 0, 'staking': 0}"
+506,Yoshi Exchange,Dexes,Fantom,['Fantom'],"{'BSC': 553035.19404, 'Fantom': 7644669.6114}"
+507,Reverse,Reserve Currency,Harmony,['Harmony'],"{'Harmony-staking': 0, 'Harmony': 0, 'staking': 0}"
+508,GIBXSwap,Dexes,Binance,['BSC'],"{'BSC': 501953.2429, 'BSC-staking': 237998.34346, 'staking': 237998.34346}"
+509,MintSwap,Services,Avalanche,['Avalanche'],{'Avalanche': 1475.76234}
+510,BSCSwap,Dexes,Binance,['BSC'],"{'BSC': 2660901.32447, 'BSC-staking': 0, 'staking': 0}"
+511,Unilend,Lending,Ethereum,['Polygon'],"{'BSC': 276.62776, 'Ethereum': 310333.07965, 'Polygon': 406279.49721}"
+512,DeerFi,Lending,Ethereum,['Ethereum'],{'Ethereum': 494.51007}
+513,SafeOHM,Reserve Currency,Binance,['BSC'],"{'BSC': 0, 'BSC-staking': 0, 'staking': 0}"
+514,LumenSwap,Dexes,Stellar,['Stellar'],{'Stellar': 6126981.84}
+515,SmartDEX,Dexes,Polygon,['Polygon'],{'Polygon': 287839.47844}
+516,CorgiSwap,Dexes,Binance,['BSC'],"{'BSC': 23416.1023, 'BSC-staking': 32000.09501, 'staking': 32000.09501}"
+517,FLRX,Dexes,Songbird,['Songbird'],{'Songbird': 2215061.51517}
+518,1BCH,Dexes,SmartBCH,['smartBCH'],"{'smartBCH-staking': 2071.20116, 'smartBCH': 10913.97548, 'staking': 2071.20116}"
+519,SwapperChan,Dexes,Boba,['Boba'],{'Boba': 23043.31549}
+520,Jade Protocol,Reserve Currency,Binance,['Ethereum'],{'Ethereum': 0}
+521,MooniSwap,Dexes,Ethereum,['Ethereum'],{'Ethereum': 432652.83536}
+522,8ightDAO,Reserve Currency,Harmony,['Harmony'],"{'Harmony-staking': 0, 'Harmony': 0, 'staking': 0}"
+523,OneDAO Finance,Reserve Currency,Harmony,['Harmony'],"{'Harmony-staking': 0, 'Harmony': 0.00229, 'staking': 0}"
+524,SmolSwap,Dexes,Cronos,['Cronos'],"{'Cronos': 2771.83619, 'Cronos-staking': 206.51291, 'staking': 206.51291}"
+525,BeGlobal Finance,Dexes,Binance,['BSC'],"{'BSC': 12320.78835, 'BSC-staking': 0, 'staking': 0}"
+526,KwikSwap,Dexes,Ethereum,['Ethereum'],"{'Shiden-staking': 0, 'BSC': 6765.1184, 'Ethereum': 50050.05447, 'Shiden': 12286.74316, 'Ethereum-staking': 0, 'Polygon': 13858.9482, 'Polygon-staking': 0, 'staking': 0}"
+527,Kimochi,Services,Binance,['BSC'],"{'BSC': 2404.03414, 'BSC-staking': 0, 'pool2': 568.68377, 'BSC-pool2': 568.68377, 'staking': 0}"
+528,HSwap,Dexes,Heco,['Heco'],{'Heco': 44163.50561}
+529,MiniSwap,Dexes,Ethereum,['Ethereum'],{'Ethereum': 110864.31315}
+530,Typhoon Cash,Privacy,Ethereum,['Ethereum'],{'Ethereum': 30208.32}
+531,TangoSwap,Dexes,SmartBCH,['smartBCH'],"{'smartBCH-staking': 61801.282, 'smartBCH': 805630.322, 'staking': 61801.282}"
+532,CyborgSwap,Dexes,Cronos,['Cronos'],"{'Cronos': 65576.35961, 'Cronos-staking': 7930.93451, 'staking': 7930.93451}"
+533,Lobis,Reserve Currency,Ethereum,['Ethereum'],"{'Ethereum': 0, 'Ethereum-staking': 0, 'staking': 0}"
+534,DEUS Finance,CDP,Ethereum,['Fantom'],"{'Ethereum': 6447.37734, 'Polygon': 0, 'Fantom': 2070006.55076}"
+535,Fortune DAO,Reserve Currency,Cronos,['Cronos'],"{'Cronos': 15929.31931, 'Cronos-staking': 14568.71185, 'staking': 14568.71185}"
+536,Mesher,Lending,Klaytn,['Ethereum'],"{'Ethereum': 1248510.0299, 'Ethereum-staking': 0, 'Klaytn': 343626.97914, 'staking': 0}"
+537,Impossible Finance,Launchpad,Binance,['BSC'],"{'Kava': 1.50934, 'OKExChain': 1080.66167, 'Moonbeam': 0.00018, 'BSC': 683486.05703, 'Boba': 0.08885, 'Aurora': 35877.61528, 'BSC-staking': 399925.62552, 'Avalanche': 4.70624, 'staking': 399925.62552}"
+538,Kronos DAO,Reserve Currency,Klaytn,['Klaytn'],"{'Klaytn-staking': 543969.04648, 'Klaytn': 0.03294, 'staking': 543969.04648}"
+539,SumSwap,Dexes,Ethereum,['Ethereum'],{'Ethereum': 61341.26037}
+540,FLRLoans,CDP,Songbird,['Songbird'],{'Songbird': 2722.64107}
+541,VampireSwap,Dexes,Fantom,['Fantom'],"{'Fantom-staking': 15.79656, 'staking': 15.79656, 'Fantom': 957.22477}"
+542,Definix,Dexes,Binance,['BSC'],"{'BSC': 1670143.669, 'Klaytn': 1177033.59391}"
+543,Pika Protocol,Derivatives,Optimism,['Optimism'],{'Optimism': 13390551.08778}
+544,Klondike Finance,Synthetics,Ethereum,['Ethereum'],"{'Ethereum': 19223.1433, 'pool2': 134251.934, 'Ethereum-staking': 0, 'staking': 0, 'Ethereum-pool2': 134251.934}"
+545,Platypus Finance,Dexes,Avalanche,['Avalanche'],"{'Avalanche': 35227133.87499, 'Avalanche-staking': 2383220.36381, 'staking': 2383220.36381}"
+546,ChargeDeFi,Algo-Stables,Binance,['BSC'],"{'BSC': 3044.62176, 'BSC-staking': 3248.02786, 'pool2': 14454.80322, 'BSC-pool2': 14454.80322, 'staking': 3248.02786}"
+547,DAO Maker Vesting,Services,Ethereum,['Step'],"{'Celo-staking': 0, 'Fantom-staking': 0, 'Step': 0, 'Polygon-vesting': 368347.06572, 'Fantom-vesting': 4947.00966, 'BSC': 0, 'Ethereum': 0, 'BSC-staking': 0, 'vesting': 25473322.903, 'Ethereum-staking': 128177334.96255, 'Celo': 0, 'Celo-vesting': 15052.89724, 'BSC-vesting': 5637689.00188, 'Fantom': 0, 'staking': 128177334.96255, 'Step-vesting': 6553210.55772, 'Ethereum-vesting': 12894076.37078, 'Step-staking': 0, 'Polygon': 0, 'Polygon-staking': 0}"
+548,LeonicornSwap,Dexes,Binance,['BSC'],"{'BSC': 30638.05997, 'BSC-staking': 0, 'staking': 0}"
+549,Oddz,Options,Binance,['Avalanche'],"{'pool2': 106624.12869, 'BSC-pool2': 53312.06434, 'BSC': 6.37663, 'BSC-staking': 24287.26752, 'Avalanche': 142861.85259, 'Avalanche-staking': 8072.24312, 'Avalanche-pool2': 53312.06434, 'staking': 32359.51064}"
+550,Metaversepro,Reserve Currency,Binance,['BSC'],"{'BSC': 0, 'BSC-staking': 10246.00313, 'staking': 10246.00313}"
+551,Fortress,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 18385.27608, 'Avalanche-staking': 5661.80656, 'staking': 5661.80656}"
+552,RaDao,Reserve Currency,Binance,['BSC'],"{'BSC': 0, 'BSC-staking': 131.65682, 'staking': 131.65682}"
+553,Maximizer,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 1.15196, 'Avalanche-staking': 0, 'staking': 0}"
+554,Xensa,Lending,OKExChain,['OKExChain'],{'OKExChain': 31.53485}
+555,Nidhi-Dao,Reserve Currency,Polygon,['Polygon'],{'Polygon': 0}
+556,CerberusDAO,Reserve Currency,Ethereum,['Ethereum'],"{'Ethereum': 6528.00024, 'Ethereum-staking': 0, 'staking': 0}"
+557,Pidao Finance,Reserve Currency,Binance,['BSC'],"{'BSC': 1.16512, 'BSC-staking': 0, 'staking': 0}"
+558,Genesis Finance,Dexes,Cronos,['Cronos'],"{'Cronos': 1409.50896, 'pool2': 22.98568, 'Cronos-pool2': 22.98568, 'Cronos-staking': 0, 'staking': 0}"
+559,Manifest,Services,Ethereum,['Ethereum'],"{'Ethereum': 0.12448, 'Ethereum-staking': 0, 'staking': 0}"
+560,R U Generous,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 793041.63818, 'staking': 793041.63818}"
+561,Soda Protocol,Lending,Solana,['Solana'],{'Solana': 1054.7811}
+562,KnightSwap Finance,Dexes,Binance,['BSC'],"{'BSC': 7433153.4595, 'BSC-staking': 580563.54294, 'Fantom-staking': 248250.94717, 'staking': 828814.49011, 'Fantom': 937918.28182}"
+563,Shinobi,Dexes,Ubiq,['Ubiq'],{'Ubiq': 297005.59108}
+564,4Swap,Dexes,Mixin,['Mixin'],{'Mixin': 63395123.88342}
+565,FlatQube,Dexes,Everscale,['Everscale'],{'Everscale': 7869157.03336}
+566,Nearpad,Dexes,Aurora,['Aurora'],{'Aurora': 401983.67148}
+567,Buffer Finance,Options,Binance,['Arbitrum'],"{'Arbitrum-staking': 6666076.10257, 'Arbitrum': 1917290.02123, 'staking': 6666076.10257}"
+568,Swarm Markets,Dexes,Ethereum,['Ethereum'],"{'Ethereum': 497244.04182, 'Polygon': 313212.80324}"
+569,Vexchange,Dexes,VeChain,['VeChain'],{'VeChain': 1359927.06207}
+570,MoonDao,Reserve Currency,Moonriver,['Moonriver'],"{'Moonriver-staking': 0, 'Moonriver': 77.30392, 'staking': 0}"
+571,DeHive,Indexes,Ethereum,['Ethereum'],"{'pool2': 17090.04315, 'Polygon-pool2': 6385.19644, 'Gnosis-pool2': 4505.2874, 'BSC-pool2': 6192.41867, 'Ethereum-pool2': 7.14064, 'BSC': 36500.17931, 'Ethereum': 53303.32357, 'Gnosis': 9022.26206, 'BSC-staking': 16114.41557, 'Ethereum-staking': 17187.96484, 'Polygon': 6385.19644, 'Polygon-staking': 15553.02109, 'Gnosis-staking': 3999.45587, 'staking': 52854.85737}"
+572,Drift,Derivatives,Solana,['Solana'],{'Solana': 5341858.82004}
+573,StellarX,Dexes,Stellar,['Stellar'],{}
+574,XEUS,Reserve Currency,Binance,['BSC'],"{'BSC': 515369.99496, 'BSC-staking': 72047.73762, 'staking': 72047.73762}"
+575,TaiChi,Reserve Currency,Binance,['BSC'],"{'BSC': 8429.19629, 'BSC-staking': 0, 'staking': 0}"
+576,Omicron,Reserve Currency,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 0, 'Arbitrum': 20312.34495, 'staking': 0}"
+577,WingSwap,Dexes,Fantom,['Fantom'],"{'Fantom-staking': 9238.33614, 'staking': 9238.33614, 'Fantom': 214560.26371}"
+578,Tornadao,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 12.73094, 'Avalanche-staking': 0, 'staking': 0}"
+579,ChickenSwap,Dexes,Ethereum,['Ethereum'],"{'Ethereum': 203846.55394, 'pool2': 1383.73533, 'Ethereum-staking': 6241.76808, 'staking': 6241.76808, 'Ethereum-pool2': 1383.73533}"
+580,PartySwap,Dexes,Avalanche,['Avalanche'],"{'Avalanche': 20614.20285, 'Avalanche-staking': 317.0523, 'staking': 317.0523}"
+581,Luxor Money,Reserve Currency,Fantom,['Fantom'],"{'Fantom-staking': 36973.35608, 'staking': 36973.35608, 'Fantom': 71367.38343}"
+582,WannaSwap,Dexes,Aurora,['Aurora'],"{'Aurora-staking': 11988.58958, 'Aurora': 227544.72151, 'staking': 11988.58958}"
+583,VikingsFinance,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 0, 'staking': 0}"
+584,GalaxyGoogle DAO,Reserve Currency,Avalanche,['BSC'],"{'BSC': 20465.60199, 'BSC-staking': 0, 'Avalanche': 0.78208, 'Avalanche-staking': 0, 'staking': 0}"
+585,Mobius Finance,Synthetics,Polygon,['Polygon'],"{'Polygon': 58859.53001, 'pool2': 27361.02093, 'Polygon-pool2': 27361.02093, 'Polygon-staking': 35824.25656, 'staking': 35824.25656}"
+586,KryptoDex,Dexes,Cronos,['Cronos'],"{'Cronos': 35443.05116, 'Cronos-staking': 854.51215, 'staking': 854.51215}"
+587,MidasDAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 0, 'staking': 0}"
+588,O2 DAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 170605.97292, 'Avalanche-staking': 14293.36782, 'staking': 14293.36782}"
+589,Life DAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 97.48968, 'Avalanche-staking': 0, 'staking': 0}"
+590,OCP Finance,Lending,Binance,['BSC'],"{'BSC': 22799.03619, 'BSC-borrowed': 0.42839, 'borrowed': 0.42839}"
+591,REX Staking,Lending,Telos,['Telos'],{'Telos': 27603988.69848}
+592,Giza DAO,Reserve Currency,Fantom,['Fantom'],"{'Fantom-staking': 57134.65106, 'staking': 57134.65106, 'Fantom': 0}"
+593,YokaiSwap,Dexes,Godwoken,['GodwokenV1'],"{'Godwoken': 1180524.49141, 'GodwokenV1-staking': 317291.80265, 'GodwokenV1': 3205936.96539, 'staking': 317291.80265}"
+594,WagyuSwap,Dexes,Velas,['Velas'],{'Velas': 2083112.31432}
+595,Thorstarter,Launchpad,Ethereum,['Ethereum'],"{'Ethereum': 159746.63198, 'Ethereum-staking': 48271.43049, 'staking': 48271.43049}"
+596,DefySwap,Dexes,Fantom,['Fantom'],"{'Echelon': 0, 'Fantom-staking': 10.21352, 'staking': 10.21352, 'Fantom': 4265.39397}"
+597,MM Finance Cronos,Dexes,Cronos,['Cronos'],"{'Cronos': 11515227.92097, 'Cronos-staking': 51497.53137, 'staking': 51497.53137}"
+598,SafeSwap,Dexes,Polygon,['Polygon'],"{'Ethereum': 7223.19588, 'Polygon': 16132.09888}"
+599,Soy Finance,Dexes,Callisto,['Callisto'],"{'BSC': 0.15578, 'Bittorrent': 26258.64356, 'Callisto': 1102298.18488, 'EthereumClassic': 112757.7396}"
+600,CheeseDAO,Reserve Currency,Harmony,['Harmony'],{'Harmony': 0}
+601,Ice DAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 36.48451, 'staking': 36.48451}"
+602,Papa DAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 13.10962, 'Avalanche-staking': 0, 'staking': 0}"
+603,Pumpkin DAO,Reserve Currency,Fantom,['Fantom'],"{'Fantom-staking': 2335.11913, 'staking': 2335.11913, 'Fantom': 0}"
+604,Stargate Finance,Reserve Currency,Binance,['BSC'],"{'BSC': 217604.99283, 'BSC-staking': 40654.25866, 'staking': 40654.25866}"
+605,TempoDAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 3.22915, 'Avalanche-staking': 0, 'staking': 0}"
+606,Euler,Lending,Ethereum,['Ethereum'],"{'Ethereum': 10157405.09163, 'Ethereum-borrowed': 0, 'borrowed': 0}"
+607,Drops,NFT Lending,Ethereum,['Ethereum'],"{'pool2': 144313.27159, 'Ethereum-pool2': 144313.27159, 'Ethereum': 2423790.1614, 'Ethereum-staking': 47180.95246, 'Ethereum-borrowed': 572266.28306, 'borrowed': 572266.28306, 'staking': 47180.95246}"
+608,Atlas USV,Reserve Currency,Polygon,['Polygon'],"{'Polygon': 9468.03901, 'Polygon-staking': 2600315.61361, 'staking': 2600315.61361}"
+609,Gains Network,Derivatives,Polygon,['Arbitrum'],"{'pool2': 363827.51018, 'Polygon-pool2': 363827.51018, 'Arbitrum-staking': 127873430.42305, 'Polygon': 17126372.63161, 'Polygon-staking': 51734115.78377, 'Arbitrum': 34868010.06645, 'staking': 179607546.20682}"
+610,OpenDAO,Algo-Stables,Binance,['Ethereum'],"{'BSC': 3779.27826, 'Ethereum': 9232.10113, 'pool2': 4777.77287, 'Ethereum-pool2': 4777.77287}"
+611,Arkadiko,CDP,Stacks,['Stacks'],{'Stacks': 2258195.01397}
+612,Hermes Defi,Yield,Polygon,['Harmony'],"{'Harmony-staking': 0, 'Harmony': 3197.04111, 'staking': 0}"
+613,Xmas Past,Farm,Fantom,['Fantom'],"{'pool2': 23.96612, 'Fantom-staking': 128.50403, 'Fantom-pool2': 23.96612, 'staking': 128.50403, 'Fantom': 272.7418}"
+614,Paraluni Dex,Dexes,Binance,['BSC'],{'BSC': 769330.14107}
+615,Starterra,Launchpad,Terra,['Terra Classic'],{'Terra Classic': 0}
+616,Astroport,Dexes,Terra,['Terra2'],"{'Terra Classic': 1763293.79206, 'Terra2': 15899364.90396}"
+617,TopShelf,CDP,Fantom,['BSC'],"{'BSC': 57044.06823, 'Avalanche': 47700.04822, 'Fantom': 55305.63354}"
+618,Percent Finance,Lending,Ethereum,['Ethereum'],"{'pool2': 0, 'Ethereum-pool2': 0, 'Ethereum': 487465.73951, 'Ethereum-staking': 0, 'Ethereum-borrowed': 45.56372, 'borrowed': 45.56372, 'staking': 0}"
+619,Algofi Lend,Lending,Algorand,['Algorand'],"{'Algorand-borrowed': 12860610.8517, 'Algorand': 100341688.54877, 'Algorand-staking': 1214738.82774, 'borrowed': 12860610.8517, 'staking': 1214738.82774}"
+620,SpicySwap,Dexes,Tezos,['Tezos'],"{'Tezos-staking': 16568.45245, 'Tezos': 166965.00552, 'staking': 16568.45245}"
+621,OneSwap,Dexes,Ethereum,['CSC'],"{'BSC': 1466.92695, 'Ethereum': 374036.38328, 'CSC': 585302.59268, 'Tron': 6547.84486}"
+622,RagnarokDAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 0, 'staking': 0}"
+623,Mercurity,Dexes,Ethereum,['Ethereum'],{'Ethereum': 10134.7867}
+624,Solana Farm,Staking,Binance,['BSC'],"{'BSC': 332.51122, 'BSC-staking': 0, 'pool2': 105.11499, 'BSC-pool2': 105.11499, 'staking': 0}"
+625,SunflowerSwap,Farm,Ethereum,['Moonbeam'],{'Moonbeam': 371.19825}
+626,Ouchi Finance,Dexes,Ethereum,['Ethereum'],{'Ethereum': 15881001.03662}
+627,UnusDao,Reserve Currency,Binance,['BSC'],"{'BSC': 0, 'BSC-staking': 0, 'staking': 0}"
+628,Globiance,Dexes,XDC,['XDC'],{}
+629,LeagueDAO,Reserve Currency,Ethereum,['Ethereum'],"{'Ethereum': 157953.33297, 'Ethereum-staking': 61266.24939, 'staking': 61266.24939}"
+630,Vortex DAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 44.6906, 'Avalanche-staking': 0, 'staking': 0}"
+631,Redacted Protocol,Staking,Ethereum,['Ethereum'],"{'Ethereum': 13757936.00408, 'Ethereum-staking': 52092720.58969, 'staking': 52092720.58969}"
+632,Linear Finance,Derivatives,Binance,['BSC'],"{'BSC': 10323451.74493, 'pool2': 142185.83986, 'BSC-pool2': 142185.83986}"
+633,CakeDAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 0, 'staking': 0}"
+634,Chest Finance,Options Vault,Solana,['Solana'],{'Solana': 766393.57672}
+635,Embr Finance,Dexes,Avalanche,['Avalanche'],{'Avalanche': 9539.81908}
+636,Ideamarket,Derivatives,Arbitrum,['Arbitrum'],{'Arbitrum': 164632.2682}
+637,Dios Finance,Reserve Currency,Binance,['BSC'],"{'BSC': 0, 'BSC-staking': 0, 'staking': 0}"
+638,Polkamarkets,Prediction Market,Moonriver,['Ethereum'],"{'Moonriver': 3274.98176, 'Moonbeam': 1728.23962, 'Moonriver-staking': 1091.86894, 'Ethereum': 9213.67528, 'Moonbeam-staking': 51.22431, 'Ethereum-staking': 3.48042, 'staking': 1146.57366}"
+639,IFSwap,Dexes,CSC,['CSC'],"{'CSC': 5447.21143, 'CSC-staking': 7060.35474, 'staking': 7060.35474}"
+640,AutoShark,Dexes,Binance,['BSC'],"{'BSC': 400104.41483, 'BSC-staking': 30380.95801, 'staking': 30380.95801}"
+641,Keep3r Network,Derivatives,Ethereum,['Ethereum'],"{'Ethereum': 24192314.76114, 'Ethereum-staking': 6898473.07766, 'Ethereum-borrowed': 5542311.31732, 'borrowed': 5542311.31732, 'staking': 6898473.07766}"
+642,SpiritDAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 1336.94306, 'Avalanche-staking': 103.83361, 'staking': 103.83361}"
+643,ZodiacDAO,Reserve Currency,Binance,['BSC'],"{'BSC': 0, 'BSC-staking': 0, 'staking': 0}"
+644,Umbria Network,Cross Chain,Ethereum,['Ethereum'],"{'pool2': 523840.91531, 'Polygon-pool2': 8354.71089, 'Ethereum-pool2': 515486.20442, 'Ethereum': 0, 'Ethereum-staking': 14231.51215, 'Polygon': 0, 'Polygon-staking': 0, 'staking': 14231.51215}"
+645,Pala,Dexes,Klaytn,['Klaytn'],{'Klaytn': 631357.76593}
+646,Thetanuts Finance,Options Vault,Ethereum,['Ethereum'],"{'BSC': 57397.47725, 'Boba': 88403.25162, 'Ethereum': 8148352.16613, 'Aurora': 31417.25988, 'Avalanche': 39665.32675, 'Polygon': 516498.86132, 'Fantom': 860202.63005}"
+647,Gearbox,Leveraged Farming,Ethereum,['Ethereum'],{'Ethereum': 91760583.05646}
+648,Cashio,CDP,Solana,['Solana'],{'Solana': 0.06657}
+649,Zencha Finance,Dexes,Boba,['Boba'],{'Boba': 85847.19588}
+650,Spicy DAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 0.03751, 'staking': 0.03751}"
+651,Sperax USD,Algo-Stables,Arbitrum,['Arbitrum'],"{'Ethereum': 0, 'Ethereum-staking': 74781.06699, 'Arbitrum-staking': 1427974.90921, 'Arbitrum': 1569478.9538, 'staking': 1502755.9762}"
+652,KACO Finance,Dexes,Binance,['Shiden'],"{'BSC': 14647.65053, 'BSC-staking': 4002.03481, 'Shiden': 51422.63716, 'Shiden-staking': 0, 'staking': 4002.03481}"
+653,Spectrum Finance,Dexes,Ergo,['Ergo'],{'Ergo': 1415748.03438}
+654,AfraSwap,Dexes,Binance,['BSC'],"{'BSC': 403.87837, 'BSC-staking': 1672.13371, 'staking': 1672.13371}"
+655,SuperFarm,Services,Ethereum,['Ethereum'],"{'Ethereum': 99391.29453, 'pool2': 4589273.5175, 'Ethereum-staking': 6424405.7665, 'staking': 6424405.7665, 'Ethereum-pool2': 4589273.5175}"
+656,Niob Finance,Dexes,Binance,['BSC'],"{'BSC': 199376.38944, 'BSC-staking': 4381608.42861, 'pool2': 533813.35484, 'BSC-pool2': 533813.35484, 'staking': 4381608.42861}"
+657,Templar DAO,Reserve Currency,Binance,['Moonriver'],"{'Moonriver': 9596.98735, 'Harmony-staking': 122705.0828, 'Harmony': 4021.39115, 'Moonriver-staking': 147768.84712, 'BSC': 0, 'BSC-staking': 234080.86502, 'staking': 504554.79494}"
+658,Ara Finance,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 2306.72862, 'staking': 2306.72862}"
+659,ValhallaDAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 2e-05, 'Avalanche-staking': 384.26019, 'staking': 384.26019}"
+660,SecureDAO,Reserve Currency,Fantom,['Fantom'],"{'Fantom-staking': 34652.73534, 'staking': 34652.73534, 'Fantom': 0}"
+661,SnowCatDAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 1238.8556, 'staking': 1238.8556}"
+662,AgarthaDAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 0, 'staking': 0}"
+663,Bourbon DAO,Reserve Currency,Binance,['BSC'],"{'BSC': 1.0014, 'BSC-staking': 1705.12474, 'staking': 1705.12474}"
+664,WaterLoan,Lending,CSC,['CSC'],"{'CSC': 1070.39294, 'CSC-borrowed': 1041872.5703, 'smartBCH': 6668.44474, 'borrowed': 1045617.54392, 'smartBCH-borrowed': 3744.97363}"
+665,Asgard Dao,Reserve Currency,Binance,['BSC'],"{'BSC': 463.65857, 'BSC-staking': 0, 'staking': 0}"
+666,Mama DAO,Reserve Currency,Polygon,['Polygon'],"{'Polygon': 12.73122, 'Polygon-staking': 2e-05, 'staking': 2e-05}"
+667,PirateDAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 809.16256, 'Avalanche-staking': 1044.1735, 'staking': 1044.1735}"
+668,Tectonic,Lending,Cronos,['Cronos'],"{'Cronos-borrowed': 66948976.53259, 'Cronos': 125843326.96632, 'borrowed': 66948976.53259}"
+669,VultureSwap,Dexes,Cronos,['Cronos'],{'Cronos': 3371.74538}
+670,Crow Finance,Dexes,Cronos,['Cronos'],{'Cronos': 101662.16621}
+671,DuckyDeFi,Dexes,Cronos,['Cronos'],{'Cronos': 52170.46293}
+672,Rose,Dexes,Aurora,['Aurora'],"{'Aurora-staking': 40218.82435, 'Aurora': 126011.82894, 'borrowed': 15187.11158, 'Aurora-borrowed': 15187.11158, 'staking': 40218.82435}"
+673,SunFlower Finance,Dexes,Binance,['BSC'],"{'BSC': 278.40081, 'BSC-staking': 0, 'pool2': 13648.33693, 'BSC-pool2': 13648.33693, 'staking': 0}"
+674,Tethys AMM,Dexes,Metis,['Metis'],"{'Metis': 1411157.77995, 'Metis-staking': 34479.49604, 'staking': 34479.49604}"
+675,NetSwap,Dexes,Metis,['Metis'],{'Metis': 6253909.64085}
+676,Avalps,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0.84301, 'Avalanche-staking': 0.00264, 'staking': 0.00264}"
+677,Amogus DAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 45.12393, 'Avalanche-staking': 445.73823, 'staking': 445.73823}"
+678,WraithSwap,Dexes,Fantom,['Fantom'],"{'Fantom-staking': 3151.14635, 'staking': 3151.14635, 'Fantom': 5850.90581}"
+679,RobiniaSwap,Dexes,Binance,['BSC'],"{'BSC': 27958.94453, 'BSC-staking': 0, 'pool2': 410.26064, 'BSC-pool2': 410.26064, 'staking': 0}"
+680,SocialSwap,Dexes,Tron,['Tron'],{}
+681,NiiFi,Dexes,Nahmii,['Nahmii'],{'Nahmii': 1102724.16685}
+682,Friktion,Options Vault,Solana,['Solana'],{'Solana': 1933358.1293}
+683,Nomiswap,Dexes,Binance,['BSC'],"{'BSC': 8521213.638, 'BSC-staking': 389849.06392, 'staking': 389849.06392}"
+684,Trick or Treat Farm,Farm,Fantom,['Fantom'],"{'pool2': 130.16419, 'Fantom-staking': 0, 'Fantom-pool2': 130.16419, 'staking': 0, 'Fantom': 33031.5852}"
+685,DeepSeaDAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0.44728, 'Avalanche-staking': 4643.40073, 'staking': 4643.40073}"
+686,Swing DAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0.02078, 'Avalanche-staking': 0.00045, 'staking': 0.00045}"
+687,DefiChain DEX,Dexes,DefiChain,['DefiChain'],{'DefiChain': 241777381.3921}
+688,DefiChain Loans,Synthetics,DefiChain,['DefiChain'],{'DefiChain': 92679956.21576}
+689,MetaReserve,Reserve Currency,Binance,['BSC'],"{'BSC': 0, 'BSC-staking': 2410.86575, 'staking': 2410.86575}"
+690,PsyOptions,Options,Solana,['Solana'],{'Solana': 2390238.3511}
+691,AuroraSwap,Dexes,Aurora,['Aurora'],"{'Aurora-staking': 506.71087, 'Aurora': 271905.17437, 'staking': 506.71087}"
+692,Xenophon,Reserve Currency,Binance,['BSC'],"{'BSC': 0, 'BSC-staking': 3484.98038, 'staking': 3484.98038}"
+693,Vesq,Reserve Currency,Polygon,['Polygon'],"{'Polygon': 2.46809, 'Polygon-staking': 196372.08574, 'staking': 196372.08574}"
+694,Tropical Finance,Dexes,SmartBCH,['smartBCH'],"{'smartBCH-staking': 8328.73263, 'smartBCH': 25447.18741, 'staking': 8328.73263}"
+695,Whale Loans,Reserve Currency,Binance,['BSC'],"{'BSC': 0, 'BSC-staking': 0, 'staking': 0}"
+696,ExinSwap,Dexes,Mixin,['Mixin'],{'Mixin': 532635.84}
+697,CyberTime,Services,Binance,['BSC'],"{'BSC': 36047.09541, 'BSC-staking': 0, 'pool2': 8903.53463, 'BSC-pool2': 8903.53463, 'staking': 0}"
+698,MarginSwap,Dexes,Ethereum,['Avalanche'],"{'BSC': 909.18029, 'Ethereum': 134282.97912, 'Avalanche': 2489211.82637, 'Polygon': 79730.45177}"
+699,EverRise,Services,Ethereum,['Ethereum'],"{'pool2': 1594372.36689, 'Fantom-staking': 434695.63628, 'Polygon-pool2': 543954.98558, 'BSC-pool2': 411066.52236, 'Ethereum-pool2': 0, 'BSC': 2882338.43323, 'Ethereum': 2934073.01816, 'BSC-staking': 3499634.76555, 'Avalanche': 23393.39202, 'Avalanche-staking': 482085.74034, 'Ethereum-staking': 2328918.6275, 'Polygon': 32517.98742, 'Polygon-staking': 1806681.94366, 'Avalanche-pool2': 278090.2364, 'Fantom-pool2': 361260.62255, 'Fantom': 13106.21121, 'staking': 8552016.71332}"
+700,Mimas Finance,Lending,Cronos,['Cronos'],"{'Cronos-borrowed': 578145.08212, 'Cronos': 1905878.54872, 'Cronos-staking': 5669.89633, 'borrowed': 578145.08212, 'staking': 5669.89633}"
+701,Magnet DAO,Algo-Stables,Avalanche,['Avalanche'],"{'Avalanche': 0.66599, 'Avalanche-staking': 0, 'staking': 0}"
+702,Katana,Options Vault,Solana,['Solana'],{'Solana': 2287702.17127}
+703,PolkaEx,Dexes,Ethereum,['Astar'],"{'Astar-staking': 5456.29476, 'Shiden-staking': 6816.93732, 'BSC': 130.89155, 'Ethereum': 9.2426, 'Astar': 82846.59734, 'BSC-staking': 280.29528, 'Shiden': 7502.61488, 'Polygon': 0, 'Polygon-staking': 61.20591, 'staking': 12614.73327}"
+704,OBSwap,Dexes,EOS,['EOS'],{'EOS': 1978.63852}
+705,Sentre,Dexes,Solana,['Solana'],{}
+706,WagmiDAO,Reserve Currency,Harmony,['Harmony'],"{'Harmony-staking': 0, 'Harmony': 40102.40862, 'staking': 0}"
+707,Across,Cross Chain,Ethereum,['Ethereum'],{'Ethereum': 50621916.19718}
+708,OpenLeverage,Dexes,Ethereum,['BSC'],"{'BSC': 3086196.10807, 'Ethereum': 29052.07871, 'KCC': 82564.80593}"
+709,ThorusFi,Dexes,Avalanche,['Avalanche'],"{'Moonbeam-staking': 1182.51175, 'Avalanche': 28705.9534, 'Avalanche-staking': 56600.24812, 'staking': 57782.75986, 'Moonbeam': 2749.2469}"
+710,SamoDAO,Reserve Currency,Binance,['BSC'],"{'BSC': 0.42085, 'BSC-staking': 683.93991, 'staking': 683.93991}"
+711,Karma DAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 147141.71796, 'staking': 147141.71796}"
+712,Farm Hero,Gaming,Binance,['Polygon'],"{'OKExChain-staking': 0, 'OKExChain': 559.83999, 'pool2': 10275.15922, 'Polygon-pool2': 0, 'BSC-pool2': 10275.15922, 'BSC': 913.57231, 'BSC-staking': 24035.34255, 'Polygon': 2750.14304, 'Polygon-staking': 4112.07989, 'OKExChain-pool2': 0, 'staking': 28147.42243}"
+713,Sierra,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 843.06177, 'Avalanche-staking': 17946.28661, 'staking': 17946.28661}"
+714,Trapeza Protocol,Reserve Currency,Binance,['BSC'],"{'BSC': 0, 'BSC-staking': 66.40737, 'staking': 66.40737}"
+715,Argano,Synthetics,Polygon,['Polygon'],{'Polygon': 3446.30638}
+716,Photon Protocol,Reserve Currency,Binance,['BSC'],"{'BSC': 1363.44676, 'BSC-staking': 0.28159, 'staking': 0.28159}"
+717,TiPiDao,Reserve Currency,Binance,['BSC'],"{'BSC': 7023.21538, 'BSC-staking': 2640.97152, 'staking': 2640.97152}"
+718,VoltSwap,Dexes,Meter,['Theta'],"{'Theta': 439584.19603, 'Meter': 63119.32242}"
+719,Empyrean DAO,Reserve Currency,Aurora,['Aurora'],"{'Aurora-staking': 272711.1479, 'Aurora': 0, 'staking': 272711.1479}"
+720,SashimiDAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 1.452, 'Avalanche-staking': 0, 'staking': 0}"
+721,Creditum,Algo-Stables,Fantom,['Fantom'],"{'pool2': 2169.54267, 'Fantom-staking': 14.17691, 'Fantom-pool2': 2169.54267, 'staking': 14.17691, 'Fantom': 22500.86736}"
+722,Agile Finance,Lending,Cronos,['Cronos'],"{'Cronos-borrowed': 505996.10364, 'Cronos': 5502.4827, 'borrowed': 505996.10364}"
+723,Minotaur Money,Reserve Currency,Cronos,['Cronos'],"{'Cronos': 0.00517, 'Cronos-staking': 7697.75522, 'staking': 7697.75522}"
+724,DuneSwap,Dexes,Oasis,['Oasis'],{'Oasis': 39785.88977}
+725,YuzuSwap,Dexes,Oasis,['Oasis'],{'Oasis': 2360520.83951}
+726,TerraFloki,Dexes,Terra,['Terra Classic'],{'Terra Classic': 0}
+727,Mimo,Dexes,IoTeX,['IoTeX'],{'IoTeX': 9010665.57702}
+728,StackSwap,Dexes,Stacks,['Stacks'],{}
+729,Spartan,Dexes,Binance,['BSC'],{'BSC': 942082.80054}
+730,Opyn Squeeth,Derivatives,Ethereum,['Ethereum'],{'Ethereum': 12168584.18091}
+731,Kandyland Finance,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 1390.9555, 'staking': 1390.9555}"
+732,HakuSwap,Dexes,Avalanche,['Avalanche'],"{'Avalanche': 121678.06004, 'Avalanche-staking': 7304.07528, 'staking': 7304.07528}"
+733,Solarflare,Dexes,Moonbeam,['Moonbeam'],{'Moonbeam': 182836.36821}
+734,Oin Finance,Algo-Stables,Near,['Ethereum'],"{'Ethereum': 55475.27206, 'pool2': 12423.7433, 'Near': 17477.31377, 'Harmony': 10646.68551, 'Ethereum-pool2': 12423.7433}"
+735,CrossChain Bridge,Cross Chain,Ethereum,['Ethereum'],"{'Fantom-staking': 266.27446, 'BSC': 616379.52485, 'Ethereum': 4748456.01012, 'BSC-staking': 10066.34208, 'Avalanche': 5117.69945, 'Avalanche-staking': 317.1534, 'Ethereum-staking': 2770.09783, 'Polygon': 92311.72633, 'Polygon-staking': 1907.83337, 'Fantom': 75107.77152, 'staking': 15327.70113}"
+736,Pillar,Algo-Stables,Zilliqa,['Zilliqa'],{'Zilliqa': 2282.06029}
+737,ThetaSwap,Dexes,Theta,['Theta'],{'Theta': 782204.30897}
+738,Saros,Dexes,Solana,['Solana'],{'Solana': 1371403.81956}
+739,SmartDEXBCH,Dexes,smartBCH,['smartBCH'],"{'smartBCH-staking': 7.52917, 'smartBCH': 515.02547, 'staking': 7.52917}"
+740,Immortal,Reserve Currency,Celo,['Celo'],"{'Celo-staking': 721419.26725, 'Celo': 98989.26026, 'staking': 721419.26725}"
+741,StellaSwap,Dexes,Moonbeam,['Moonbeam'],"{'Moonbeam-staking': 865830.25181, 'staking': 865830.25181, 'Moonbeam': 16632993.99107}"
+742,PERI Finance,Synthetics,Ethereum,['Polygon'],"{'BSC': 193743.492, 'Ethereum': 117436.255, 'Polygon': 633146.759}"
+743,Paprprintr,Algo-Stables,Binance,['KCC'],"{'Aurora-staking': 0, 'pool2': 1130.57397, 'Fantom-staking': 0, 'KCC': 0, 'Polygon-pool2': 1024.81181, 'BSC-pool2': 105.76215, 'BSC': 0, 'Aurora': 0, 'BSC-staking': 0, 'KCC-staking': 0, 'Polygon': 0, 'Polygon-staking': 0, 'Fantom': 0, 'staking': 0}"
+744,veDAO,Farm,Fantom,['Fantom'],"{'pool2': 9559.52551, 'Fantom-staking': 0, 'Fantom-pool2': 9559.52551, 'staking': 0, 'Fantom': 122128.17019}"
+745,Rubic,Cross Chain,Ethereum,['BSC'],"{'BSC': 0, 'Kava': 0, 'BSC-staking': 381982.86047, 'staking': 381982.86047}"
+746,Paladin DAO,Reserve Currency,Binance,['BSC'],"{'BSC': 5.68223, 'BSC-staking': 896.1784, 'staking': 896.1784}"
+747,Alphadex,Dexes,Moonriver,['Moonriver'],{'Moonriver': 342017.15759}
+748,OmniDex Swap,Dexes,Telos,['Telos'],{'Telos': 574581.9337}
+749,Crafting Finance,Synthetics,Ethereum,['Aurora'],"{'Ethereum': 1510.39487, 'Aurora': 7474.48615}"
+750,BeamSwap Classic,Dexes,Moonbeam,['Moonbeam'],"{'Moonbeam-staking': 952143.74537, 'staking': 952143.74537, 'Moonbeam': 1974840.35904}"
+751,Agora,Lending,Metis,['Metis'],"{'Metis': 189222.56573, 'Metis-borrowed': 19956051.12542, 'borrowed': 19956051.12542}"
+752,BurgerSwap,Dexes,Binance,['BSC'],"{'BSC': 911774.20689, 'BSC-staking': 58432.70907, 'staking': 58432.70907}"
+753,ZipSwap,Dexes,Optimism,['Optimism'],"{'Optimism': 203142.53366, 'Arbitrum': 796.39264}"
+754,Axion,Staking,Polygon,['Polygon'],"{'Polygon': 343750.13325, 'Polygon-staking': 2518193.70357, 'staking': 2518193.70357}"
+755,ApeDAO,Farm,Fantom,['Fantom'],"{'pool2': 15.02069, 'Fantom-staking': 0, 'Fantom-pool2': 15.02069, 'staking': 0, 'Fantom': 377.90011}"
+756,SundaeSwap,Dexes,Cardano,['Cardano'],{'Cardano': 7112575.24939}
+757,weBribe DAO,Staking,Fantom,['Fantom'],"{'pool2': 2.56784, 'Fantom-staking': 0, 'Fantom-pool2': 2.56784, 'staking': 0, 'Fantom': 22.97314}"
+758,ProtoFi,Dexes,Fantom,['Fantom'],{'Fantom': 651563.0386}
+759,Iron Bank,Lending,Ethereum,['Ethereum'],"{'Optimism': 966373.73483, 'Fantom-borrowed': 329335.72427, 'Ethereum': 21718632.45851, 'Optimism-borrowed': 303236.17677, 'Avalanche': 1327451.62301, 'Ethereum-borrowed': 40171823.33085, 'borrowed': 41700804.68512, 'Fantom': 510927.02428, 'Avalanche-borrowed': 896409.45323}"
+760,Frog Nation Farm,Farm,Fantom,['Fantom'],"{'pool2': 38.25778, 'Fantom-staking': 0, 'Fantom-pool2': 38.25778, 'staking': 0, 'Fantom': 3026.8834}"
+761,Gaia DAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 4.81277, 'Avalanche-staking': 0, 'staking': 0}"
+762,ZeroShift,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 5.34216, 'staking': 5.34216}"
+763,Moremoney,Lending,Avalanche,['Avalanche'],{'Avalanche': 886556.715}
+764,NoahArkDAO,Reserve Currency,Avalanche,['Avalanche'],"{'Avalanche': 0, 'Avalanche-staking': 527.74033, 'staking': 527.74033}"
+765,Cesta Finance,Reserve Currency,Avalanche,['Avalanche'],{'Avalanche': 35237.34482}
+766,Railgun,Privacy,Ethereum,['Ethereum'],"{'BSC': 248309.54963, 'Ethereum': 3507572.32445, 'BSC-staking': 13013254.4628, 'Ethereum-staking': 23659924.44637, 'Polygon': 101783.88596, 'Polygon-staking': 0, 'Arbitrum': 86297.90785, 'staking': 36673178.90916}"
+767,Alligator,Dexes,Avalanche,['Avalanche'],"{'Avalanche': 13912.92616, 'Avalanche-staking': 500.77304, 'staking': 500.77304}"
+768,FuryLabs Finance,Farm,Fantom,['Fantom'],"{'pool2': 119.99849, 'Fantom-staking': 95.22276, 'Fantom-pool2': 119.99849, 'staking': 95.22276, 'Fantom': 12082.26159}"
+769,Astral Farm,Farm,Fantom,['Fantom'],"{'pool2': 6.748, 'Fantom-staking': 145.07677, 'Fantom-pool2': 6.748, 'staking': 145.07677, 'Fantom': 3297.44543}"
+770,DNA Dollar,Algo-Stables,Cronos,['Cronos'],"{'Cronos': 0, 'pool2': 2576.20721, 'Cronos-pool2': 2576.20721, 'Cronos-staking': 291.38798, 'staking': 291.38798}"
+771,2omb Finance,Algo-Stables,Fantom,['Fantom'],"{'pool2': 66183.29907, 'Fantom-staking': 31959.84662, 'Fantom-pool2': 66183.29907, 'staking': 31959.84662, 'Fantom': 0}"
+772,Warp,Reserve Currency,Polygon,['Polygon'],"{'Polygon': 0, 'Polygon-staking': 0, 'staking': 0}"
+773,ThetaCash,Staking,Theta,['Theta'],{'Theta': 816620.41666}
+774,Tulip,Algo-Stables,Oasis,['Oasis'],"{'Oasis': 65990.36067, 'Oasis-staking': 0, 'staking': 0}"
+775,Degen Haus,Dexes,Fantom,['Fantom'],"{'Fantom-staking': 2118.50656, 'staking': 2118.50656, 'Fantom': 142859.03151}"
+776,WigoSwap,Dexes,Fantom,['Fantom'],"{'Fantom-staking': 3788769.33699, 'staking': 3788769.33699, 'Fantom': 5207877.06043}"
+777,Knights of Fantom,Farm,Fantom,['Fantom'],"{'pool2': 157.98692, 'Fantom-staking': 0, 'Fantom-pool2': 157.98692, 'staking': 0, 'Fantom': 702.01051}"
+778,Hubble,CDP,Solana,['Solana'],"{'Solana-staking': 890793.10161, 'Solana': 3334470.15621, 'staking': 890793.10161}"
+779,ADAX Pro,Dexes,Cardano,['Cardano'],{}
+780,Kassandra DAO,Indexes,Avalanche,['Avalanche'],{'Avalanche': 152159.60685}
+781,CapitalDEX,Dexes,Ethereum,['Ethereum'],{'Ethereum': 34912.41105}
+782,Blindex,Algo-Stables,RSK,['Rootstock'],{'Rootstock': 16049.6758}
+783,Hexal,Reserve Currency,Binance,['BSC'],"{'BSC': 0, 'BSC-staking': 19.10095, 'staking': 19.10095}"
+784,Oni Exchange,Dexes,Binance,['BSC'],"{'BSC': 3902.40116, 'BSC-staking': 531.87431, 'staking': 531.87431}"
+785,Narwhalswap,Dexes,Binance,['BSC'],{'BSC': 382057.8122}
+786,Hotfriescoin,Reserve Currency,Binance,['BSC'],{'BSC': 1872.10658}
+787,AstroSwap,Dexes,Velas,['Velas'],{'Velas': 709147.46993}
+788,Symblox,Synthetics,Velas,['Velas'],{'Velas': 10563.25472}
+789,WOWswap,Dexes,Binance,['Avalanche'],"{'Metis': 0, 'Kava': 25.43338, 'Kava-staking': 0, 'IoTeX-staking': 228.4714, 'Heco-staking': 1.0025, 'BSC': 48424.345, 'IoTeX': 34911.9477, 'Ethereum': 3743.86055, 'BSC-staking': 13001.27491, 'Heco': 151.43036, 'Avalanche': 57846.94419, 'Avalanche-staking': 553.06419, 'Ethereum-staking': 0.09458, 'Polygon': 5822.41181, 'Metis-staking': 7.85286, 'Polygon-staking': 268.44103, 'staking': 14060.20146}"
+790,Antimatter,Options,Ethereum,['BSC'],"{'Kava': 326.52234, 'BSC': 169250.87898, 'Ethereum': 21728.9967, 'Avalanche': 10954.4056, 'Ethereum-staking': 794027.05872, 'Arbitrum': 19885.58264, 'staking': 794027.05872}"
+791,Animal Farm V1,Farm,Binance,['BSC'],"{'BSC': 37518.295, 'BSC-staking': 1194.94247, 'pool2': 12735.09645, 'BSC-pool2': 12735.09645, 'staking': 1194.94247}"
+792,Sahara Exchange,Dexes,Oasis,['Oasis'],{'Oasis': 402.56639}
+793,Minimax,Staking,Binance,['BSC'],{}
+794,Maia DAO,Reserve Currency,Metis,['Metis'],{'Metis': 5421872.11429}
+795,Bright Union,Insurance,Ethereum,['Ethereum'],"{'Ethereum': 49360.79724, 'pool2': 39031.77497, 'Ethereum-staking': 51696.27006, 'staking': 51696.27006, 'Ethereum-pool2': 39031.77497}"
+796,Hermes Protocol,Dexes,Metis,['Metis'],"{'Metis': 10454827.44623, 'Metis-staking': 8202832.98887, 'staking': 8202832.98887}"
+797,Algebra DEX,Dexes,Polygon,['Polygon'],"{'Polygon': 336878.00925, 'Polygon-staking': 80708.93073, 'staking': 80708.93073}"
+798,Parasset,CDP,Ethereum,['Ethereum'],"{'Ethereum': 0.01172, 'Ethereum-staking': 4648717.9548, 'staking': 4648717.9548}"
+799,ArthSwap,Dexes,Astar,['Astar'],"{'Astar': 17335345.26719, 'Astar-staking': 18911.87463, 'staking': 18911.87463}"
+800,Kromatika,Dexes,Optimism,['Optimism'],"{'Optimism': 245348.65225, 'Optimism-staking': 14568.50593, 'Arbitrum-staking': 33461.18716, 'Ethereum': 101238.75564, 'Ethereum-staking': 48345.87892, 'Arbitrum': 123315.49585, 'staking': 96375.57202}"
+801,1Beam,Dexes,Moonbeam,['Moonbeam'],{'Moonbeam': 3105.48065}
+802,UXD,Algo-Stables,Solana,['Solana'],{'Solana': 4543351.15073}
+803,Moonwell Apollo,Lending,Moonriver,['Moonriver'],"{'Moonriver-staking': 368826.47702, 'Moonriver': 8728410.21983, 'borrowed': 9775082.24932, 'Moonriver-borrowed': 9775082.24932, 'staking': 368826.47702}"
+804,GotchiVault,Staking,Polygon,['Polygon'],{'Polygon': 3080291.08218}
+805,Solidly,Dexes,Fantom,['Fantom'],{'Fantom': 1567228.51314}
+806,Drachma,Dexes,Metis,['Metis'],"{'Metis': 8941.82856, 'Metis-borrowed': 0, 'borrowed': 0}"
+807,Tomb Swap,Dexes,Fantom,['Fantom'],{'Fantom': 7511349.34633}
+808,YieldFields,Dexes,Binance,['BSC'],{'BSC': 29192.50768}
+809,Lizard,Dexes,Oasis,['Oasis'],{'Oasis': 297721.53924}
+810,Cropper,Dexes,Solana,['Solana'],"{'Solana-staking': 207094.29937, 'Solana': 378319.2832, 'staking': 207094.29937}"
+811,Crema Finance,Dexes,Solana,['Solana'],{'Solana': 337198.59484}
+812,Savanna Finance,Algo-Stables,Cronos,['Cronos'],"{'Cronos': 1739.8941, 'pool2': 612204.95967, 'Cronos-pool2': 612204.95967, 'Cronos-staking': 422709.736, 'staking': 422709.736}"
+813,GemKeeper,Dexes,Oasis,['Oasis'],"{'Oasis': 192182.92031, 'Oasis-staking': 1095.77778, 'staking': 1095.77778}"
+814,Bodh Finance,Lending,Boba,['Boba'],"{'Boba': 99720.39039, 'Boba-borrowed': 23323.56687, 'borrowed': 23323.56687}"
+815,Volta DAO,Reserve Currency,Fantom,['Fantom'],"{'Avalanche': 21350.45396, 'Avalanche-staking': 2196.37883, 'Fantom-staking': 6716.81313, 'staking': 8913.19196, 'Fantom': 27932.1682}"
+816,MiniPanther DAO,Reserve Currency,Fantom,['Fantom'],"{'Fantom-staking': 8.0522, 'staking': 8.0522, 'Fantom': 47.2682}"
+817,GoodDollar,Staking,Ethereum,['Ethereum'],"{'Ethereum': 1527064.38288, 'Fuse-staking': 66913.46007, 'Fuse': 0, 'staking': 66913.46007}"
+818,PegaSys,Dexes,Syscoin,['Syscoin'],{'Syscoin': 1709636.35479}
+819,Jones DAO,Options Vault,Arbitrum,['Arbitrum'],"{'pool2': 4374167.7032, 'Arbitrum-staking': 9247440.80067, 'Arbitrum': 29852776.34571, 'Arbitrum-pool2': 4374167.7032, 'staking': 9247440.80067}"
+820,NewSpace Finance,Farm,Binance,['BSC'],"{'BSC': 273.67158, 'BSC-staking': 0, 'pool2': 15.53738, 'BSC-pool2': 15.53738, 'staking': 0}"
+821,Cemetery Finance,Farm,Fantom,['Fantom'],"{'pool2': 11.86371, 'Fantom-staking': 0, 'Fantom-pool2': 11.86371, 'staking': 0, 'Fantom': 3484.04094}"
+822,SpectreFi,Farm,Fantom,['Fantom'],"{'pool2': 255.72246, 'Fantom-staking': 0, 'Fantom-pool2': 255.72246, 'staking': 0, 'Fantom': 36429.28314}"
+823,Nightmare Finance,Farm,Fantom,['Fantom'],"{'pool2': 3.44138, 'Fantom-staking': 0, 'Fantom-pool2': 3.44138, 'staking': 0, 'Fantom': 1992.0795}"
+824,The Don Finance,Farm,Fantom,['Fantom'],"{'pool2': 75.069, 'Fantom-staking': 39.04746, 'Fantom-pool2': 75.069, 'staking': 39.04746, 'Fantom': 409.59012}"
+825,Aelin,Services,Ethereum,['Optimism'],"{'Optimism': 194411.8389, 'Optimism-pool2': 19463.40158, 'Optimism-staking': 1668538.1514, 'pool2': 31066.47062, 'Ethereum-pool2': 11603.06905, 'Ethereum': 105.76829, 'staking': 1668538.1514}"
+826,Hashflow,Dexes,Ethereum,['Ethereum'],"{'Optimism': 131027.9999, 'BSC': 223368.21101, 'Ethereum': 1397502.13319, 'Avalanche': 21649.5015, 'Polygon': 528658.049, 'Arbitrum': 293049.39414}"
+827,Chintai,Lending,EOS,['EOS'],{'EOS': 1691.89533}
+828,PayCash,Dexes,EOS,['EOS'],{'EOS': 6046172.0233}
+829,EOS REX,Lending,EOS,['EOS'],{'EOS': 67950640.39808}
+830,Vesta Finance,CDP,Arbitrum,['Arbitrum'],"{'pool2': 747297.55582, 'Arbitrum': 17175981.63052, 'Arbitrum-pool2': 747297.55582}"
+831,ClaimSwap,Dexes,Klaytn,['Klaytn'],"{'Klaytn-staking': 264264.65362, 'Klaytn': 3223406.51664, 'staking': 264264.65362}"
+832,OGX,Synthetics,EOS,['EOS'],{'EOS': 47855.30932}
+833,Equilibrium,CDP,EOS,['EOS'],{'EOS': 787555.11013}
+834,ValleySwap,Dexes,Oasis,['Oasis'],{'Oasis': 16635504.00112}
+835,WOOFi,Dexes,Binance,['Avalanche'],"{'Optimism': 486775.71975, 'Fantom-staking': 859487.77869, 'Arbitrum-staking': 4532125.08765, 'BSC': 1093815.43273, 'BSC-staking': 4264112.13236, 'Avalanche': 3169130.66414, 'Avalanche-staking': 6585645.18057, 'Polygon': 1130524.08848, 'Polygon-staking': 2846242.75573, 'Arbitrum': 1096831.07157, 'Fantom': 879849.11033, 'staking': 19087612.93499}"
+836,Tropykus Finance,Lending,RSK,['Rootstock'],"{'Rootstock-borrowed': 783665.00219, 'Rootstock': 1203171.35101, 'borrowed': 783665.00219}"
+837,PRISM Protocol,Staking,Terra,['Terra Classic'],"{'Terra Classic-staking': 40686.52249, 'Terra Classic': 13578.29938, 'staking': 40686.52249}"
+838,ALEX,Dexes,Stacks,['Stacks'],"{'staking': 26590714.03951, 'Stacks': 32022481.32474, 'Stacks-staking': 26590714.03951}"
+839,Pact,Dexes,Algorand,['Algorand'],{'Algorand': 11429110.19448}
+840,Nereus Finance,Lending,Avalanche,['Avalanche'],{'Avalanche': 1414654.06491}
+841,BetHash,Prediction Market,EOS,['EOS'],{'EOS': 122104.83844}
+842,SportBet,Prediction Market,EOS,['EOS'],{'EOS': 93869.59545}
+843,AtomicHub,Dexes,EOS,['Wax'],"{'EOS': 16839.9766, 'Wax': 394969.82648}"
+844,MahaDAO Arth,CDP,Polygon,['Ethereum'],"{'pool2': 23150.11167, 'BSC-pool2': 10183.8501, 'Ethereum-pool2': 12966.26156, 'Ethereum': 64129.31385, 'Ethereum-staking': 484629.68068, 'Polygon': 0, 'staking': 484629.68068}"
+845,Edge Protocol,Lending,Terra,['Terra Classic'],"{'Terra Classic-borrowed': 33479.85809, 'Terra Classic': 15769.91954, 'borrowed': 33479.85809}"
+846,GTON Capital,Reserve Currency,Fantom,['Fantom'],"{'Fantom-staking': 68819.49288, 'staking': 68819.49288, 'Fantom': 51160.09715}"
+847,Phantom Finance,Farm,Fantom,['Fantom'],"{'pool2': 69.98104, 'Fantom-staking': 0, 'Fantom-pool2': 69.98104, 'staking': 0, 'Fantom': 1840.48451}"
+848,V3S Finance,Algo-Stables,Cronos,['Cronos'],"{'Cronos': 3553.60932, 'pool2': 137265.5839, 'Cronos-pool2': 137265.5839, 'Cronos-staking': 25702.65121, 'staking': 25702.65121}"
+849,WhaleEx,Dexes,EOS,['EOS'],{'EOS': 3063714.33779}
+850,Fountain Protocol,Lending,Oasis,['Oasis'],"{'Oasis-borrowed': 2453307.70716, 'Oasis': 2332019.04523, 'borrowed': 2453307.70716}"
+851,KlayBank,Lending,Klaytn,['Klaytn'],"{'Klaytn-staking': 340653.86008, 'Klaytn': 7420803.22784, 'staking': 340653.86008}"
+852,DMD Finance,Staking,EOS,['EOS'],{'EOS': 187500.10413}
+853,DolphinSwap,Dexes,EOS,['EOS'],{'EOS': 11980.86734}
+854,Demodyfi,Dexes,Binance,['Moonbeam'],"{'pool2': 7514.99899, 'BSC-pool2': 2201.13583, 'Moonbeam': 1546.87966, 'Ethereum-pool2': 5313.86316, 'BSC': 0, 'Ethereum': 0, 'BSC-staking': 2893.14615, 'Ethereum-staking': 3279.07878, 'staking': 6172.22493}"
+855,Aurigami,Lending,Aurora,['Aurora'],"{'Aurora': 3743488.4907, 'borrowed': 1799629.66127, 'Aurora-borrowed': 1799629.66127}"
+856,Minswap,Dexes,Cardano,['Cardano'],{'Cardano': 47255250.79246}
+857,Zappy,Dexes,Telos,['Telos'],{'Telos': 214159.8233}
+858,Grave Finance,Algo-Stables,Avalanche,['Avalanche'],"{'Avalanche': 725.79878, 'Avalanche-staking': 712.23623, 'pool2': 1.29369, 'Avalanche-pool2': 1.29369, 'staking': 712.23623}"
+859,Starlay Finance,Lending,Astar,['Astar'],"{'Astar-borrowed': 4423597.28837, 'Astar': 3694018.28731, 'Astar-staking': 356107.76248, 'borrowed': 4423597.28837, 'staking': 356107.76248}"
+860,Alcor Exchange,Dexes,EOS,['Wax'],"{'EOS': 4437.02652, 'Wax': 350213.63228}"
+861,The Parallel,Gaming,Binance,['BSC'],"{'BSC': 0, 'BSC-staking': 10948.56789, 'staking': 10948.56789}"
+862,Fantasm,Algo-Stables,Fantom,['Fantom'],"{'pool2': 981.01468, 'Fantom-staking': 0, 'Fantom-pool2': 981.01468, 'staking': 0, 'Fantom': 0}"
+863,Floor Dao,Reserve Currency,Ethereum,['Ethereum'],"{'Ethereum': 6213496.29729, 'Ethereum-staking': 4502294.95807, 'staking': 4502294.95807}"
+864,Solanax,Dexes,Solana,['Solana'],{'Solana': 7260.38173}
+865,Spade Finance,Farm,Fantom,['Fantom'],"{'pool2': 2.67708, 'Fantom-staking': 12.15707, 'Fantom-pool2': 2.67708, 'staking': 12.15707, 'Fantom': 17.09248}"
+866,Granary Finance,Lending,Fantom,['Fantom'],"{'Optimism': 2637863.05085, 'Metis': 1008706.70024, 'Arbitrum-borrowed': 123412.00166, 'BSC-borrowed': 55895.74946, 'Metis-borrowed': 751848.58854, 'BSC': 47411.66012, 'Fantom-borrowed': 7202419.83155, 'Ethereum': 44811.23763, 'Optimism-borrowed': 2461174.57086, 'Avalanche': 105091.366, 'Ethereum-borrowed': 5885.83903, 'Arbitrum': 282904.47037, 'borrowed': 10607303.1618, 'Fantom': 6710389.99039, 'Avalanche-borrowed': 6666.5807}"
+867,RHEA DAO,Reserve Currency,Klaytn,['Klaytn'],"{'Klaytn-staking': 1340.99756, 'Klaytn': 0, 'staking': 1340.99756}"
+868,Domination Finance,Synthetics,Ethereum,['Polygon'],"{'Boba': 8314.86323, 'Ethereum': 7354.55153, 'Polygon': 35264.23125}"
+869,Bastion,Lending,Aurora,['Aurora'],"{'Aurora': 48868187.20385, 'borrowed': 5710576.46628, 'Aurora-borrowed': 5710576.46628}"
+870,Mars Protocol,Lending,Terra,['Osmosis'],"{'Osmosis': 6269248.30278, 'Terra Classic': 0, 'Osmosis-borrowed': 4580110.91913, 'borrowed': 4580110.91913}"
+871,Metavault DAO,Services,Ethereum,['Polygon'],"{'Ethereum': 16596.38645, 'Polygon': 336293.52923, 'Ethereum-staking': 379220.72428, 'staking': 379220.72428}"
+872,Gamblefi,Reserve Currency,Cronos,['Cronos'],"{'Cronos': 458.61726, 'Cronos-staking': 0, 'staking': 0}"
+873,Excalibur,Dexes,Fantom,['Fantom'],{'Fantom': 116211.36184}
+874,Proton Loan,Lending,Proton,['Proton'],"{'Proton-staking': 1802417.41105, 'Proton-borrowed': 635404.06767, 'Proton': 2304088.67303, 'borrowed': 635404.06767, 'staking': 1802417.41105}"
+875,LIFE,Farm,Fantom,['Fantom'],"{'pool2': 3.66139, 'Fantom-staking': 3.6015, 'Fantom-pool2': 3.66139, 'staking': 3.6015, 'Fantom': 1613.23156}"
+876,StrikeX,Dexes,Binance,['BSC'],"{'BSC': 831.33748, 'BSC-staking': 3144839.43763, 'pool2': 27.15186, 'BSC-pool2': 27.15186, 'staking': 3144839.43763}"
+877,Solrise Finance,Indexes,Solana,['Solana'],"{'Solana-staking': 303911.32518, 'Solana': 86375.31365, 'staking': 303911.32518}"
+878,01,Dexes,Solana,['Solana'],{'Solana': 12542527.46555}
+879,Risk Harbor,Insurance,Terra,['Terra2'],"{'Optimism': 71359.57922, 'Terra Classic': 0, 'Ethereum': 33061.21703, 'Aurora': 3.83397, 'Avalanche': 103343.54559, 'Arbitrum': 16624.50941, 'Terra2': 8570251.64457, 'Fantom': 26.20456}"
+880,Burrow,Lending,Near,['Near'],"{'Near-borrowed': 3403811.02833, 'Near': 10693897.50261, 'borrowed': 3403811.02833}"
+881,AAVE V3,Lending,Optimism,['Ethereum'],"{'Optimism': 91296734.56802, 'Arbitrum-borrowed': 53527200.86442, 'Polygon-borrowed': 62827133.32167, 'Harmony': 0, 'Harmony-borrowed': 1316752.24939, 'Fantom-borrowed': 113923.04693, 'Ethereum': 525909880.38636, 'Optimism-borrowed': 27822047.4489, 'Avalanche': 262157548.47096, 'Polygon': 135987676.71241, 'Ethereum-borrowed': 276200183.1697, 'Arbitrum': 90347518.49482, 'borrowed': 513693795.62408, 'Fantom': 908136.47789, 'Avalanche-borrowed': 91886555.52307}"
+882,Chaotic Finance,Derivatives,Moonriver,['Moonriver'],{'Moonriver': 19869.55796}
+883,Jumbo Exchange,Dexes,Near,['Near'],{'Near': 267217.73174}
+884,Babena,CDP,Kadena,['Kadena'],"{'Kadena-staking': 130771.94327, 'Kadena': 157015.80388, 'staking': 130771.94327}"
+885,Kujira Orca,Services,Terra,['Kujira'],{'Kujira': 214261.31855}
+886,Angel Protocol,Services,Terra,['Terra Classic'],{'Terra Classic': 446.68026}
+887,BaksDAO,Lending,Binance,['BSC'],{'BSC': 55.6016}
+888,Darkness,Dexes,Cronos,['Cronos'],"{'Cronos': 88080.47861, 'pool2': 91160.42915, 'Cronos-pool2': 91160.42915, 'Cronos-staking': 5059.72933, 'staking': 5059.72933}"
+889,Cykura,Dexes,Solana,['Solana'],{'Solana': 44260.87691}
+890,ClaySwap,Farm,Binance,['BSC'],"{'BSC': 956.73127, 'BSC-staking': 4.10469, 'pool2': 37.26472, 'BSC-pool2': 37.26472, 'staking': 4.10469}"
+891,Pear DAO,Dexes,Binance,['BSC'],"{'BSC': 27417.5802, 'BSC-staking': 643318.82112, 'pool2': 401076.81921, 'BSC-pool2': 401076.81921, 'staking': 643318.82112}"
+892,PanKUKU,Dexes,Binance,['BSC'],{'BSC': 354.90013}
+893,Philetairus Socius,Dexes,Fantom,['Fantom'],"{'pool2': 19.69284, 'Fantom-staking': 6.94634, 'Fantom-pool2': 19.69284, 'staking': 6.94634, 'Fantom': 182.17782}"
+894,Anedak,Dexes,Kadena,['Kadena'],{'Kadena': 19335.02459}
+895,LuckyChip,Prediction Market,Binance,['BSC'],"{'BSC': 246024.41828, 'BSC-staking': 47964.08538, 'staking': 47964.08538}"
+896,eckoDAO,Dexes,Kadena,['Kadena'],"{'Kadena-staking': 3471486.95145, 'Kadena': 1891825.00577, 'staking': 3471486.95145}"
+897,Swim Protocol,Cross Chain,Solana,['Solana'],{'Solana': 106016.68601}
+898,Rikkei Finance,Lending,Binance,['BSC'],"{'BSC': 171099.30141, 'BSC-borrowed': 231016.21834, 'borrowed': 231016.21834}"
+899,Stargate,Cross Chain,Ethereum,['Ethereum'],"{'Optimism': 49387611.10621, 'Metis': 6356447.77928, 'Goerli': 44687.7643, 'BSC': 21742829.45584, 'Ethereum': 77947889.45188, 'Avalanche': 41934218.28427, 'Polygon': 21799487.67511, 'Arbitrum': 76191232.10335, 'Fantom': 21545816.33489}"
+900,DeFIL,Lending,Ethereum,['Ethereum'],"{'pool2': 34846.18025, 'BSC-pool2': 28846.17113, 'Ethereum-pool2': 6000.00912, 'BSC': 186.26238, 'Ethereum': 153096.23713, 'BSC-staking': 186.26238, 'Ethereum-staking': 153096.23713, 'Ethereum-borrowed': 0, 'borrowed': 0, 'staking': 153282.49951}"
+901,ViteX,Dexes,Vite,['Vite'],{'Vite': 5488207.0818}
+902,Viva,Staking,Vite,['Vite'],{'Vite': 74200.23862}
+903,Penguin,Dexes,Solana,['Solana'],{'Solana': 1050275.90499}
+904,MeowSwapFi,Dexes,Cardano,['Cardano'],{'Cardano': 36469.60701}
+905,BeefStake,Staking,Vite,['Vite'],{'Vite': 36024.98602}
+906,ButterSwap,Dexes,Heco,['BSC'],"{'BSC': 80312.83562, 'BSC-staking': 0, 'Heco': 12155.3953, 'Heco-staking': 0, 'staking': 0}"
+907,HebeSwap,Dexes,EthereumClassic,['EthereumClassic'],{'EthereumClassic': 236547.5576}
+908,Aperture Finance,Leveraged Farming,Terra,['Terra Classic'],"{'Avalanche': 78407.64, 'Terra Classic': 164373.13696}"
+909,Valas Finance,Lending,Binance,['BSC'],"{'pool2': 163865.39079, 'BSC-borrowed': 5350313.03305, 'BSC-pool2': 163865.39079, 'BSC': 5566250.25066, 'BSC-staking': 754353.19679, 'borrowed': 5350313.03305, 'staking': 754353.19679}"
+910,Sherpa Cash,Privacy,Avalanche,['Avalanche'],{'Avalanche': 28751.2}
+911,LaserSwap,Dexes,ThunderCore,['ThunderCore'],{'ThunderCore': 326096.65138}
+912,Puzzle Swap,Dexes,Waves,['Waves'],{'Waves': 415999.25385}
+913,StableKoi,Dexes,Godwoken,['Godwoken'],"{'Godwoken': 61986.25164, 'Godwoken-staking': 0, 'GodwokenV1': 5188.33559, 'staking': 0}"
+914,MilkySwap,Dexes,Milkomeda,['Milkomeda C1'],{'Milkomeda C1': 298719.78128}
+915,OccamX,Dexes,Milkomeda,['Milkomeda C1'],{'Milkomeda C1': 941314.2207}
+916,Strips Finance,Derivatives,Arbitrum,['Arbitrum'],"{'pool2': 0, 'Arbitrum': 0, 'Arbitrum-pool2': 0}"
+917,Symbiosis Finance,Cross Chain,Ethereum,['Ethereum'],"{'Kava': 13002.02561, 'Boba_Bnb': 188837.04428, 'BSC': 115312.03868, 'Boba': 263171.94217, 'Boba_Avax': 9822.07253, 'Ethereum': 369232.56882, 'Aurora': 4.34143, 'Avalanche': 235589.06004, 'Polygon': 56139.63701, 'Telos': 95771.60619}"
+918,RubikFarm,Farm,Binance,['BSC'],"{'BSC': 27.31103, 'BSC-staking': 234.62184, 'pool2': 0, 'BSC-pool2': 0, 'staking': 234.62184}"
+919,The Idols,Reserve Currency,Ethereum,['Ethereum'],"{'Ethereum': 4887978.06897, 'Ethereum-staking': 132979.7369, 'staking': 132979.7369}"
+920,Crystalvale,Dexes,DFK,['DFK'],"{'DFK-staking': 167949.79566, 'DFK': 9009550.55237, 'staking': 167949.79566}"
+921,Greenhouse,Dexes,Polygon,['Polygon'],{'Polygon': 3941.39503}
+922,WingRiders,Dexes,Cardano,['Cardano'],{'Cardano': 16387067.27434}
+923,Antex,Launchpad,Binance,['BSC'],{'BSC': 21133.60557}
+924,Amaterasu Finance,Dexes,Aurora,['Aurora'],{'Aurora': 8660.43779}
+925,UniDex,Derivatives,Fantom,['Fantom'],"{'BSC': 4265.30514, 'Optimism': 796985.46443, 'Boba': 29225.03197, 'Metis': 30012.30332, 'Fantom': 1727491.90417}"
+926,SpiritSwap Lending,Lending,Fantom,['Fantom'],"{'Fantom-borrowed': 165657.36888, 'borrowed': 165657.36888, 'Fantom': 705737.83078}"
+927,Picnic,Indexes,Polygon,['Polygon'],{'Polygon': 106823.60542}
+928,Concave,Services,Ethereum,['Ethereum'],{'Ethereum': 396380.10157}
+929,DDDX,Dexes,Binance,['BSC'],"{'BSC': 11424.05216, 'BSC-staking': 0, 'staking': 0}"
+930,Stake1,Lending,Fantom,['Fantom'],"{'pool2': 78.89828, 'Fantom-pool2': 78.89828, 'Fantom': 1102.05007}"
+931,Mockingbird,Farm,Fantom,['Fantom'],"{'pool2': 1.07475, 'Fantom-staking': 0, 'Fantom-pool2': 1.07475, 'staking': 0, 'Fantom': 1164.50586}"
+932,Milko Farm,Farm,Milkomeda,['Milkomeda C1'],"{'Milkomeda C1-pool2': 41.61974, 'Milkomeda C1-staking': 695.07865, 'pool2': 41.61974, 'Milkomeda C1': 3006.9345, 'staking': 695.07865}"
+933,Kagla Finance,Dexes,Astar,['Astar'],"{'Astar': 2327060.6485, 'Astar-staking': 18262.22469, 'staking': 18262.22469}"
+934,Proton Swap,Dexes,Proton,['Proton'],{'Proton': 2523372.60219}
+935,Nested,Services,Binance,['Arbitrum'],"{'Optimism': 219745.28551, 'BSC': 450494.43079, 'Ethereum': 256551.57791, 'Avalanche': 60804.00144, 'Polygon': 414625.0269, 'Arbitrum': 837884.17749}"
+936,0vix,Lending,Polygon,['Polygon'],"{'Polygon': 5616416.75363, 'Polygon-borrowed': 3210631.64379, 'borrowed': 3210631.64379}"
+937,Polynomial Protocol,Options Vault,Optimism,['Optimism'],{'Optimism': 643427.17222}
+938,RadioShack,Dexes,Ethereum,['BSC'],"{'Optimism': 24539.79943, 'Cronos': 132058.48747, 'Optimism-staking': 0, 'Fantom-staking': 0, 'Cronos-staking': 0, 'BSC': 1451694.63961, 'Dogechain': 4326.45024, 'Ethereum': 1251378.50848, 'BSC-staking': 63200.00109, 'Avalanche': 856923.47101, 'Avalanche-staking': 17513.82969, 'Ethereum-staking': 122071.33394, 'Polygon': 686121.46464, 'Dogechain-staking': 0, 'Polygon-staking': 21314.17395, 'Fantom': 13716.86263, 'staking': 224099.33868}"
+939,DeltaTheta,Options,Binance,['BSC'],"{'BSC': 70409.73179, 'Polygon': 327.47808}"
+940,Astar Exchange,Dexes,Astar,['Astar'],{'Astar': 22258.89437}
+941,TroyDefi,Farm,Binance,['BSC'],"{'BSC': 497.9189, 'BSC-staking': 0, 'pool2': 78.26074, 'BSC-pool2': 78.26074, 'staking': 0}"
+942,DarumaDAO,Reserve Currency,Godwoken,['Godwoken'],"{'Godwoken': 0, 'Godwoken-staking': 100579.16, 'staking': 100579.16}"
+943,Astrowar Finance,Staking,Harmony,['Harmony'],{'Harmony': 13.89349}
+944,LendFlare,Lending,Ethereum,['Ethereum'],{'Ethereum': 836770.68733}
+945,SingularityDAO,Yield,Ethereum,['Ethereum'],"{'pool2': 311932.90538, 'BSC-pool2': 107730.82628, 'Ethereum-pool2': 204202.0791, 'BSC': 257256.75308, 'Ethereum': 3624788.84586, 'BSC-staking': 5872143.95434, 'Ethereum-staking': 32431156.94924, 'staking': 38303300.90358}"
+946,Humble Defi,Dexes,Algorand,['Algorand'],{'Algorand': 3900305.4062}
+947,BAO Markets,Lending,Ethereum,['Ethereum'],"{'Ethereum': 354445.51564, 'Ethereum-borrowed': 0, 'borrowed': 0}"
+948,BAO Ballast,CDP,Ethereum,['Ethereum'],{'Ethereum': 228393.95364}
+949,SMBSwap,Dexes,Binance,['BSC'],{'BSC': 19197.58006}
+950,Solace,Insurance,Polygon,['Ethereum'],"{'Aurora-staking': 0, 'pool2': 0, 'Aurora-pool2': 0, 'Ethereum-pool2': 0, 'Ethereum': 0, 'Aurora': 0, 'Ethereum-staking': 0, 'Polygon': 0, 'Polygon-staking': 0, 'staking': 0}"
+951,Clearpool,Uncollateralized Lending,Ethereum,['Ethereum'],"{'Polygon-borrowed': 77740.70413, 'Ethereum': 779339.46959, 'Ethereum-staking': 7301122.04728, 'Polygon': 63501.12291, 'Ethereum-borrowed': 2517414.91406, 'borrowed': 2595155.61819, 'staking': 7301122.04728}"
+952,Hodltree,Lending,Ethereum,['Ethereum'],"{'Ethereum': 22989.44162, 'Polygon': 227.5699}"
+953,Eklipse Finance,Dexes,Klaytn,['Klaytn'],"{'Klaytn-pool2': 48559.6951, 'pool2': 48559.6951, 'Klaytn-staking': 1409240.89177, 'Klaytn': 1852327.37762, 'staking': 1409240.89177}"
+954,Folks Finance Lending,Lending,Algorand,['Algorand'],"{'Algorand-borrowed': 5460721.62607, 'Algorand': 15673646.73691, 'borrowed': 5460721.62607}"
+955,ChampagneSwap,Dexes,Binance,['BSC'],"{'BSC': 529.39075, 'BSC-staking': 0, 'staking': 0}"
+956,Luchadores,Gaming,Polygon,['Polygon'],"{'Polygon': 8766.3197, 'pool2': 2288.84556, 'Polygon-pool2': 2288.84556, 'Polygon-staking': 42690.66787, 'staking': 42690.66787}"
+957,Pegasusdollar,Algo-Stables,Cronos,['Cronos'],"{'Cronos': 15413.02322, 'pool2': 26026.91302, 'Cronos-pool2': 26026.91302, 'Cronos-staking': 74.45323, 'staking': 74.45323}"
+958,CGX Finance,Dexes,Cronos,['Cronos'],"{'Cronos': 74587.39078, 'pool2': 17331.17846, 'Cronos-pool2': 17331.17846, 'Cronos-staking': 22984.01598, 'staking': 22984.01598}"
+959,Milky Cow,Algo-Stables,Milkomeda,['Milkomeda C1'],"{'Milkomeda C1-pool2': 8.07628, 'Milkomeda C1-staking': 45.6578, 'pool2': 8.07628, 'Milkomeda C1': 97.62029, 'staking': 45.6578}"
+960,Oaswap,Dexes,Oasis,['Oasis'],{'Oasis': 2198.42327}
+961,Neuronswap,Dexes,Klaytn,['Klaytn'],"{'Klaytn-staking': 0, 'Klaytn': 13650.72612, 'staking': 0}"
+962,Versa Finance,Dexes,Astar,['Astar'],{'Astar': 23864.1821}
+963,FunBeast,Dexes,Astar,['Astar'],{'Astar': 2432.40924}
+964,Predy Finance,Derivatives,Arbitrum,['Arbitrum'],"{'Arbitrum-borrowed': 159.1077, 'Arbitrum': 23594.173, 'borrowed': 159.1077}"
+965,Sirius Finance,Dexes,Astar,['Astar'],"{'Astar': 2810958.78217, 'Astar-staking': 23631.22275, 'staking': 23631.22275}"
+966,Swappi,Dexes,Conflux,['Conflux'],{'Conflux': 24742495.12379}
+967,Yeti Finance,CDP,Avalanche,['Avalanche'],"{'Avalanche': 16899980.92297, 'Avalanche-staking': 353320.80917, 'pool2': 310157.97877, 'Avalanche-pool2': 310157.97877, 'staking': 353320.80917}"
+968,LlamaPay,Payments,Avalanche,['Ethereum'],"{'Optimism': 194683.45375, 'Metis': 11.04938, 'Gnosis-vesting': 23565.53503, 'Meter-vesting': 18156.702, 'Polygon-vesting': 9572.48923, 'Meter': 21349.918, 'Fantom-vesting': 3019244.45748, 'Avalanche-vesting': 34304.23884, 'BSC': 46782.48632, 'Ethereum': 2325958.35271, 'Gnosis': 34.29223, 'vesting': 199001530.62165, 'Avalanche': 102791.43173, 'Arbitrum': 116556.49427, 'Optimism-vesting': 2024.32826, 'BSC-vesting': 54100.18958, 'Fantom': 36836.88268, 'Ethereum-vesting': 149375157.32655, 'Polygon': 250624.68742, 'Arbitrum-vesting': 46465405.35467, 'Metis-vesting': 0}"
+969,Blueshift,Dexes,Milkomeda,['Milkomeda C1'],"{'Kava': 101059.76201, 'Milkomeda C1': 1095093.03109, 'Milkomeda A1-staking': 603.01883, 'Milkomeda C1-staking': 409343.26722, 'Milkomeda A1': 144440.31581, 'staking': 409946.28605}"
+970,Solv Protocol,NFT Marketplace,Ethereum,['Ethereum'],"{'BSC': 190119.68604, 'Ethereum': 4453728.81684, 'BSC-staking': 0, 'Ethereum-staking': 0, 'Polygon': 4.40162, 'Arbitrum': 0.08158, 'staking': 0}"
+971,Milkydex,Dexes,Milkomeda,['Milkomeda C1'],{'Milkomeda C1': 3594.65394}
+972,FairySwap,Dexes,Findora,['Findora'],{'Findora': 29851.19921}
+973,Tarina,Dexes,Avalanche,['Avalanche'],{'Avalanche': 108528.11661}
+974,Hydradex,Dexes,Hydra,['Hydra'],{'Hydra': 2321472.42464}
+975,0xLend,Lending,Kucoin,['KCC'],"{'KCC': 852.29853, 'borrowed': 61492.02826, 'KCC-borrowed': 61492.02826}"
+976,Timeswap V1,Lending,Polygon,['Polygon'],{'Polygon': 58389.03986}
+977,Spartacus Exchange,Dexes,Fantom,['Fantom'],{'Fantom': 2593980.84413}
+978,Orcus Finance,Algo-Stables,Astar,['Astar'],"{'Astar-pool2': 15686.25433, 'Astar': 11030.24463, 'pool2': 15686.25433, 'Astar-staking': 0, 'staking': 0}"
+979,PuddingSwap,Dexes,Hoo,['Hoo'],{'Hoo': 0}
+980,Klayportal,Staking,Klaytn,['Klaytn'],{'Klaytn': 4200536.18924}
+981,Dual Finance,Options Vault,Solana,['Solana'],{'Solana': 556959.19752}
+982,SmartCredit,Lending,Ethereum,['Ethereum'],"{'Ethereum': 760509.41833, 'Ethereum-staking': 672694.33211, 'Ethereum-borrowed': 240057.162, 'borrowed': 240057.162, 'staking': 672694.33211}"
+983,Olive,Options Vault,Polygon,['Ethereum'],"{'Ethereum': 1978452.32227, 'Polygon': 567337.75633, 'Arbitrum': 1358343.98188}"
+984,GARD,CDP,Algorand,['Algorand'],"{'Algorand-treasury': 23500.87403, 'Algorand': 4594654.75022, 'Algorand-staking': 434282.90265, 'treasury': 23500.87403, 'staking': 434282.90265}"
+985,HaloFi,Services,Celo,['Polygon'],"{'Polygon': 207294.75488, 'Celo': 174339.03227}"
+986,Sienna Network,Privacy,Secret,['Secret'],"{'Secret': 3642672.50389, 'Secret-staking': 1096927.13669, 'borrowed': 225906.69438, 'Secret-borrowed': 225906.69438, 'staking': 1096927.13669}"
+987,Spectrumswap,Farm,Binance,['BSC'],"{'BSC': 544.46797, 'BSC-staking': 2.8211, 'pool2': 3.04523, 'BSC-pool2': 3.04523, 'staking': 2.8211}"
+988,Cronus Finance,Dexes,Evmos,['Evmos'],{'Evmos': 49235.58123}
+989,Diffusion Finance,Dexes,Evmos,['Evmos'],"{'Evmos': 228555.66034, 'Evmos-staking': 358125.706, 'staking': 358125.706}"
+990,Pandora Swap,Dexes,Astar,['Astar'],{'Astar': 394.28021}
+991,Wombat Exchange,Dexes,Binance,['BSC'],"{'BSC': 42316001.6119, 'BSC-staking': 7927738.61609, 'staking': 7927738.61609}"
+992,AGS Finance,Dexes,Astar,['Astar'],{'Astar': 3627.97491}
+993,Yumiswap,Dexes,Astar,['Astar'],{'Astar': 1824.43113}
+994,Bao Masterchef V1,Farm,Ethereum,['Ethereum'],"{'Ethereum': 1519275.035, 'Gnosis': 101840.78807}"
+995,Vortex Protocol,Dexes,Tezos,['Tezos'],"{'Tezos-staking': 48329.56843, 'Tezos': 188057.54281, 'staking': 48329.56843}"
+996,AstridDAO,CDP,Astar,['Astar'],{'Astar': 5434011.68644}
+997,Fenrir Finance,Lending,Binance,['BSC'],"{'BSC': 760.59419, 'BSC-borrowed': 27.82824, 'borrowed': 27.82824}"
+998,EvmoSwap,Dexes,Evmos,['Evmos'],{'Evmos': 74791.11864}
+999,Duet Protocol,Synthetics,Binance,['BSC'],{}
+1000,Hummus Exchange,Dexes,Metis,['Metis'],"{'Metis': 8758916.58443, 'Metis-staking': 1339923.93286, 'staking': 1339923.93286}"
+1001,North Pole,CDP,Avalanche,['Avalanche'],{'Avalanche': 1921.26634}
+1002,ADAO,Staking,Astar,['Astar'],"{'Astar': 103655.9821, 'Astar-treasury': 6848.81664, 'treasury': 6848.81664}"
+1003,Kokoa Finance,CDP,Klaytn,['Klaytn'],"{'Klaytn-pool2': 586958.71999, 'pool2': 586958.71999, 'Klaytn-staking': 741190.75943, 'Klaytn': 4697602.10229, 'staking': 741190.75943}"
+1004,KronosDAO,Reserve Currency,Binance,['BSC'],"{'BSC': 3201.96265, 'BSC-staking': 9.06461, 'staking': 9.06461}"
+1005,KungFuu,Staking,Fantom,['Fantom'],{'Fantom': 6160.48518}
+1006,Pegasus Finance,Derivatives,Optimism,['Optimism'],{'Optimism': 1082.27349}
+1007,Meshswap,Dexes,Polygon,['Polygon'],"{'Polygon': 21903002.11294, 'Polygon-staking': 2062166.3653, 'staking': 2062166.3653}"
+1008,Astarnova,Dexes,Astar,['Astar'],{'Astar': 62.27844}
+1009,BlockNG,Dexes,SmartBCH,['smartBCH'],"{'smartBCH-staking': 210885.4954, 'smartBCH-pool2': 83497.73391, 'pool2': 83497.73391, 'smartBCH': 758695.84336, 'staking': 210885.4954}"
+1010,Goblins Cash,Reserve Currency,SmartBCH,['smartBCH'],"{'smartBCH-staking': 109122.75644, 'smartBCH': 30946.6449, 'staking': 109122.75644}"
+1011,HonkSwap,Dexes,SmartBCH,['smartBCH'],{'smartBCH': 854.35772}
+1012,Verse,Dexes,SmartBCH,['Ethereum'],"{'Ethereum': 7785444.92438, 'smartBCH': 31565.27176}"
+1013,LNS,Dexes,SmartBCH,['smartBCH'],"{'smartBCH-staking': 46051.31788, 'smartBCH': 0, 'staking': 46051.31788}"
+1014,EmberSwap,Dexes,SmartBCH,['smartBCH'],"{'smartBCH-staking': 6114.39371, 'smartBCH': 1655.9391, 'staking': 6114.39371}"
+1015,BCHPad,Launchpad,SmartBCH,['smartBCH'],"{'smartBCH-staking': 0, 'smartBCH-pool2': 202.73266, 'pool2': 202.73266, 'smartBCH': 0.06848, 'staking': 0}"
+1016,Starbank,Dexes,Astar,['Astar'],{'Astar': 463.70613}
+1017,Kinesis Labs,Dexes,Evmos,['Evmos'],{'Evmos': 18676.346}
+1018,CryptoSwap,Dexes,Binance,['BSC'],{'BSC': 9387.81141}
+1019,CatsLuck,Prediction Market,smartBCH,['smartBCH'],{'smartBCH': 5670.28322}
+1020,Ferro,Dexes,Cronos,['Cronos'],{'Cronos': 36499262.50255}
+1021,Nest Protocol Staking,Oracle,Ethereum,['KCC'],"{'KCC': 0, 'BSC': 0, 'Ethereum': 0, 'BSC-staking': 770266.68357, 'KCC-staking': 0, 'Ethereum-staking': 49945121.80123, 'Polygon': 0, 'Polygon-staking': 0, 'staking': 50715388.4848}"
+1022,Dystopia,Dexes,Polygon,['Polygon'],{'Polygon': 737358.45359}
+1023,SpaceFi,Dexes,Evmos,['Evmos'],{'Evmos': 1003975.64219}
+1024,UniCrypt,Launchpad,Ethereum,['Ethereum'],"{'pool2': 1836163.21353, 'Gnosis-pool2': 0, 'BSC-pool2': 283191.18702, 'Ethereum-pool2': 1552972.02651, 'BSC': 107435402.14915, 'Ethereum': 119069044.20271, 'Gnosis': 1870.66819, 'Avalanche': 13819.79833, 'Ethereum-staking': 7723822.87734, 'Polygon': 4697993.45772, 'staking': 7723822.87734}"
+1025,Koyo Finance,Dexes,Boba,['Boba'],"{'Boba': 1146.62254, 'Boba-staking': 0, 'staking': 0}"
+1026,BNPL Pay,Lending,Ethereum,['Ethereum'],"{'Ethereum': 5313.34755, 'Ethereum-staking': 23643.49537, 'Ethereum-borrowed': 1043715.8, 'borrowed': 1043715.8, 'staking': 23643.49537}"
+1027,xWeowns,Yield,Lachain,['Lachain'],{'Lachain': 39393.49235}
+1028,KDSwap,Dexes,Kadena,['Kadena'],{'Kadena': 367989.72595}
+1029,Arch Ethereum Web3,Indexes,Ethereum,['Ethereum'],{'Ethereum': 230586.09182}
+1030,ApolloX,Derivatives,Binance,['BSC'],"{'pool2': 3307162.4468, 'BSC-pool2': 3307162.4468, 'BSC': 32444228.66113, 'Ethereum': 1864072.08384, 'BSC-staking': 10834288.7162, 'Arbitrum': 253911.17158, 'staking': 10834288.7162}"
+1031,BendDAO Lending,NFT Lending,Ethereum,['Ethereum'],"{'pool2': 3142156.85794, 'Ethereum-pool2': 3142156.85794, 'Ethereum': 176566862.21712, 'Ethereum-staking': 21320550.40354, 'Ethereum-borrowed': 49275076.45586, 'borrowed': 49275076.45586, 'staking': 21320550.40354}"
+1032,EcoDeFi,Lending,Binance,['BSC'],"{'BSC': 13629.21627, 'BSC-staking': 46.70518, 'BSC-borrowed': 38752.35003, 'borrowed': 38752.35003, 'staking': 46.70518}"
+1033,Infinity Pad,Launchpad,Binance,['Celo'],"{'pool2': 0, 'BSC-pool2': 0, 'BSC': 1709.93546, 'BSC-staking': 3256.46175, 'Celo': 2411.44874, 'Fuse': 0, 'staking': 3256.46175}"
+1034,Pandora,Dexes,Binance,['BSC'],{'BSC': 2549395.59211}
+1035,Oswap AMM,Dexes,Obyte,['Obyte'],{'Obyte': 266882.13444}
+1036,Coslend,Lending,Evmos,['Evmos'],"{'Evmos': 26380.00034, 'borrowed': 8060.42685, 'Evmos-borrowed': 8060.42685}"
+1037,SteakHut,Farm,Avalanche,['Avalanche'],"{'Avalanche': 144285.989, 'Avalanche-staking': 0, 'staking': 0}"
+1038,MilkyWay,Lending,Milkomeda,['Milkomeda C1'],"{'Milkomeda C1-borrowed': 290.38115, 'Milkomeda C1': 20.13686, 'borrowed': 290.38115}"
+1039,Ladex Exchange,Dexes,Lachain,['Lachain'],{'Lachain': 47616.06406}
+1040,Credix,RWA Lending,Solana,['Solana'],"{'Solana-borrowed': 32937243.61609, 'Solana': 86035.96711, 'borrowed': 32937243.61609}"
+1041,Invariant,Dexes,Solana,['Solana'],{}
+1042,Kokonut Swap,Dexes,Klaytn,['Klaytn'],"{'Klaytn-staking': 242576.46298, 'Klaytn': 4975361.29118, 'staking': 242576.46298}"
+1043,Foodcourt,Dexes,REIchain,['BSC'],"{'BSC': 73927.06361, 'REIchain': 35367.68394}"
+1044,Bwatch,Services,Mixin,['Mixin'],{'Mixin': 273362460.96}
+1045,Ostable,Algo-Stables,Obyte,['Obyte'],{'Obyte': 818929.8849}
+1046,BencuFi,Lending,Metis,['Metis'],"{'Metis': 159.32353, 'Metis-borrowed': 8.69248, 'borrowed': 8.69248}"
+1047,Gin Finance,Dexes,Boba,['Boba'],{'Boba': 342153.58956}
+1048,Stronghands,Dexes,Cronos,['Cronos'],"{'BSC': 13.57035, 'Cronos': 1375.94103, 'Polygon': 0}"
+1049,Swapsicle,Dexes,Avalanche,['Telos'],"{'Optimism': 4.91138, 'Telos-staking': 14127.09241, 'BSC': 37.14992, 'Ethereum': 0.30675, 'Avalanche': 773831.65677, 'Avalanche-staking': 86530.25688, 'Polygon': 35634.12754, 'Telos': 1088954.7603, 'Arbitrum': 18435.24745, 'Fantom': 27815.46889, 'staking': 100657.34929}"
+1050,TFM,Dexes,Terra,['Terra Classic'],{'Terra Classic': 0}
+1051,Velodrome,Dexes,Optimism,['Optimism'],{'Optimism': 298937781.75145}
+1052,Metavault.Trade,Derivatives,Polygon,['Polygon'],"{'Polygon': 6625437.1088, 'Polygon-staking': 6012860.37542, 'staking': 6012860.37542}"
+1053,Voltz,Derivatives,Ethereum,['Ethereum'],{'Ethereum': 7642330.55278}
+1054,Bomb Finance,Dexes,Fantom,['Fantom'],{'Fantom': 189506.35522}
+1055,Phuture,Indexes,Ethereum,['Ethereum'],"{'Ethereum': 551361.87537, 'Avalanche': 440896.39985}"
+1056,Zinax DAO,Farm,Binance,['BSC'],"{'BSC': 6881.00764, 'BSC-staking': 775.00914, 'pool2': 187.92322, 'BSC-pool2': 187.92322, 'staking': 775.00914}"
+1057,Spice Trade,Algo-Stables,Ethereum,['BSC'],"{'pool2': 17511.01361, 'Polygon-pool2': 196.48117, 'BSC-pool2': 0, 'Ethereum-pool2': 427.05117, 'BSC': 24837.07582, 'Ethereum': 4644.40098, 'BSC-staking': 0.01965, 'Avalanche': 12660.43208, 'Avalanche-staking': 27.39002, 'Ethereum-staking': 4.96158, 'Polygon': 10472.15398, 'Polygon-staking': 14.04081, 'Avalanche-pool2': 16887.48127, 'staking': 46.41206}"
+1058,FluidTokens,Lending,Cardano,['Cardano'],{'Cardano': 80980.59906}
+1059,Spin Spot,Dexes,Near,['Near'],{'Near': 99231.77092}
+1060,Option Dance,Options,Mixin,['Mixin'],{}
+1061,The Story of Draco,Farm,Fantom,['Fantom'],"{'pool2': 6.20163, 'Fantom-staking': 2.47135, 'Fantom-pool2': 6.20163, 'staking': 2.47135, 'Fantom': 212.41514}"
+1062,Jupiter Swap,Dexes,Kava,['Kava'],{'Kava': 1664.7844}
+1063,Interest Protocol,CDP,Ethereum,['Ethereum'],{'Ethereum': 1223013.77118}
+1064,Tomb,Algo-Stables,Fantom,['Fantom'],"{'pool2': 1417589.1613, 'Fantom-staking': 1380520.99212, 'Fantom-pool2': 1417589.1613, 'staking': 1380520.99212, 'Fantom': 170660.82031}"
+1065,AstarFarm,Gaming,Astar,['Astar'],{'Astar': 2465042.01615}
+1066,Swaap,Dexes,Polygon,['Polygon'],{'Polygon': 2042019.28455}
+1067,Everlend,Lending,Solana,['Solana'],{'Solana': 24041.50369}
+1068,SaharaDAO,Algo-Stables,Cronos,['Cronos'],"{'Cronos': 8919.13421, 'pool2': 1853.28724, 'Cronos-pool2': 1853.28724, 'Cronos-staking': 404.18364, 'staking': 404.18364}"
+1069,SharkSwap,Dexes,SXnetwork,['SXnetwork'],{'SXnetwork': 3305006.18871}
+1070,VITCSwap,Dexes,Vite,['Vite'],{'Vite': 6825.74473}
+1071,Tangent,Dexes,Hedera,['Hedera'],{}
+1072,Investin,Indexes,Solana,['Solana'],{'Solana': 22653.06784}
+1073,VAX,Dexes,MultiVAC,['MultiVAC'],{'MultiVAC': 83180.44195}
+1074,Aave Arc,Lending,Ethereum,['Ethereum'],"{'Ethereum': 59204.61996, 'Ethereum-borrowed': 0, 'borrowed': 0}"
+1075,Ratio Finance,CDP,Solana,['Solana'],{'Solana': 1312429.57053}
+1076,Kasava Dex,Dexes,Kava,['Kava'],{'Kava': 1477.77292}
+1077,OrbitalSwap,Dexes,Binance,['BSC'],"{'BSC': 34247.70584, 'BSC-staking': 0, 'staking': 0}"
+1078,KefirSwap,Dexes,Kava,['Kava'],{'Kava': 320.49362}
+1079,Acala Swap,Dexes,Acala,['Acala'],{'Acala': 1994855.94907}
+1080,Acala Dollar,CDP,Acala,['Acala'],{'Acala': 21003717.6071}
+1081,Union Protocol,Lending,Ethereum,['Ethereum'],"{'Ethereum': 200359.55208, 'Arbitrum-borrowed': 31621.52308, 'Ethereum-borrowed': 6531.77849, 'Arbitrum': 136151.89661, 'borrowed': 38153.30157}"
+1082,Moonwell Artemis,Lending,Moonbeam,['Moonbeam'],"{'Moonbeam-borrowed': 17336207.6097, 'Moonbeam-staking': 1667991.05427, 'borrowed': 17336207.6097, 'staking': 1667991.05427, 'Moonbeam': 33144434.39569}"
+1083,InsureDAO,Insurance,Ethereum,['Arbitrum'],"{'Optimism': 166146.04914, 'pool2': 44458.25538, 'Ethereum-pool2': 44458.25538, 'Ethereum': 122974.62216, 'Astar': 261775.81013, 'Ethereum-staking': 39319.03561, 'Arbitrum': 303877.00046, 'staking': 39319.03561}"
+1084,Gardens DAO,Services,xDai,['Gnosis'],{'Gnosis': 1847832.11854}
+1085,Phoenix DEX,Dexes,Terra2,['Terra2'],{'Terra2': 21147.99749}
+1086,Klap,Lending,Klaytn,['Klaytn'],"{'Klaytn': 3801170.25376, 'Klaytn-borrowed': 933392.0831, 'borrowed': 933392.0831}"
+1087,Nirvana,CDP,Solana,['Solana'],"{'Solana-staking': 233667.50559, 'Solana': 0.00012, 'staking': 233667.50559}"
+1088,FATExFi,Dexes,Polygon,['Polygon'],"{'Polygon': 3361.38764, 'Polygon-staking': 400.19415, 'staking': 400.19415}"
+1089,Ruby Finance,Algo-Stables,Kava,['Kava'],"{'Kava': 60.91745, 'Kava-staking': 84.49125, 'pool2': 204.53447, 'staking': 84.49125, 'Kava-pool2': 204.53447}"
+1090,Fringe,Lending,Ethereum,['Ethereum'],{'Ethereum': 73385.59071}
+1091,AuraSwap,Dexes,Polygon,['Polygon'],"{'Polygon': 1111.80196, 'Polygon-staking': 0, 'staking': 0}"
+1092,iziSwap,Dexes,Binance,['BSC'],{'BSC': 23168931.40332}
+1093,HiveSwap,Dexes,Map,['Map'],{'Map': 618008.30156}
+1094,VeleroDAO,CDP,Velas,['Velas'],{'Velas': 0}
+1095,SudoSwap,NFT Marketplace,Ethereum,['Ethereum'],{'Ethereum': 3657972.24667}
+1096,Team Finance,Launchpad,Ethereum,['Ethereum'],"{'BSC': 52546048.56522, 'Ethereum': 58808408.9744, 'Kava': 141298.40778, 'Avalanche': 1037549.50888, 'Polygon': 729552.34}"
+1097,Oracle Swap,Dexes,Songbird,['Songbird'],"{'Songbird': 210173.55924, 'Songbird-staking': 262669.11453, 'staking': 262669.11453}"
+1098,DexPad,Launchpad,Avalanche,['Cronos'],"{'Kava': 5.52023, 'Cronos': 321118.57099, 'Avalanche': 0.06729, 'Polygon': 42.96313}"
+1099,Sonic,Dexes,ICP,['ICP'],{'ICP': 302728.26797}
+1100,Surfswap Classic,Dexes,Kava,['Kava'],{'Kava': 80174.20431}
+1101,Omni Protocol,Lending,Ethereum,['Ethereum'],"{'Ethereum': 47.53886, 'Ethereum-borrowed': 12805543.31721, 'borrowed': 12805543.31721}"
+1102,StrategyX Finance,Farm,Fantom,['Fantom'],{'Fantom': 0}
+1103,HunnySwap,Dexes,Avalanche,['Avalanche'],{'Avalanche': 487698.92135}
+1104,Torches,Lending,Kucoin,['KCC'],"{'KCC': 17410029.93763, 'borrowed': 73909.95182, 'KCC-borrowed': 73909.95182}"
+1105,Lending Pond,Lending,Cardano,['Cardano'],{'Cardano': 666267.53092}
+1106,Atlendis,Uncollateralized Lending,Polygon,['Polygon'],"{'Polygon': 522333.98116, 'Polygon-borrowed': 0, 'borrowed': 0}"
+1107,DeepLock,Launchpad,Binance,['BSC'],"{'BSC': 11030154.86773, 'pool2': 325.91673, 'BSC-pool2': 325.91673}"
+1108,PinkSale,Launchpad,Binance,['BSC'],"{'Cronos': 68330.91404, 'BSC': 180785027.75029, 'Ethereum': 10667052.48297, 'Avalanche': 316339.73861, 'Polygon': 301803.56943, 'Fantom': 32658.86383}"
+1109,Fusion Dex,Dexes,Fantom,['Nova Network'],"{'EthereumClassic-staking': 0, 'Fantom-staking': 28651.16818, 'Nova Network': 534994.74552, 'Nova Network-staking': 8752.62387, 'EthereumClassic': 47.04642, 'Fantom': 10040.22556, 'staking': 37403.79204}"
+1110,ApeX Protocol,Dexes,Arbitrum,['Arbitrum'],{'Arbitrum': 227770.73505}
+1111,Toros,Indexes,Polygon,['Optimism'],"{'Optimism': 18063940.25287, 'Polygon': 1571773.3049}"
+1112,VeRocket,Dexes,VeChain,['VeChain'],{'VeChain': 456835.65581}
+1113,WhaleSwap,Dexes,Binance,['BSC'],"{'Optimism': 31.14252, 'Kava': 32.74476, 'Optimism-staking': 3.0944, 'Fantom-staking': 9.40677, 'Arbitrum-staking': 81.94893, 'BSC': 69056.76225, 'BSC-staking': 13502.56587, 'Avalanche': 127.00065, 'Avalanche-staking': 3.01533, 'Polygon': 133.02644, 'Polygon-staking': 0, 'Arbitrum': 53.93071, 'Fantom': 717.78695, 'staking': 13600.0313}"
+1114,Kintsugi,Cross Chain,Kintsugi,['Kintsugi'],{'Kintsugi': 1232136.40637}
+1115,Zest Protocol,Synthetics,Fantom,['Fantom'],"{'pool2': 403.10854, 'Fantom-staking': 0, 'Fantom-pool2': 403.10854, 'staking': 0, 'Fantom': 177.41459}"
+1116,Algodex,Dexes,Algorand,['Algorand'],{'Algorand': 31979.3716}
+1117,Azuro,Prediction Market,xDai,['Gnosis'],"{'Gnosis': 4513351.4228, 'Polygon': 1262526.665}"
+1118,MIND Games,Dexes,Aurora,['Arbitrum'],"{'Arbitrum-staking': 882335.75649, 'Arbitrum': 1699814.31098, 'staking': 882335.75649}"
+1119,Filet,Staking,Filecoin,['Filecoin'],{}
+1120,JustMoney,Dexes,Binance,['Tron'],"{'BSC': 72068.92714, 'Bittorrent': 3232.97092, 'Polygon': 53665.09985, 'Tron': 253165.31676}"
+1121,Taiga Protocol,Synthetics,Karura,['Karura'],{'Karura': 1567160.63712}
+1122,Tapio Protocol,Synthetics,Acala,['Acala'],{'Acala': 363100.19356}
+1123,DxSale,Launchpad,Ethereum,['BSC'],"{'Dexit': 0.00553, 'Moonriver': 0, 'Harmony': 1157.1546, 'Bitgert': 0.1853, 'BSC': 64852563.37268, 'Dogechain': 0, 'Ethereum': 3838369.66264, 'Gnosis': 0, 'Heco': 36331.84886, 'Avalanche': 150710.4951, 'Celo': 10571.51675, 'Arbitrum': 2454142.62798, 'CORE': 114308.19901, 'Fantom': 927370.39216, 'Cronos': 84331.19299, 'OKExChain': 26030.31891, 'Milkomeda C1': 5.00597, 'KCC': 22438.83562, 'smartBCH': 0, 'Polygon': 645649.36991}"
+1124,StarSwap,Dexes,Astar,['Astar'],"{'Astar': 325932.93973, 'Astar-staking': 8617.64083, 'staking': 8617.64083}"
+1125,MMO Finance,NFT Lending,Ethereum,['Ethereum'],"{'Ethereum': 31280.46942, 'Ethereum-borrowed': 4970.25694, 'borrowed': 4970.25694}"
+1126,Increment Lending,Lending,Flow,['Flow'],"{'Flow-borrowed': 144713.58868, 'Flow': 428170.14011, 'borrowed': 144713.58868}"
+1127,Increment Swap,Dexes,Flow,['Flow'],{'Flow': 5843998.03649}
+1128,OpenBiSea,Dexes,Kava,['Aurora'],"{'BSC': 67.258, 'Kava': 408.03428, 'Aurora': 674.95532, 'Polygon': 4.7852}"
+1129,onAVAX,Dexes,Avalanche,['Avalanche'],{'Avalanche': 81583.22772}
+1130,ShiftDollar,Algo-Stables,Cronos,['Cronos'],"{'Cronos': 92.08611, 'pool2': 3300.58617, 'Cronos-pool2': 3300.58617, 'Cronos-staking': 117.01512, 'staking': 117.01512}"
+1131,OortSwap,Dexes,REI,['REI'],{'REI': 9781.206}
+1132,TrustSwap,Services,Ethereum,['Ethereum'],"{'Ethereum': 1729.72617, 'Ethereum-staking': 4213796.55476, 'staking': 4213796.55476}"
+1133,Pony Finance,Indexes,Ethereum,['Ethereum'],{'Ethereum': 0}
+1134,Nava finance,Algo-Stables,REI,['REI'],"{'pool2': 150.15106, 'REI': 3779.33066, 'REI-pool2': 150.15106, 'REI-staking': 7.52758, 'staking': 7.52758}"
+1135,Green Planet,Lending,Binance,['BSC'],"{'BSC': 15517898.61361, 'BSC-borrowed': 6027980.39455, 'borrowed': 6027980.39455}"
+1136,Hedge,CDP,Solana,['Solana'],"{'Solana-staking': 0, 'Solana': 322848.18343, 'staking': 0}"
+1137,ElasticSwap,Dexes,Ethereum,['Ethereum'],"{'Ethereum': 2155.54463, 'Avalanche': 2153.73698, 'Avalanche-staking': 41300.04895, 'Ethereum-staking': 0, 'staking': 41300.04895}"
+1138,DSU Money,CDP,Ethereum,['Ethereum'],{'Ethereum': 539902.69879}
+1139,OrderNChaos,Algo-Stables,Avalanche,['Avalanche'],{'Avalanche': 15930.00618}
+1140,DogeClaw,Gaming,OKExChain,['OKExChain'],"{'OKExChain-staking': 0, 'OKExChain': 111.44437, 'pool2': 0.76455, 'staking': 0, 'OKExChain-pool2': 0.76455}"
+1141,Radiant,Lending,Arbitrum,['Arbitrum'],"{'Arbitrum-borrowed': 174950563.13974, 'pool2': 6765412.99622, 'Arbitrum-staking': 29746097.58265, 'Arbitrum': 95872159.04204, 'borrowed': 174950563.13974, 'Arbitrum-pool2': 6765412.99622, 'staking': 29746097.58265}"
+1142,Midas Capital,Lending,Binance,['Polygon'],"{'Moonbeam-borrowed': 2160.37827, 'Arbitrum-borrowed': 0, 'Polygon-borrowed': 0, 'BSC-borrowed': 132940.02741, 'Moonbeam': 46663.11212, 'BSC': 192638.32656, 'Polygon': 351159.69273, 'Arbitrum': 0, 'borrowed': 135100.40568}"
+1143,Octane Finance,Staking,Binance,['BSC'],"{'BSC': 463.14578, 'BSC-staking': 270.36346, 'pool2': 2601.82863, 'BSC-pool2': 2601.82863, 'staking': 270.36346}"
+1144,Bubbleswap,Dexes,Hedera,['Hedera'],{}
+1145,HomeCoin,CDP,Ethereum,['Ethereum'],"{'Ethereum': 0, 'Ethereum-borrowed': 6375169.7219, 'borrowed': 6375169.7219}"
+1146,QuasarSwap,Dexes,Nova Network,['Nova Network'],"{'Nova Network-staking': 36.25389, 'Nova Network': 1796.23092, 'staking': 36.25389}"
+1147,ETCswap,Dexes,EthereumClassic,['EthereumClassic'],{'EthereumClassic': 11009.94417}
+1148,Securo Finance,Indexes,Aurora,['BSC'],"{'BSC': 16.21097, 'Aurora': 0.7214, 'Avalanche': 11.59216, 'Polygon': 4.36895}"
+1149,ApeSwap Lending,Lending,Binance,['BSC'],"{'BSC': 15139359.93537, 'BSC-borrowed': 10471514.05781, 'borrowed': 10471514.05781}"
+1150,Aada,Lending,Cardano,['Cardano'],"{'Cardano': 1813189.22206, 'Cardano-staking': 356412.00296, 'staking': 356412.00296}"
+1151,Moon Swap,Dexes,Conflux,['Conflux'],{'Conflux': 1964368.51034}
+1152,LanternSwap,Dexes,Kava,['Kava'],{'Kava': 2.51853}
+1153,Revert Compoundor,Services,Ethereum,['Arbitrum'],"{'BSC': 10632.72329, 'Optimism': 1285783.32223, 'Ethereum': 812151.14951, 'Polygon': 526416.83163, 'Arbitrum': 1959261.43205}"
+1154,Baryon Network,Dexes,Binance,['BSC'],{'BSC': 1598281.10947}
+1155,Metapoly,Lending,Kava,['Ethereum'],"{'Ethereum': 623.27971, 'Kava': 0, 'Ethereum-borrowed': 0, 'borrowed': 0, 'Kava-borrowed': 0}"
+1156,Parallel Lending,Lending,Parallel,['Parallel'],"{'Heiko': 3766736.10451, 'Heiko-borrowed': 1412709.73563, 'borrowed': 3702171.76658, 'Parallel': 37703543.02503, 'Parallel-borrowed': 2289462.03096}"
+1157,Parallel AMM,Dexes,Parallel,['Parallel'],"{'Heiko': 320204.95918, 'Parallel': 3845174.5159}"
+1158,Parallel DAOfi,Payments,Parallel,['Parallel'],"{'Heiko': 361.6, 'Parallel': 1917.7}"
+1159,Hubble Exchange,Derivatives,Avalanche,['Avalanche'],{'Avalanche': 3330381.76365}
+1160,SiO2 Finance,Lending,Astar,['Astar'],"{'Astar-borrowed': 580922.96359, 'Astar': 4942554.97861, 'borrowed': 580922.96359}"
+1161,MixSwap Finance,Farm,Binance,['BSC'],"{'BSC': 20.31605, 'BSC-staking': 2453.52549, 'pool2': 510.70254, 'BSC-pool2': 510.70254, 'staking': 2453.52549}"
+1162,Drachma Exchange,Dexes,Solana,['Solana'],{'Solana': 0}
+1163,MM Finance Polygon,Dexes,Polygon,['Polygon'],"{'Polygon': 2973786.65369, 'Polygon-staking': 136303.02757, 'staking': 136303.02757}"
+1164,Huckleberry Lending,Lending,Moonriver,['Moonriver'],"{'Moonriver': 106195.52351, 'borrowed': 22862.16071, 'Moonriver-borrowed': 22862.16071}"
+1165,Cone,Dexes,Binance,['BSC'],{'BSC': 69167.2974}
+1166,Canto Dex,Dexes,Canto,['Canto'],{'Canto': 63123684.23129}
+1167,Arcade xyz,NFT Lending,Ethereum,['Ethereum'],"{'Ethereum': 14192110.1938, 'Ethereum-borrowed': 11189014.12621, 'borrowed': 11189014.12621}"
+1168,Prophet,Prediction Market,Obyte,['Obyte'],{'Obyte': 10679.94324}
+1169,Counterstake,Cross Chain,Obyte,['Ethereum'],"{'BSC': 4209.04535, 'Ethereum': 315293.63239, 'Kava': 457.17849, 'Polygon': 3578.01885, 'Obyte': 210824.94521}"
+1170,DogeSwapOrg,Dexes,Dogechain,['Dogechain'],{'Dogechain': 829751.18174}
+1171,Doge Shrek,Dexes,Dogechain,['Dogechain'],{'Dogechain': 11423.93227}
+1172,Bourbon Defi,Dexes,Dogechain,['Dogechain'],{'Dogechain': 3578.03702}
+1173,Mycelium Perpetual Swaps,Derivatives,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 831863.74053, 'Arbitrum': 5614706.4085, 'staking': 831863.74053}"
+1174,SaucerSwap,Dexes,Hedera,['Hedera'],{}
+1175,Yodeswap,Dexes,Dogechain,['Dogechain'],"{'Dogechain': 227643.76361, 'Dogechain-staking': 0, 'staking': 0}"
+1176,XCarnival,NFT Lending,Ethereum,['Ethereum'],"{'Ethereum': 60685.75222, 'Ethereum-borrowed': 3948.49872, 'borrowed': 3948.49872}"
+1177,WanLend,Lending,Wanchain,['Wanchain'],"{'Wanchain-borrowed': 1317958.23954, 'Wanchain': 3104489.06792, 'borrowed': 1317958.23954}"
+1178,Canto Lending,Lending,Canto,['Canto'],"{'Canto-borrowed': 335111.12781, 'borrowed': 335111.12781, 'Canto': 35318942.82631}"
+1179,IPOR,Derivatives,Ethereum,['Ethereum'],{'Ethereum': 30603173.44301}
+1180,RealT RMM Marketplace,Lending,xDai,['Gnosis'],"{'Gnosis': 7896649.02161, 'Gnosis-borrowed': 2463000.65701, 'borrowed': 2463000.65701}"
+1181,Pangea Swap,Dexes,Klaytn,['Klaytn'],{'Klaytn': 9272045.6258}
+1182,NEX,Derivatives,Aurora,['Optimism'],"{'Optimism': 112.37578, 'Aurora': 6.99521}"
+1183,IcecreamSwap,Dexes,Bitgert,['CORE'],"{'Dogechain': 1714.57854, 'XDC': 63447.92271, 'Fuse': 8.48915, 'CORE': 905636.25343, 'Bitgert': 456777.38161}"
+1184,Brise Swap,Dexes,Bitgert,['Bitgert'],{'Bitgert': 1551.07256}
+1185,Sphynx,Dexes,Binance,['Bitgert'],"{'BSC': 384870.08503, 'Cronos': 50030.28273, 'Bitgert': 1358455.55265}"
+1186,KibbleSwap,Dexes,Dogechain,['Dogechain'],"{'Dogechain': 1002823.69585, 'Dogechain-staking': 212934.31462, 'staking': 212934.31462}"
+1187,DogMoney,Dexes,Dogechain,['Dogechain'],"{'Dogechain': 8393.94721, 'Dogechain-staking': 234.12908, 'staking': 234.12908}"
+1188,Bancor V3,Dexes,Ethereum,['Ethereum'],{'Ethereum': 80840604.57027}
+1189,Morpho Compound,Lending,Ethereum,['Ethereum'],"{'Ethereum': 18675768.39696, 'Ethereum-borrowed': 31053032.08819, 'borrowed': 31053032.08819}"
+1190,DogePup,Farm,Dogechain,['Dogechain'],"{'Dogechain': 1402.08191, 'Dogechain-pool2': 60.46192, 'pool2': 60.46192, 'Dogechain-staking': 146.81509, 'staking': 146.81509}"
+1191,OptiFi,Options,Solana,['Solana'],{'Solana': 0}
+1192,FRAKT,NFT Lending,Solana,['Solana'],"{'Solana-borrowed': 941557.92037, 'Solana': 5196553.22077, 'borrowed': 941557.92037}"
+1193,Demex,Dexes,Carbon,['Carbon'],{'Carbon': 1950810.24617}
+1194,Fruits of Ryoshi,Farm,Dogechain,['Dogechain'],"{'Dogechain': 1242.27398, 'Dogechain-pool2': 41974.7007, 'pool2': 41974.7007, 'Dogechain-staking': 18390.02871, 'staking': 18390.02871}"
+1195,JioSwap,Dexes,GodwokenV1,['GodwokenV1'],"{'Ethereum': 9.71177, 'GodwokenV1': 15492.11938, 'Meter': 1339.38181}"
+1196,LaDAO Xocolatl,CDP,Polygon,['Polygon'],{'Polygon': 8605.07767}
+1197,Forteswap,Dexes,Canto,['Canto'],{'Canto': 167894.27899}
+1198,H2Odata,CDP,Ethereum,['Ethereum'],{'Ethereum': 300359.26067}
+1199,Starswap Starcoin,Dexes,Starcoin,['Starcoin'],"{'Starcoin-staking': 40816.81563, 'Starcoin': 437664.18084, 'staking': 40816.81563}"
+1200,Clever Protocol,Dexes,Dogechain,['Dogechain'],{'Dogechain': 32580.1175}
+1201,Kanvas,NFT Marketplace,Kava,['Kava'],"{'Kava': 2834.56673, 'Kava-staking': 0, 'pool2': 7.40669, 'staking': 0, 'Kava-pool2': 7.40669}"
+1202,Ocean One,Dexes,Mixin,['Mixin'],{'Mixin': 824044.8}
+1203,Hodl Fox,Staking,Mixin,['Mixin'],{'Mixin': 1862932.47}
+1204,Ribbon Earn,Options,Ethereum,['Ethereum'],"{'Ethereum': 6303075.59613, 'Ethereum-borrowed': 1635632.66851, 'borrowed': 1635632.66851}"
+1205,BFly Finance,Lending,Starcoin,['Starcoin'],{'Starcoin': 180317.58817}
+1206,Silo Finance,Lending,Ethereum,['Ethereum'],"{'Ethereum': 23068781.62635, 'Arbitrum-borrowed': 445809.06966, 'Ethereum-borrowed': 4364967.95809, 'Arbitrum': 1384295.95232, 'borrowed': 4810777.02776}"
+1207,Router Protocol,Cross Chain,Ethereum,['Polygon'],"{'Optimism': 17213.91182, 'Kava': 7517.22905, 'Cronos': 0, 'Harmony': 0, 'BSC': 67157.9139, 'Ethereum': 85726.07326, 'Aurora': 0.03658, 'Avalanche': 52903.70114, 'Polygon': 183410.63878, 'Arbitrum': 20040.599, 'Fantom': 65722.83581}"
+1208,MetaStreet,Lending,Ethereum,['Ethereum'],"{'Ethereum': 835269.54764, 'Ethereum-borrowed': 2197027.45643, 'borrowed': 2197027.45643}"
+1209,Arbswap,Dexes,Arbitrum Nova,['Arbitrum'],"{'Arbitrum Nova': 575942.86865, 'Arbitrum': 1213459.57106}"
+1210,RCPswap,Dexes,Arbitrum Nova,['Arbitrum Nova'],{'Arbitrum Nova': 176979.74227}
+1211,Energyfi,Dexes,Moonbeam,['Moonbeam'],{'Moonbeam': 3509.49407}
+1212,Bifrost Dex,Dexes,Bifrost,['Bifrost'],{'Bifrost': 4058477.21165}
+1213,Compound V3,Lending,Ethereum,['Ethereum'],"{'Ethereum': 429566984.14805, 'Polygon': 8702081.31151, 'Ethereum-borrowed': 172098339.32894, 'Polygon-borrowed': 4528649.56253, 'borrowed': 176626988.89146}"
+1214,Dogium Farm,Dexes,Dogechain,['Dogechain'],"{'Dogechain': 252.47628, 'Dogechain-pool2': 133.51369, 'pool2': 133.51369, 'Dogechain-staking': 43.91774, 'staking': 43.91774}"
+1215,TiFi,Dexes,Binance,['BSC'],"{'BSC': 26987.48328, 'BSC-staking': 904446.78637, 'staking': 904446.78637}"
+1216,UltronSwap,Dexes,Ultron,['Ultron'],"{'Ultron': 8461748.8638, 'Ultron-staking': 281742.11975, 'staking': 281742.11975}"
+1217,WTFDOGE,Farm,Dogechain,['Dogechain'],"{'Dogechain': 95.39823, 'Dogechain-pool2': 0, 'pool2': 0, 'Dogechain-staking': 0, 'staking': 0}"
+1218,Madmex,Derivatives,Polygon,['Polygon'],{'Polygon': 1431351.26296}
+1219,Bitgert Swap,Dexes,Bitgert,['Bitgert'],{'Bitgert': 16719.08547}
+1220,SSAP,Lending,Oasis,['CLV'],"{'Oasis-borrowed': 0, 'Oasis': 4.20232, 'CLV-borrowed': 32.57707, 'borrowed': 32.57707, 'CLV': 25.95108}"
+1221,Helio Protocol,CDP,Binance,['BSC'],{'BSC': 67018954.4499}
+1222,Phission Finance,Derivatives,Ethereum,['Ethereum'],"{'Ethereum': 982.59105, 'pool2': 479.93285, 'Ethereum-pool2': 479.93285}"
+1223,Lif3 Swap,Dexes,Tombchain,['Tombchain'],"{'Tombchain': 935628.19633, 'Tombchain-staking': 109394.81739, 'staking': 109394.81739}"
+1224,CantoSwap,Dexes,Canto,['Canto'],{'Canto': 106853.32511}
+1225,Crescent Dex,Dexes,Crescent,['Crescent'],{'Crescent': 8217278.16874}
+1226,Juggler Red,Dexes,Optimism,['Optimism'],{'Optimism': 741.21245}
+1227,forlend,Lending,Findora,['Findora'],"{'Findora': 103527.12907, 'Findora-borrowed': 37134.69585, 'borrowed': 37134.69585}"
+1228,KLEX Finance,Dexes,Klaytn,['Klaytn'],{'Klaytn': 327540.17297}
+1229,Klaylend Finance,Farm,Klaytn,['Klaytn'],"{'Klaytn-pool2': 0, 'pool2': 0, 'Klaytn-staking': 0, 'Klaytn': 0, 'staking': 0}"
+1230,Logium,Derivatives,Ethereum,['Ethereum'],{'Ethereum': 2317.06706}
+1231,Junoswap,Dexes,Juno,['Juno'],{'Juno': 0}
+1232,Roe Finance,Lending,Ethereum,['Ethereum'],"{'Arbitrum-borrowed': 10581.3817, 'Polygon-borrowed': 6140.14812, 'Ethereum': 173369.41699, 'Polygon': 57054.76718, 'Ethereum-borrowed': 209.61026, 'Arbitrum': 121835.80588, 'borrowed': 16931.14008}"
+1233,Aurora Plus,Services,Aurora,['Aurora'],{'Aurora': 7901251.51868}
+1234,ElonSwap,Dexes,Dogechain,['Dogechain'],{'Dogechain': 415.56773}
+1235,SweetSwap,Dexes,Dogechain,['Dogechain'],{'Dogechain': 1887.7737}
+1236,Goat Swap,Dexes,Solana,['Solana'],{'Solana': 252.28084}
+1237,FNDZ,Dexes,Binance,['BSC'],"{'BSC': 27336.60104, 'BSC-staking': 85012.87233, 'staking': 85012.87233}"
+1238,Ease.org,Insurance,Ethereum,['Ethereum'],"{'Ethereum': 6957196.54864, 'Ethereum-staking': 494660.92485, 'staking': 494660.92485}"
+1239,RociFi V1,Lending,Polygon,['Polygon'],"{'Polygon': 32188.0431, 'Polygon-borrowed': 0, 'borrowed': 0}"
+1240,Chocodoge,Algo-Stables,Dogechain,['Dogechain'],"{'Dogechain': 5995.16805, 'Dogechain-pool2': 1115.69269, 'pool2': 1115.69269, 'Dogechain-staking': 13.95444, 'staking': 13.95444}"
+1241,VanSwap,Dexes,Vision,['Vision'],"{'Vision': 10191033.60007, 'Vision-staking': 528389.48703, 'staking': 528389.48703}"
+1242,OpenSky Finance,NFT Lending,Ethereum,['Ethereum'],"{'Ethereum': 339059.40449, 'Ethereum-borrowed': 123194.77605, 'borrowed': 123194.77605}"
+1243,Powaa Protocol,Staking,Ethereum,['Ethereum'],{'Ethereum': 9119.6723}
+1244,Interlay Collateral,Cross Chain,Interlay,['Interlay'],{'Interlay': 3950363.1}
+1245,MetalSwap,Derivatives,Ethereum,['Ethereum'],"{'pool2': 37952.463, 'Polygon-pool2': 37952.463, 'BSC': 0, 'Ethereum': 504649.45312, 'BSC-staking': 314735.62131, 'Ethereum-staking': 387651.07246, 'staking': 702386.69377}"
+1246,dAMM Finance,Uncollateralized Lending,Ethereum,['Ethereum'],"{'Ethereum': 360361.36735, 'Ethereum-borrowed': 77601.34414, 'borrowed': 77601.34414}"
+1247,Polyo Exchange,Dexes,Binance,['BSC'],{'BSC': 0}
+1248,Yupana,Lending,Tezos,['Tezos'],"{'Tezos-borrowed': 68053.79574, 'borrowed': 68053.79574, 'Tezos': 138847.65779}"
+1249,DogeMuskSwap,Dexes,Dogechain,['Dogechain'],{'Dogechain': 16907.19111}
+1250,Fraxlend,Lending,Ethereum,['Ethereum'],{'Ethereum': 89028227.0432}
+1251,Inuswap,Dexes,Dogechain,['Dogechain'],{'Dogechain': 270.15583}
+1252,Procyon,Farm,Cronos,['Cronos'],"{'Cronos': 65.46499, 'pool2': 2.0594, 'Cronos-pool2': 2.0594, 'Cronos-staking': 3.97561, 'staking': 3.97561}"
+1253,Symphony Finance,Dexes,Optimism,['Polygon'],"{'Optimism': 3218.45586, 'Avalanche': 1041.40377, 'Polygon': 17970.32706}"
+1254,Pluto,Reserve Currency,Waves,['Waves'],{'Waves': 1452897.18875}
+1255,Hectagon,Staking,Binance,['BSC'],"{'BSC': 150074.57052, 'BSC-staking': 52150.57846, 'staking': 52150.57846}"
+1256,BakedPotatoes,Staking,Dogechain,['Dogechain'],{'Dogechain': 0.88953}
+1257,Chee Finance,Lending,Celo,['Meter'],"{'Meter-borrowed': 623.03968, 'BSC-borrowed': 226.23173, 'Meter': 430952.89834, 'BSC': 1113.42789, 'Celo': 42825.18115, 'borrowed': 162991.76378, 'Celo-borrowed': 162142.49237}"
+1258,Aequinox,Dexes,Binance,['BSC'],{'BSC': 633431.04998}
+1259,Algofi Swap,Dexes,Algorand,['Algorand'],{'Algorand': 1156891.3744}
+1260,ScarySwap,Dexes,Fantom,['Fantom'],"{'Fantom-staking': 2002.38889, 'staking': 2002.38889, 'Fantom': 39203.16624}"
+1261,BoneSwap,Farm,Dogechain,['Dogechain'],"{'Dogechain': 539.79268, 'Dogechain-pool2': 323.35942, 'pool2': 323.35942, 'Dogechain-staking': 292.36705, 'staking': 292.36705}"
+1262,SeaLightSwap,Dexes,Polygon,['Polygon'],{'Polygon': 43.18415}
+1263,Muffin,Dexes,Ethereum,['Ethereum'],{'Ethereum': 117684.12557}
+1264,OKCSwap,Dexes,OKExChain,['OKExChain'],{'OKExChain': 27554545.99867}
+1265,FstSwap,Dexes,Binance,['BSC'],{'BSC': 1911675.14161}
+1266,Titano Swych,Dexes,Binance,['BSC'],{'BSC': 4638791.08452}
+1267,Orbit,Services,Polygon,['Polygon'],{'Polygon': 28882.11073}
+1268,HopSwap,Dexes,Cronos,['Cronos'],{'Cronos': 25674.2088}
+1269,MoonLift,Dexes,Binance,['BSC'],{'BSC': 1262.85837}
+1270,W3swap,Dexes,Binance,['BSC'],{'BSC': 28782395.95214}
+1271,PYEswap,Dexes,Binance,['BSC'],{'BSC': 14001.40581}
+1272,UwU Lend,Lending,Ethereum,['Ethereum'],"{'Ethereum': 67889902.64692, 'pool2': 15007325.60966, 'Ethereum-borrowed': 163607047.59711, 'borrowed': 163607047.59711, 'Ethereum-pool2': 15007325.60966}"
+1273,Wojak Finance,Dexes,Dogechain,['Dogechain'],"{'Dogechain': 24793.1984, 'Dogechain-staking': 16857.20637, 'staking': 16857.20637}"
+1274,DOOAR,Dexes,Binance,['Solana'],"{'BSC': 728050.02487, 'Solana': 6334130.24105}"
+1275,WinerySwap,Dexes,Binance,['BSC'],{'BSC': 762230.06877}
+1276,Pls2e,Dexes,Binance,['BSC'],{'BSC': 41977.19905}
+1277,ApexSwap,Dexes,Avalanche,['Avalanche'],{'Avalanche': 97.62943}
+1278,Frax Swap,Dexes,Ethereum,['Ethereum'],"{'Moonbeam': 18.04882, 'BSC': 731.12489, 'Dogechain': 352136.93106, 'Ethereum': 67956826.032, 'Avalanche': 64.17179, 'Polygon': 283023.71266, 'Arbitrum': 235.18268, 'Fantom': 59.99445}"
+1279,HipPoWSwap,Dexes,EthereumPoW,['EthereumPoW'],{'EthereumPoW': 2960.52855}
+1280,UniWswap AMM,Dexes,EthereumPoW,['EthereumPoW'],{'EthereumPoW': 167207.76326}
+1281,PowSea,Dexes,EthereumPoW,['EthereumPoW'],{'EthereumPoW': 1684.71114}
+1282,PoWSwap,Dexes,EthereumPoW,['EthereumPoW'],{'EthereumPoW': 44195.53672}
+1283,Redemption,Dexes,Fantom,['Fantom'],{'Fantom': 65096.88584}
+1284,Capricorn Finance,Dexes,Cube,['Cube'],{'Cube': 91365.10165}
+1285,Brainiac Finance,Lending,GodwokenV1,['GodwokenV1'],"{'pool2': 30889.89381, 'GodwokenV1-staking': 14738.05288, 'GodwokenV1-borrowed': 8300.75177, 'GodwokenV1': 67111.91629, 'GodwokenV1-pool2': 30889.89381, 'borrowed': 8300.75177, 'staking': 14738.05288}"
+1286,AlienFi,Dexes,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 819266.8277, 'Arbitrum': 6742337.26688, 'staking': 819266.8277}"
+1287,KDex,Dexes,Kava,['Kava'],{'Kava': 1402.8}
+1288,VoltSwap V2,Dexes,Meter,['Meter'],{'Meter': 2856867.4226}
+1289,Lemma,Derivatives,Optimism,['Optimism'],{'Optimism': 233293.82764}
+1290,Infy Protocol,NFT Lending,Kava,['Polygon'],"{'Kava': 0, 'Polygon': 1.04479}"
+1291,Fliperino,Prediction Market,EthereumPoW,['EthereumPoW'],{'EthereumPoW': 2.63295}
+1292,DeFi Franc,CDP,Ethereum,['Ethereum'],"{'Ethereum': 16780617.18964, 'Ethereum-staking': 1984791.14474, 'staking': 1984791.14474}"
+1293,FX Swap,Dexes,FunctionX,['FunctionX'],{'FunctionX': 1605211.40286}
+1294,Trader Joe Lend,Lending,Avalanche,['Avalanche'],"{'Avalanche': 9291388.32037, 'borrowed': 5029497.67001, 'Avalanche-borrowed': 5029497.67001}"
+1295,Sonne Finance,Lending,Optimism,['Optimism'],"{'Optimism': 48149725.45408, 'Optimism-borrowed': 108056756.59022, 'Optimism-staking': 5676338.36088, 'borrowed': 108056756.59022, 'staking': 5676338.36088}"
+1296,Zircon Gamma,Dexes,Moonriver,['Moonriver'],"{'BSC': 36581.12478, 'Moonriver': 44342.96571}"
+1297,DarkSwap,Dexes,Dogechain,['Dogechain'],{'Dogechain': 10415.06095}
+1298,XSwap Protocol,Dexes,XDC,['XDC'],{'XDC': 3104014.56188}
+1299,X2Y2,NFT Lending,Ethereum,['Ethereum'],"{'Ethereum': 4409842.97998, 'Ethereum-staking': 29946373.00186, 'staking': 29946373.00186}"
+1300,Sushi Furo,Payments,Ethereum,['Ethereum'],"{'Optimism': 1.2072, 'Moonriver': 0, 'Gnosis-vesting': 0, 'Harmony-vesting': 0, 'Polygon-vesting': 6.0501, 'Harmony': 0, 'Fantom-vesting': 0, 'Avalanche-vesting': 814.52254, 'Moonriver-vesting': 0, 'BSC': 4.37177, 'Ethereum': 1346480.15026, 'Gnosis': 9.10849, 'vesting': 108306451.67584, 'Avalanche': 33.77336, 'Arbitrum': 1671.43064, 'Optimism-vesting': 2.81177, 'BSC-vesting': 1202395.07394, 'Moonbeam-vesting': 0, 'Fantom': 2.10635, 'Ethereum-vesting': 106154936.71481, 'Moonbeam': 0.40754, 'Polygon': 94640.11052, 'Arbitrum-vesting': 948296.50267}"
+1301,Roketo,Payments,Near,['Near'],"{'vesting': 38425.10921, 'Near-vesting': 38425.10921, 'Near': 41481.36827}"
+1302,Ribbon Lend,Uncollateralized Lending,Ethereum,['Ethereum'],"{'Ethereum': 1767624.83744, 'Ethereum-borrowed': 37.89652, 'borrowed': 37.89652}"
+1303,Sushi Trident,Dexes,Polygon,['Bittorrent'],"{'Optimism': 2436119.46141, 'Metis': 159640.66523, 'Kava': 857984.16992, 'Bittorrent': 3442247.34282, 'BSC': 37163.73664, 'Avalanche': 66215.268, 'Polygon': 1540536.66214, 'Arbitrum': 1535492.72803}"
+1304,Lifinity,Dexes,Solana,['Solana'],{'Solana': 4109907.41878}
+1305,Zootopia Finance,Dexes,Binance,['BSC'],{'BSC': 8603.51995}
+1306,EthwSwap,Dexes,EthereumPoW,['EthereumPoW'],{'EthereumPoW': 3.62042}
+1307,Blue Planet,Dexes,Binance,['BSC'],{'BSC': 1270109.69989}
+1308,Amulet Protocol,Insurance,Solana,['Solana'],{'Solana': 111141.8}
+1309,SuperBots,Services,Binance,['BSC'],"{'pool2': 5.33546, 'BSC-pool2': 0, 'Ethereum-pool2': 5.33546, 'BSC': 1428.71967, 'BSC-staking': 11124.28226, 'Ethereum-staking': 22604.11867, 'staking': 33728.40094}"
+1310,PowerSwap,Dexes,EthereumPoW,['EthereumPoW'],{'EthereumPoW': 91485.33018}
+1311,OctoPow Finance,Dexes,EthereumPoW,['EthereumPoW'],{'EthereumPoW': 15962.70374}
+1312,AlgoRai Finance,Options Vault,Algorand,['Algorand'],{'Algorand': 934991.91051}
+1313,AnyHedge v0.11,Derivatives,Bitcoincash,['Bitcoincash'],{'Bitcoincash': 838488.8}
+1314,LFGSwap EthereumPoW,Dexes,EthereumPoW,['EthereumPoW'],{'EthereumPoW': 173550.06195}
+1315,DAO Swap,Dexes,Binance,['BSC'],{'BSC': 292057.46822}
+1316,Morpho Aave,Lending,Ethereum,['Ethereum'],"{'Ethereum': 154281841.4775, 'Ethereum-borrowed': 219282569.27776, 'borrowed': 219282569.27776}"
+1317,BabyDogeSwap,Dexes,Binance,['BSC'],"{'BSC': 41386143.59701, 'BSC-staking': 15412669.79027, 'staking': 15412669.79027}"
+1318,CakeWSwap,Dexes,EthereumPoW,['EthereumPoW'],{'EthereumPoW': 171.29026}
+1319,OHMPOW,Dexes,EthereumPoW,['EthereumPoW'],"{'EthereumPoW-staking': 0, 'EthereumPoW': 0, 'staking': 0}"
+1320,Quickswap Lend,Lending,Polygon,['Polygon'],"{'Polygon': 1683.08162, 'Polygon-borrowed': 232216.31067, 'borrowed': 232216.31067}"
+1321,GooseFX,Dexes,Binance,['Solana'],"{'Solana-staking': 135009.33798, 'Solana': 20642.44288, 'staking': 135009.33798}"
+1322,Arctic,Dexes,Aurora,['Aurora'],{'Aurora': 438606.54377}
+1323,Fortress Loans,Lending,Binance,['BSC'],"{'BSC': 4755.84078, 'BSC-borrowed': 3382306.57161, 'borrowed': 3382306.57161}"
+1324,TempleDAO Trade,Dexes,Ethereum,['Ethereum'],{'Ethereum': 0}
+1325,PancakeSwap StableSwap,Dexes,Binance,['BSC'],{'BSC': 119960480.85459}
+1326,Subzero ZSwap,Dexes,Avalanche,['Avalanche'],{'Avalanche': 72338.12218}
+1327,Algomint,Algo-Stables,Algorand,['Algorand'],{'Algorand': 62.6326}
+1328,Ape Finance,Lending,Ethereum,['Ethereum'],"{'Ethereum': 371565.5194, 'pool2': 15273.21502, 'Ethereum-pool2': 15273.21502}"
+1329,handle.fi Perps,Derivatives,Arbitrum,['Arbitrum'],{'Arbitrum': 1469307.55871}
+1330,StableDoin,Dexes,Dogechain,['Dogechain'],{'Dogechain': 219.69454}
+1331,USDFI Lending,Lending,Binance,['BSC'],"{'BSC': 156881.99358, 'BSC-borrowed': 78254.98529, 'borrowed': 78254.98529}"
+1332,Dolomite,Lending,Arbitrum,['Arbitrum'],{'Arbitrum': 1350828.61882}
+1333,Real Protocol,CDP,EthereumPoW,['EthereumPoW'],{'EthereumPoW': 0.1705}
+1334,ECHSWAP,Dexes,Echelon,['Echelon'],{'Echelon': 0}
+1335,Omnidex Lend,Lending,Telos,['Telos'],"{'Telos-borrowed': 821446.37164, 'Telos': 1138978.61026, 'borrowed': 821446.37164}"
+1336,Beluga Protocol,Dexes,Solana,['Solana'],{'Solana': 303.5689}
+1337,Gravis Finance,Dexes,Binance,['BSC'],"{'BSC': 30359.04287, 'Heco': 803.59191, 'Polygon': 12947.18774}"
+1338,ION DAO,Synthetics,Osmosis,['Osmosis'],{'Osmosis': 1718703.6681}
+1339,PRDT,Prediction Market,Binance,['BSC'],"{'BSC': 43582.01553, 'Polygon': 31760.12571}"
+1340,Pando Rings,Lending,Mixin,['Mixin'],"{'Mixin': 11560322.07567, 'borrowed': 6892948.19226, 'Mixin-borrowed': 6892948.19226}"
+1341,Pando Leaf,CDP,Mixin,['Mixin'],{'Mixin': 63053324.55907}
+1342,Argo,CDP,Aptos,['Aptos'],{'Aptos': 191638.56492}
+1343,LiquidSwap,Dexes,Aptos,['Aptos'],{'Aptos': 8402601.88465}
+1344,Frog Swap,Dexes,Kekchain,['Kekchain'],{'Kekchain': 177.9705}
+1345,KekSwap,Dexes,Kekchain,['Kekchain'],{'Kekchain': 241.88731}
+1346,WEMIX.FI,Dexes,WEMIX,['WEMIX'],{'WEMIX': 14447945.80954}
+1347,AUX Exchange,Dexes,Aptos,['Aptos'],{'Aptos': 111402.92179}
+1348,AnimeSwap,Dexes,Aptos,['Aptos'],{'Aptos': 237592.70552}
+1349,Vendor Finance,Lending,Arbitrum,['Arbitrum'],{'Arbitrum': 35968.08352}
+1350,Wavelength DAO,Dexes,Velas,['Velas'],{'Velas': 1693703.39181}
+1351,Aptoswap,Dexes,Aptos,['Aptos'],{'Aptos': 63174.60133}
+1352,JOJO,Derivatives,Binance,['BSC'],{'BSC': 0.00174}
+1353,AtoDEX,Dexes,Aptos,['Aptos'],{'Aptos': 36952.44576}
+1354,Cega,Exotic Options,Solana,['Solana'],"{'Solana-borrowed': 1733093.5218, 'Solana': 13188844.05346, 'borrowed': 1733093.5218}"
+1355,Aries Markets,Lending,Aptos,['Aptos'],"{'Aptos-borrowed': 139836.07197, 'Aptos': 786600.71303, 'borrowed': 139836.07197}"
+1356,Silo Protocol,Options Vault,Algorand,['Algorand'],{'Algorand': 98.79921}
+1357,PaperDAO,Lending,EthereumPoW,['EthereumPoW'],"{'EthereumPoW-borrowed': 7177.19689, 'EthereumPoW': 526.6162, 'borrowed': 7177.19689}"
+1358,Spherium,Cross Chain,Ethereum,['Polygon'],"{'Optimism': 2915.22184, 'Cronos': 0, 'OKExChain': 0, 'Moonriver': 0, 'KCC': 0, 'Moonbeam': 0, 'BSC': 3027.79963, 'Ethereum': 4621.43172, 'Aurora': 0, 'Avalanche': 3123.02323, 'Polygon': 9415.7509, 'Arbitrum': 2780.92667, 'Fantom': 4087.09443}"
+1359,MinerSwap,Dexes,EthereumPoW,['EthereumPoW'],{'EthereumPoW': 0.00028}
+1360,Evolve,Lending,Cronos,['Cronos'],"{'Cronos-borrowed': 144428.96078, 'Cronos': 486.2206, 'borrowed': 144428.96078}"
+1361,Quickswap V3,Dexes,Polygon,['Polygon'],"{'Dogechain': 1700744.2136, 'Polygon': 53801479.45273}"
+1362,Peaky Finance,Derivatives,Binance,['BSC'],{'BSC': 0.78474}
+1363,CroLend Finance,Lending,Cronos,['Cronos'],"{'Cronos-borrowed': 0, 'Cronos': 0, 'borrowed': 0}"
+1364,Exactly,Lending,Ethereum,['Ethereum'],"{'Optimism': 645734.24351, 'Ethereum': 1176102.51561, 'Optimism-borrowed': 1129530.49116, 'Ethereum-borrowed': 629225.62082, 'borrowed': 1758756.11198}"
+1365,HeliSwap,Dexes,Hedera,['Hedera'],{'Hedera': 5724354.33502}
+1366,Sculptor Finance,Lending,Binance,['BSC'],"{'pool2': 578.1768, 'BSC-borrowed': 6584.09663, 'BSC-pool2': 578.1768, 'BSC': 11429.73913, 'BSC-staking': 5561.02909, 'borrowed': 6584.09663, 'staking': 5561.02909}"
+1367,Debets,Prediction Market,Polygon,['Polygon'],"{'Polygon': 7230.10998, 'Fantom': 0.49029}"
+1368,Llamalend,NFT Lending,Ethereum,['Ethereum'],"{'Ethereum': 51401.27863, 'Ethereum-borrowed': 118310.15115, 'borrowed': 118310.15115}"
+1369,MetaTdex,Dexes,Binance,['Heco'],"{'BSC': 4020.57976, 'Heco': 489043.96899, 'Polygon': 53442.26583}"
+1370,MUX Derivatives,Derivatives,Ethereum,['Arbitrum'],"{'BSC': 1352075.55901, 'Optimism': 943062.28015, 'Avalanche': 804703.55306, 'Arbitrum': 11613764.35496, 'Fantom': 739062.85552}"
+1371,NFTfi,NFT Lending,Ethereum,['Ethereum'],{'Ethereum': 29875236.95713}
+1372,OPX Finance,Derivatives,Optimism,['Optimism'],{'Optimism': 565610.18639}
+1373,BarnSwap,Dexes,MUUCHAIN,['MUUCHAIN'],{'MUUCHAIN': 21676.96528}
+1374,Helix,Dexes,Injective,['Injective'],{'Injective': 7944457.96608}
+1375,Arbor Finance,Lending,Ethereum,['Ethereum'],{'Ethereum': 571311.48769}
+1376,Snowflake Exchange,Dexes,Polygon,['Polygon'],"{'BSC': 30120.96906, 'BSC-staking': 0, 'Polygon': 129026.02841, 'Polygon-staking': 7192.31846, 'staking': 7192.31846}"
+1377,Orderly Network,Dexes,Near,['Near'],{'Near': 6479977.8301}
+1378,Kava Boost,Farm,Kava,['Kava'],{'Kava': 277787.82775}
+1379,Weld Finance,Farm,Kava,['Kava'],"{'Kava': 321121.25587, 'Kava-staking': 0, 'pool2': 0, 'staking': 0, 'Kava-pool2': 0}"
+1380,Sigmausd,Algo-Stables,Ergo,['Ergo'],{'Ergo': 2002608.79369}
+1381,KSwap,Dexes,Kava,['Kava'],{'Kava': 61055.8062}
+1382,3xcalibur,Dexes,Arbitrum,['Arbitrum'],{'Arbitrum': 4785367.8297}
+1383,Sentiment,Leveraged Farming,Arbitrum,['Arbitrum'],{'Arbitrum': 7948949.75181}
+1384,Cetus,Dexes,Aptos,['Aptos'],{'Aptos': 110647.9235}
+1385,Joe V2,Dexes,Avalanche,['Avalanche'],"{'Avalanche': 28873891.26177, 'Arbitrum': 6979361.50892}"
+1386,Crypto Lottery,Prediction Market,CSC,['BSC'],"{'KCC': 2.754, 'BSC': 163.43694, 'CSC': 0, 'Avalanche': 1.732, 'Polygon': 48.8376, 'Celo': 0.65428}"
+1387,Perp88,Derivatives,Polygon,['Polygon'],{'Polygon': 517009.99508}
+1388,BAO Baskets,Leveraged Farming,Ethereum,['Ethereum'],"{'Ethereum': 616026.68145, 'pool2': 1789571.70216, 'Ethereum-staking': 702767.51287, 'staking': 702767.51287, 'Ethereum-pool2': 1789571.70216}"
+1389,POISON FINANCE,Synthetics,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 1203606.01396, 'Arbitrum': 310069.24396, 'staking': 1203606.01396}"
+1390,EMDX,Derivatives,Avalanche,['Avalanche'],{'Avalanche': 39030.49546}
+1391,Derify Protocol,Dexes,Binance,['BSC'],{'BSC': 28991.92838}
+1392,LunaFi,Prediction Market,Polygon,['Polygon'],"{'Polygon': 334387.70765, 'pool2': 69615.65834, 'Polygon-pool2': 69615.65834, 'Polygon-staking': 593497.91724, 'staking': 593497.91724}"
+1393,zkBob,Privacy,Polygon,['Polygon'],{'Polygon': 407075.58282}
+1394,Bored Candy City,Dexes,Cronos,['Cronos'],"{'Cronos': 553346.65071, 'vesting': 0.02318, 'Cronos-staking': 516727.67613, 'Cronos-vesting': 0.02318, 'staking': 516727.67613}"
+1395,Camelot,Dexes,Arbitrum,['Arbitrum'],{'Arbitrum': 97381156.60369}
+1396,Indigo,CDP,Cardano,['Cardano'],{'Cardano': 18690367.84704}
+1397,Zharta,NFT Lending,Ethereum,['Ethereum'],{'Ethereum': 144332.94484}
+1398,Step Exchange,Dexes,Step,['Step'],{'Step': 4221300.47607}
+1399,Archly Finance,Dexes,Telos,['Telos'],"{'Optimism': 132302.29116, 'Kava': 20013.82829, 'Kava-staking': 11967.5282, 'Arbitrum Nova-staking': 11547.93364, 'Optimism-staking': 9127.35257, 'Arbitrum Nova': 28286.96211, 'Fantom-staking': 28687.71602, 'Telos-staking': 44438.08274, 'Arbitrum-staking': 33588.6316, 'BSC': 105362.78302, 'BSC-staking': 20971.1018, 'Polygon': 31973.80724, 'Telos': 227563.02551, 'Polygon-staking': 14687.01526, 'Arbitrum': 193560.42135, 'Fantom': 70582.92073, 'staking': 175015.36183}"
+1400,OpenBook,Dexes,Solana,['Solana'],{'Solana': 4959666.27984}
+1401,Jexchange,Dexes,Elrond,['MultiversX'],{'MultiversX': 66790.25224}
+1402,KPerp Exchange,Derivatives,Kava,['Kava'],"{'Kava': 0, 'Kava-staking': 480761.47323, 'staking': 480761.47323}"
+1403,Neptune Mutual,Insurance,Ethereum,['Arbitrum'],"{'Ethereum': 229867.56525, 'Arbitrum': 244264.57585}"
+1404,SynFutures,Derivatives,Ethereum,['Polygon'],"{'BSC': 52617.51371, 'Ethereum': 14810.17188, 'Polygon': 70964.38948, 'Arbitrum': 34187.15505}"
+1405,ParaSpace Lending,NFT Lending,Ethereum,['Ethereum'],"{'Ethereum': 95193572.89246, 'Ethereum-borrowed': 22098270.32512, 'borrowed': 22098270.32512}"
+1406,HoustonSwap,Dexes,Aptos,['Aptos'],{'Aptos': 147670.63763}
+1407,Bitlend,Lending,Bittorrent,['Bittorrent'],{'Bittorrent': 174.84525}
+1408,SwapFish,Dexes,Arbitrum,['Arbitrum'],"{'BSC': 72762.67043, 'BSC-staking': 0, 'Arbitrum-staking': 111201.70175, 'Arbitrum': 373147.43859, 'staking': 111201.70175}"
+1409,Mummy Finance,Derivatives,Fantom,['Fantom'],"{'Optimism': 4376565.02143, 'Optimism-staking': 0, 'Fantom-staking': 0, 'staking': 0, 'Fantom': 14087717.8304}"
+1410,Equalizer Exchange,Dexes,Fantom,['Fantom'],"{'Fantom-staking': 8756713.22886, 'staking': 8756713.22886, 'Fantom': 33163039.24191}"
+1411,JulSwap,Dexes,Binance,['BSC'],{'BSC': 938107.24273}
+1412,Blur,NFT Marketplace,Ethereum,['Ethereum'],{'Ethereum': 134842003.14975}
+1413,DefiEdge,Dexes,Ethereum,['Optimism'],"{'Optimism': 2514389.67766, 'Ethereum': 1672913.47858, 'Polygon': 369701.46538, 'Arbitrum': 797384.32553}"
+1414,ABEL Finance,Lending,Aptos,['Aptos'],"{'Aptos-borrowed': 365673.29774, 'Aptos': 684861.8959, 'borrowed': 365673.29774}"
+1415,EsdtMarket,Dexes,Elrond,['MultiversX'],{'MultiversX': 9476.43023}
+1416,STON.fi,Dexes,TON,['TON'],{'TON': 545424.82234}
+1417,Lodestar Finance,Lending,Arbitrum,['Arbitrum'],{'Arbitrum': 10.6846}
+1418,BendDAO APE Staking,Staking,Ethereum,['Ethereum'],{'Ethereum': 25597421.11166}
+1419,Polycat Dex,Dexes,Polygon,['Polygon'],"{'Polygon': 829570.99886, 'Polygon-staking': 19974.14372, 'staking': 19974.14372}"
+1420,VaporDex,Dexes,Avalanche,['Avalanche'],{'Avalanche': 952181.0928}
+1421,Nitron,CDP,Carbon,['Carbon'],{'Carbon': 1941618.13761}
+1422,JediSwap,Dexes,Starknet,['Starknet'],{'Starknet': 535966.75409}
+1423,10KSwap,Dexes,Starknet,['Starknet'],{'Starknet': 761062.25815}
+1424,RBX,Dexes,Ethereum,['BSC'],"{'pool2': 0, 'BSC-pool2': 0, 'Ethereum-pool2': 0, 'BSC': 866837.0716, 'Ethereum': 56927.46206, 'BSC-staking': 181149.773, 'Ethereum-staking': 145656.47127, 'staking': 326806.24427}"
+1425,El Dorado Exchange,Derivatives,Binance,['BSC'],"{'BSC': 1197925.27706, 'Arbitrum': 1050497.40145}"
+1426,InfiniTORR,Dexes,Bittorrent,['Bittorrent'],{'Bittorrent': 1660.34533}
+1427,KyotoSwap,Dexes,Binance,['BSC'],{'BSC': 1687511.21725}
+1428,Level Finance,Derivatives,Binance,['BSC'],"{'BSC': 26309753.8783, 'pool2': 2503328.54541, 'BSC-pool2': 2503328.54541}"
+1429,BonqDAO,Lending,Polygon,['Polygon'],"{'Polygon': 1157.86978, 'Polygon-staking': 65849.9106, 'staking': 65849.9106}"
+1430,Gamut Exchange,Dexes,Kava,['Kava'],{'Kava': 12622.14036}
+1431,Tender Finance,Lending,Arbitrum,['Arbitrum'],"{'Arbitrum-borrowed': 1221852.70091, 'Arbitrum': 1847526.59822, 'borrowed': 1221852.70091}"
+1432,Dexit Finance Swap,Dexes,Dexit,['Dexit'],{'Dexit': 131326.6217}
+1433,MahaLend,Lending,Ethereum,['Ethereum'],"{'Ethereum': 51458.06577, 'Ethereum-borrowed': 88519.34009, 'borrowed': 88519.34009}"
+1434,Based V1,Algo-Stables,Fantom,['Fantom'],"{'Fantom-staking': 162808.49133, 'treasury': 118359.02301, 'Fantom-treasury': 118359.02301, 'staking': 162808.49133, 'Fantom': 680024.40579}"
+1435,NEOPIN Pool,Dexes,Klaytn,['Klaytn'],"{'Polygon': 147051.06778, 'Klaytn': 3930182.57034}"
+1436,Inverse Finance FiRM,CDP,Ethereum,['Ethereum'],{'Ethereum': 1049257.78991}
+1437,mySwap,Dexes,Starknet,['Starknet'],{'Starknet': 764247.85191}
+1438,Aptin Finance,Lending,Aptos,['Aptos'],"{'Aptos-borrowed': 66032.3128, 'Aptos': 328824.34547, 'borrowed': 66032.3128}"
+1439,Proteo Defi,Farm,Elrond,['MultiversX'],"{'pool2': 0, 'MultiversX-pool2': 0, 'MultiversX': 4341173.17302}"
+1440,RAIDSHIFT Marketplace,Dexes,Tron,['Tron'],{'Tron': 217.13715}
+1441,OreoSwap,Dexes,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 411889.62561, 'Arbitrum': 1961948.31263, 'staking': 411889.62561}"
+1442,Y2K Finance,Derivatives,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 0, 'Arbitrum': 867145.56675, 'staking': 0}"
+1443,ABcDeFX,Dexes,Echelon,['Kava'],"{'Echelon': 0, 'Kava': 12010.36418, 'KCC': 2036.22842, 'MultiVAC': 650.01541, 'Fantom': 88.45313}"
+1444,Camel Farm,Farm,Arbitrum,['Arbitrum'],"{'pool2': 4.61736, 'Arbitrum-staking': 23.13693, 'Arbitrum': 34.78093, 'Arbitrum-pool2': 4.61736, 'staking': 23.13693}"
+1445,Optim Finance,Lending,Cardano,['Cardano'],{'Cardano': 3026636.6318}
+1446,Velvet.Capital,Indexes,Binance,['BSC'],{'BSC': 209770.53407}
+1447,RociFi V2,Lending,Polygon,['Polygon'],"{'Polygon': 25182.44984, 'Polygon-borrowed': 20896.1218, 'borrowed': 20896.1218}"
+1448,Contango,Derivatives,Ethereum,['Arbitrum'],"{'Ethereum': 0, 'Arbitrum': 94955.81408}"
+1449,Metronome Synth,Synthetics,Ethereum,['Ethereum'],{'Ethereum': 2602999.11367}
+1450,Bluefin,Derivatives,Arbitrum,['Arbitrum'],{'Arbitrum': 1273407.83483}
+1451,Harbor Protocol,CDP,Comdex,['Comdex'],{'Comdex': 1179518.01789}
+1452,KMex,Derivatives,Kava,['Kava'],"{'Kava': 478.19526, 'Kava-staking': 0.97238, 'staking': 0.97238}"
+1453,Garble.Money,Privacy,Tron,['Tron'],{'Tron': 8258.407}
+1454,Syrup Finance,Derivatives,Binance,['BSC'],"{'BSC': 2565.01697, 'BSC-staking': 50.07778, 'staking': 50.07778}"
+1455,MessinaOne,Cross Chain,Algorand,['Ethereum'],"{'Ethereum': 221031.99577, 'Cronos': 481.21312, 'Algorand': 33153.09709}"
+1456,Gyroscope Protocol,Dexes,Polygon,['Polygon'],{'Polygon': 91312.14183}
+1457,Solidly V2,Dexes,Ethereum,['Ethereum'],"{'Ethereum': 45386579.66822, 'Ethereum-staking': 84795993.75615, 'staking': 84795993.75615}"
+1458,NestFi,Derivatives,Binance,['Ethereum'],"{'BSC': 1060742.07907, 'Ethereum': 19468798.98508}"
+1459,cSwap,Dexes,Comdex,['Comdex'],{'Comdex': 1000802.19429}
+1460,Tegro Finance,Dexes,TON,['TON'],{'TON': 176708.15417}
+1461,Pulsar Swap,Dexes,Ethereum,['Ethereum'],"{'Ethereum': 433329.04435, 'Arbitrum': 215462.01419}"
+1462,Inbuilt Finance,Staking,Kava,['Kava'],{'Kava': 930.87939}
+1463,Decryption,Dexes,Tlchain,['Tlchain'],{'Tlchain': 16430361.25185}
+1464,Thena,Dexes,Binance,['BSC'],{'BSC': 99500988.94349}
+1465,Polaris Finance,Dexes,Aurora,['Aurora'],"{'Aurora-staking': 223475.50879, 'Aurora': 471221.36815, 'staking': 223475.50879}"
+1466,FootballManager,Gaming,Arbitrum,['Arbitrum'],{'Arbitrum': 0}
+1467,SugarSwap,Dexes,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 2.45112, 'Arbitrum': 13530.9461, 'staking': 2.45112}"
+1468,Waterfall DEX,Dexes,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 0, 'Arbitrum': 7017.38782, 'staking': 0}"
+1469,BayMax,Derivatives,Avalanche,['Avalanche'],"{'Avalanche': 453075.05367, 'Avalanche-staking': 156600.30976, 'staking': 156600.30976}"
+1470,Y2B Finance,Derivatives,Ethereum,['Ethereum'],{'Ethereum': 0}
+1471,BullionFX,Dexes,Ethereum,['Ethereum'],{'Ethereum': 53823.78497}
+1472,Lif3 Trade,Derivatives,Fantom,['Fantom'],"{'BSC': 273564.99138, 'Fantom': 1108120.6763}"
+1473,Deflex,Dexes,Algorand,['Algorand'],{'Algorand': 65254.71614}
+1474,Omax Swap,Dexes,Omax,['Omax'],{'Omax': 0.00436}
+1475,DeltaPrime,Leveraged Farming,Avalanche,['Avalanche'],{'Avalanche': 11532121.13234}
+1476,Tonic,Dexes,Near,['Near'],{'Near': 285174.11064}
+1477,Forthewin Network,Dexes,NEO,['NEO'],{'NEO': 1210939.37096}
+1478,MYSO,Lending,Ethereum,['Ethereum'],"{'Ethereum': 335280.69274, 'Arbitrum': 0}"
+1479,GumBall Protocol,NFT Marketplace,Arbitrum,['Arbitrum'],{'Arbitrum': 677983.24791}
+1480,DAM Finance,CDP,Ethereum,['Ethereum'],{'Ethereum': 245890.59207}
+1481,BrightSide,Dexes,Milkomeda A1,['Milkomeda A1'],{'Milkomeda A1': 2109.15368}
+1482,FlatCoin DEX,Farm,Tron,['Tron'],{'Tron': 126.17153}
+1483,Zeniq Swap,Dexes,Zeniq,['Zeniq'],{'Zeniq': 1305513.70732}
+1484,CALC,Services,Kujira,['Kujira'],{'Kujira': 40133.46281}
+1485,Black Whale,Yield,Kujira,['Kujira'],{'Kujira': 216364.10804}
+1486,FIN,Dexes,Kujira,['Kujira'],{'Kujira': 1673775.27106}
+1487,Bow,Yield,Kujira,['Kujira'],{'Kujira': 2407537.05989}
+1488,USK,CDP,Kujira,['Kujira'],{'Kujira': 2210218.95849}
+1489,Tethys Perpetual,Derivatives,Metis,['Metis'],"{'Metis': 389573.07915, 'Metis-staking': 1132112.90657, 'staking': 1132112.90657}"
+1490,xBacked,CDP,Algorand,['Algorand'],{'Algorand': 23474.94585}
+1491,Commodo,Lending,Comdex,['Comdex'],"{'Comdex': 133378.20757, 'Comdex-borrowed': 41919.97045, 'borrowed': 41919.97045}"
+1492,Metropolis,Dexes,Fantom,['Fantom'],{'Fantom': 17197.65753}
+1493,Doglands Swap,Dexes,Dogechain,['Dogechain'],{'Dogechain': 0}
+1494,FunDex,Dexes,Optimism,['Arbitrum'],"{'Optimism': 43472.65319, 'Kava': 120108.84104, 'Arbitrum': 135507.05167}"
+1495,Unlockd,Lending,Ethereum,['Ethereum'],"{'Ethereum': 197362.72722, 'Ethereum-borrowed': 33116.32597, 'borrowed': 33116.32597}"
+1496,ZKasino,Prediction Market,Binance,['BSC'],"{'BSC': 92436.51236, 'Polygon': 20952.54239, 'Fantom': 13181.1085}"
+1497,RubyDex,Derivatives,Arbitrum,['Arbitrum'],{'Arbitrum': 61622.80162}
+1498,Pine Protocol,NFT Lending,Ethereum,['Ethereum'],"{'Ethereum': 252888.57279, 'Ethereum-borrowed': 150986.16017, 'borrowed': 150986.16017}"
+1499,WYND DEX,Dexes,Juno,['Juno'],"{'Juno-staking': 4633308.27774, 'Juno': 4115793.18221, 'staking': 4633308.27774}"
+1500,Spice Finance,NFT Lending,Ethereum,['Ethereum'],{'Ethereum': 584011.00667}
+1501,Cap V4,Derivatives,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 6500863.56474, 'Arbitrum': 1324037.20496, 'staking': 6500863.56474}"
+1502,Zyberswap AMM,Dexes,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 4643539.70463, 'Arbitrum': 18748314.61447, 'staking': 4643539.70463}"
+1503,Cranium Exchange,Derivatives,Fantom,['Fantom'],"{'Fantom-staking': 0, 'staking': 0, 'Fantom': 156450.62334}"
+1504,Bitindi Dex,Dexes,Bitindi,['Bitindi'],{'Bitindi': 1430498.80666}
+1505,Obric,Dexes,Aptos,['Aptos'],{'Aptos': 8141.65897}
+1506,AdaSwap,Dexes,Milkomeda,['Milkomeda C1'],{'Milkomeda C1': 67963.93507}
+1507,Vela Exchange,Derivatives,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 18445910.05841, 'Arbitrum': 48703764.43425, 'staking': 18445910.05841}"
+1508,MAPO,Cross Chain,Binance,['BSC'],"{'BSC': 394.83476, 'Polygon': 369.48063}"
+1509,Perennial,Derivatives,Ethereum,['Arbitrum'],"{'Ethereum': 429578.22237, 'Arbitrum': 4778469.70993}"
+1510,Djed Stablecoin,CDP,Cardano,['Cardano'],{'Cardano': 11244703.36002}
+1511,Goledo,Lending,Conflux,['Conflux'],"{'pool2': 241803.16463, 'Conflux-pool2': 241803.16463, 'Conflux': 2079529.7083, 'Conflux-borrowed': 1571810.27003, 'borrowed': 1571810.27003, 'Conflux-staking': 809967.16907, 'staking': 809967.16907}"
+1512,Stargaze,NFT Marketplace,Stargaze,['Stargaze'],{'Stargaze': 27012.79258}
+1513,DPEX,Derivatives,Polygon,['Polygon'],{'Polygon': 57937.18979}
+1514,Caviar,NFT Marketplace,Ethereum,['Ethereum'],{'Ethereum': 421359.84293}
+1515,Libre Swap,Dexes,Libre,['Libre'],{'Libre': 2836761.10672}
+1516,Liqwid,Lending,Cardano,['Cardano'],{'Cardano': 7355965.15238}
+1517,SkullSwap V2,Dexes,Fantom,['Fantom'],{'Fantom': 228814.50057}
+1518,Flux Finance,Lending,Ethereum,['Ethereum'],"{'Ethereum': 28165694.76319, 'Ethereum-borrowed': 10860597.60798, 'borrowed': 10860597.60798}"
+1519,Umee,Lending,Umee,['Umee'],"{'Umee-borrowed': 2336519.71294, 'Ethereum': 654947.48284, 'Ethereum-borrowed': 10739.00311, 'borrowed': 2347258.71605, 'Umee': 7425788.46347}"
+1520,cantOHM,Reserve Currency,Canto,['Canto'],"{'Canto-staking': 54.04705, 'staking': 54.04705, 'Canto': 771.4932}"
+1521,Manifesto,Reserve Currency,Canto,['Canto'],"{'Canto-staking': 278.21983, 'staking': 278.21983, 'Canto': 0}"
+1522,Phezzan Protocol,Dexes,zkSync,['Kava'],"{'Kava': 1.046, 'zkSync': 0, 'offers': 1013, 'zkSync-offers': 1013}"
+1523,LendeXe Finance,Lending,Ethereum,['Ethereum'],"{'Ethereum': 316266.82572, 'Ethereum-borrowed': 155479.1776, 'borrowed': 155479.1776}"
+1524,LFGSwap Core,Dexes,CORE,['CORE'],{'CORE': 5174623.22055}
+1525,casinocronos,Dexes,Cronos,['Cronos'],"{'Cronos': 10277.56165, 'Cronos-staking': 0, 'staking': 0}"
+1526,Covo Finance,Derivatives,Polygon,['Polygon'],{'Polygon': 173140.01986}
+1527,Wonderly Finance,Algo-Stables,Arbitrum,['Arbitrum'],"{'pool2': 3842.47227, 'Fantom-staking': 0, 'Arbitrum-staking': 10022.49485, 'Arbitrum': 1301.90496, 'Fantom-pool2': 177.79538, 'Arbitrum-pool2': 3664.6769, 'Fantom': 477.2861, 'staking': 10022.49485}"
+1528,SolidLizard,Dexes,Arbitrum,['Arbitrum'],{'Arbitrum': 36984435.80298}
+1529,ZyberSwap Stableswap,Dexes,Arbitrum,['Arbitrum'],{'Arbitrum': 11540560.99592}
+1530,ShadowSwap,Dexes,CORE,['CORE'],{'CORE': 4748284.47736}
+1531,Clober,Dexes,Ethereum,['Ethereum'],"{'Ethereum': 598434.94484, 'Polygon': 39086.7547, 'Arbitrum': 11983.31611}"
+1532,Davos Protocol,CDP,Polygon,['Polygon'],{'Polygon': 586178.40868}
+1533,Parcl,Synthetics,Solana,['Solana'],{'Solana': 1009849.17226}
+1534,Megaton Finance,Dexes,TON,['TON'],{'TON': 13932341.09096}
+1535,Surfswap Stable AMM,Dexes,Kava,['Kava'],{'Kava': 4000.16843}
+1536,Bank of Cronos OHM,Reserve Currency,Cronos,['Cronos'],{'Cronos': 22650.30768}
+1537,Bank of Cronos Loans,Lending,Cronos,['Cronos'],{'Cronos': 353.4288}
+1538,Archimedes Finance,Leveraged Farming,Ethereum,['Ethereum'],{'Ethereum': 4202237.17827}
+1539,Grappa Finance,Options,Ethereum,['Ethereum'],{'Ethereum': 3.52173}
+1540,CoreSwap,Dexes,CORE,['CORE'],{'CORE': 6124.04388}
+1541,VeniceSwap,Dexes,Findora,['Findora'],{'Findora': 60985.98954}
+1542,Ashswap,Dexes,Elrond,['MultiversX'],"{'MultiversX-staking': 2392164.52814, 'MultiversX': 2409129.049, 'staking': 2392164.52814}"
+1543,Sharky Swap,Dexes,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 207653.05769, 'Arbitrum': 211008.86877, 'staking': 207653.05769}"
+1544,Lenen,Lending,Vision,['Vision'],"{'Vision': 1538133.15278, 'Vision-borrowed': 785375.80746, 'borrowed': 785375.80746}"
+1545,Starfish Finance,Services,Astar,['Astar'],"{'Astar': 1783522.81117, 'Astar-staking': 38609.76007, 'staking': 38609.76007}"
+1546,FlokiFi Locker,Launchpad,Ethereum,['Ethereum'],"{'Optimism': 70.64049, 'Cronos': 14620.23982, 'OKExChain': 0.019, 'Evmos': 0.01292, 'KCC': 1.31532, 'BSC': 1507558.8029, 'Dogechain': 126786.56695, 'Ethereum': 1823397.89635, 'Avalanche': 0.91031, 'Polygon': 59.39044, 'Arbitrum': 7491.14969, 'Fantom': 6851.7634}"
+1547,Bhavish Finance,Dexes,Polygon,['Polygon'],{'Polygon': 603.67475}
+1548,Zyberswap V3,Dexes,Arbitrum,['Arbitrum'],{'Arbitrum': 19115328.0774}
+1549,ArcherSwap,Dexes,CORE,['CORE'],{'CORE': 1667513.766}
+1550,OraiDEX,Dexes,Orai,['Oraichain'],{'Oraichain': 6799918.43922}
+1551,Timeswap V2,Lending,Polygon,['Polygon'],"{'Ethereum': 122793.13708, 'Polygon': 137274.12324}"
+1552,marginfi,Lending,Solana,['Solana'],{'Solana': 1102253.85816}
+1553,QuantumX Network,Services,Elrond,['MultiversX'],{'MultiversX': 323728.86736}
+1554,Cypher,Derivatives,Solana,['Solana'],{'Solana': 27995.68352}
+1555,Metavault Binary Options,Options,Ethereum,['Polygon'],{'Polygon': 225910.56825}
+1556,KapaSwap,Dexes,Kava,['Kava'],{'Kava': 2.08676}
+1557,Equilibre,Dexes,Kava,['Kava'],{'Kava': 24609918.60858}
+1558,ArbiSwap,Dexes,Arbitrum,['Arbitrum'],{'Arbitrum': 14337.61613}
+1559,NerveSwap,Dexes,Nuls,['Nuls'],{'Nuls': 1626964.6268}
+1560,Velocimeter V1,Dexes,Canto,['Canto'],"{'Canto-staking': 0, 'staking': 0, 'Canto': 243724.74628}"
+1561,Moret,Options,Polygon,['Polygon'],{'Polygon': 1558.85764}
+1562,Symmetry,Indexes,Solana,['Solana'],{'Solana': 730761.63281}
+1563,Cat in a Box,Lending,Ethereum,['Ethereum'],{'Ethereum': 5980455.3486}
+1564,BeamSwap Stable AMM,Dexes,Moonbeam,['Moonbeam'],{'Moonbeam': 155807.53887}
+1565,Rysk Finance,Options,Arbitrum,['Arbitrum'],{'Arbitrum': 758798.36329}
+1566,Streamflow,Payments,Solana,['Solana'],"{'Solana-vesting': 146900815.20677, 'vesting': 146900815.20677, 'Solana': 151453.98725}"
+1567,KyberSwap Elastic,Dexes,Ethereum,['Ethereum'],"{'Optimism': 7259953.31391, 'Cronos': 941.45497, 'BSC': 6811146.05696, 'Ethereum': 41566072.667, 'Avalanche': 11350796.33386, 'Polygon': 11374351.7233, 'Arbitrum': 10185935.44039, 'Fantom': 754016.07475}"
+1568,OasisSwap,Dexes,Arbitrum,['Arbitrum'],{'Arbitrum': 2225930.28504}
+1569,Fulcrom,Derivatives,Cronos,['Cronos'],{'Cronos': 2130850.4561}
+1570,DeDust,Dexes,TON,['TON'],{'TON': 385139.12806}
+1571,Maverick Protocol,Dexes,Ethereum,['Ethereum'],{'Ethereum': 9560920.69124}
+1572,SkullSwap V3,Dexes,Fantom,['Fantom'],{'Fantom': 435322.86424}
+1573,Onyx Protocol,Lending,Ethereum,['Ethereum'],"{'Ethereum': 9625920.08073, 'Ethereum-staking': 21317147.25831, 'Ethereum-borrowed': 5001098.97574, 'borrowed': 5001098.97574, 'staking': 21317147.25831}"
+1574,Proton Dex,Dexes,Arbitrum,['Proton'],{'Proton': 974592.0674}
+1575,Sterling Finance,Dexes,Arbitrum,['Arbitrum'],{'Arbitrum': 3156073.04588}
+1576,Mare Finance,Lending,Kava,['Kava'],"{'Kava': 24419156.15552, 'Kava-staking': 581431.86802, 'borrowed': 78229749.77181, 'staking': 581431.86802, 'Kava-borrowed': 78229749.77181}"
+1577,MyMetaTrader,Derivatives,Arbitrum,['Arbitrum'],{'Arbitrum': 293241.68679}
+1578,Lighter,Dexes,Arbitrum,['Arbitrum'],{'Arbitrum': 45659.33676}
+1579,LazyFi,Gaming,Near,['Near'],{'Near': 139.68629}
+1580,Uniwhale,Derivatives,Binance,['BSC'],{'BSC': 602207.89646}
+1581,Ruby.Exchange Stable,Dexes,Europa,['Europa'],{'Europa': 582717.22838}
+1582,ParaSpace APE Staking,Staking,Ethereum,['Ethereum'],{'Ethereum': 40205990.83353}
+1583,Numoen,Derivatives,Arbitrum,['Arbitrum'],"{'Celo': 611.68605, 'Arbitrum': 58138.45963}"
+1584,OSWAP Token,Yield,Obyte,['Obyte'],"{'Obyte': 133144.69482, 'Obyte-staking': 0, 'staking': 0}"
+1585,SnowSwap AMM,Dexes,Crab,['Crab'],{'Crab': 1150309.69172}
+1586,PonytaSwap,Dexes,Rangers,['Rangers'],{'Rangers': 141955.52046}
+1587,Alpaca Perpetual Futures Exchange,Derivatives,Binance,['BSC'],{'BSC': 1324849.8313}
+1588,Lunagens,Dexes,Binance,['Lung'],{'Lung': 17437.93577}
+1589,Spin Perps,Derivatives,Near,['Near'],{'Near': 96270.21467}
+1590,Spin DOV,Options Vault,Near,['Near'],{'Near': 40683.50424}
+1591,Morphex,Derivatives,Fantom,['Fantom'],"{'Fantom-staking': 1811414.40725, 'staking': 1811414.40725, 'Fantom': 2458327.6042}"
+1592,Paxo Finance,Lending,Polygon,['Polygon'],"{'Polygon': 65547.42269, 'Polygon-borrowed': 35659.11285, 'borrowed': 35659.11285}"
+1593,Velocimeter V2,Dexes,Canto,['Canto'],{'Canto': 14276191.54455}
+1594,UWU Protocol,CDP,Stacks,['Stacks'],{'Stacks': 91.2}
+1595,KoffeeSwap,Dexes,KCC,['KCC'],{'KCC': 372538.38494}
+1596,Finext Finance,Algo-Stables,Arbitrum,['Arbitrum'],{'Arbitrum': 240275.87928}
+1597,Alyx finance,Reserve Currency,Binance,['BSC'],"{'BSC': 2.73465, 'BSC-staking': 0, 'pool2': 329.08759, 'BSC-pool2': 329.08759, 'staking': 0}"
+1598,MetaCoin Swap,Dexes,Binance,['BSC'],{'BSC': 138710.37541}
+1599,Ramses Exchange,Dexes,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 11311006.00057, 'Arbitrum': 57968895.54609, 'staking': 11311006.00057}"
+1600,Alpaca Lending,Lending,Binance,['BSC'],"{'BSC': 58515885.41659, 'Fantom-borrowed': 1277692.82394, 'BSC-borrowed': 100876741.66265, 'borrowed': 102154434.48659, 'Fantom': 1729448.37508}"
+1601,Kleva Lend,Lending,Klaytn,['Klaytn'],"{'Klaytn': 32271424.99085, 'Klaytn-borrowed': 7751425.95677, 'borrowed': 7751425.95677}"
+1602,Kivach,Payments,Obyte,['Obyte'],{'Obyte': 1959.17926}
+1603,Dogewhale,Reserve Currency,Binance,['BSC'],{'BSC': 242515.20287}
+1604,Arbitrum Exchange,Dexes,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 900217.04855, 'Arbitrum': 23060724.71307, 'staking': 900217.04855}"
+1605,Factor,Indexes,Arbitrum,['Arbitrum'],"{'Arbitrum-staking': 1220072.28883, 'Arbitrum': 31218.8218, 'staking': 1220072.28883}"
+1606,OpenXswap,Dexes,Optimism,['Optimism'],"{'Optimism': 385943.25049, 'Optimism-staking': 319884.03117, 'staking': 319884.03117}"
+1607,Palma Swap,Dexes,CORE,['CORE'],"{'CORE-staking': 34843.63263, 'CORE': 22148.42488, 'staking': 34843.63263}"
